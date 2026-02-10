@@ -11,7 +11,7 @@ export interface SQPTrigger {
   answerVerbatim: string;
   markingSchemePoints: string[];
   year: string;
-  type: 'RTC' | 'Short' | 'Long' | 'Persona';
+  type: 'RTC' | 'Short' | 'Long' | 'Persona' | 'Compare';
 }
 
 export interface ChapterForensics {
