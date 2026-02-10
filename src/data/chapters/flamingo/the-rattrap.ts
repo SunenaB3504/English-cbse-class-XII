@@ -60,7 +60,7 @@ export const theRattrap: ChapterForensics = {
         "The power of 'acting as if' to catalyze change"
       ],
       year: "2023-24 | 5 Marks",
-      type: "Compare"
+      type: "Long"
     },
     {
       question: "Explain the metaphor of the world as a rattrap.",
