@@ -43,6 +43,33 @@ export const myMotherAtSixtySix: PoetryForensics = {
   ],
   triggers: [
     {
+      question: "Read the extract and answer:\n...I looked again at her, wan, pale\nas a late winter’s moon and felt that old\nfamiliar ache, my childhood’s fear,\nbut all I said was, see you soon, Amma,\nall I did was smile and smile and smile......\n\nWhat is the speaker's emotional state when looking at her mother, and what does the use of the word 'but' suggest in the line 'but all I said was...'?",
+      answerVerbatim: "The speaker is fearful and apprehensive, feeling an 'old familiar ache' and 'childhood's fear' rooted in past experiences of separation. The use of the word 'but' suggests a contrast between the speaker's internal emotional response (intense fear of loss) and her outward behaviour (smiling to reassure her mother).",
+      markingSchemePoints: [
+        "Emotional state: Fearful, apprehensive, nostalgic ache",
+        "Driven by a childhood fear of losing the mother",
+        "'But' suggests a contrast between internal fear and outward calm"
+      ],
+      year: "2023-24",
+      type: "RTC",
+      marks: 2,
+      aiExplanation: "Internally, Kamala Das is experiencing overwhelming dread; seeing her mother 'wan' and 'pale' triggers a primal childhood terror of losing her parent. However, the conjunction 'but' acts as a pivot from this terrifying internal reality to her forced external facade. She deliberately suppresses her panic and chooses to 'smile and smile and smile,' wearing a brave mask so that she does not transfer her anxiety onto her aging, fragile mother."
+    },
+    {
+      question: "Interpret the use of visual imagery by Kamala Das in her poem to depict the passage of time.",
+      answerVerbatim: "The image of her aging mother - ‘pale as a late winter’s moon,’ -- conveys the fragility and the inevitability of aging -- highlights the physical changes brought by time and evokes a sense of gentle, serene decline rather than abrupt decay. The image with the vivid, lively description of young trees sprinting and merry children spilling out of their homes --- contrasts sharply with her mother's stillness and silence --- enhances the sense of her mother's isolation in her old age / the relentless passage of time that spares no one -- life’s transient nature",
+      markingSchemePoints: [
+        "Aging mother ('pale as a late winter's moon') conveys fragility/inevitability",
+        "Highlights physical changes/gentle decline",
+        "'Young trees sprinting' / 'merry children' contrast with mother's stillness",
+        "Enhances sense of isolation/relentless passage of time"
+      ],
+      year: "2024-25",
+      type: "Short",
+      marks: 2,
+      aiExplanation: "Kamala Das uses stark contrasting visual imagery to represent the relentless march of time. Inside the car, the 'ashen', corpse-like face of the mother chillingly depicts the fragility and decay of old age. In brutal contrast, looking out the window reveals the explosive, dynamic energy of 'young trees sprinting' and 'merry children spilling' out of their homes. This juxtaposition emphasizes that time races forward, relentlessly pushing vitality into life while simultaneously accelerating the elderly towards death."
+    },
+    {
       question: "What is the significance of the image 'merry children spilling out of their homes'?",
       answerVerbatim: "The poet uses this image as a contrast to her mother's condition. While the mother represents decay, stillness, and the approach of death (sleeping with mouth open), the children represent the onset of life, energy, and the vitality of youth. It highlights the cycle of life.",
       markingSchemePoints: [
@@ -51,7 +78,9 @@ export const myMotherAtSixtySix: PoetryForensics = {
         "Juxtaposition of life and death/decay"
       ],
       year: "2024-25 | RTC",
-      type: "RTC"
+      type: "RTC",
+      marks: 1,
+      aiExplanation: "The poet intentionally uses the explosive word 'spilling' to denote a limitless, uncontainable burst of energy. This imagery serves as a sharp foil to her mother's terrifying stillness inside the car. The merry children represent the beginning of the human lifecycle, actively moving and growing, which heartbreakingly highlights the mother nearing her inevitable end."
     },
     {
       question: "Why does the poet compare her mother to a 'late winter's moon'?",
@@ -62,7 +91,25 @@ export const myMotherAtSixtySix: PoetryForensics = {
         "Fading strength corresponding to old age"
       ],
       year: "2025-26 | Short",
-      type: "Short"
+      type: "Short",
+      marks: 2,
+      aiExplanation: "A late winter's moon is characteristically obscured by fog and mist, appearing pale, weak, and devoid of the fiery radiance seen in summer. Similarly, the mother has reached her 'winter' years, losing her youth and vitality. She is fading away into frailty, just as the weak moon fades into the morning sky."
+    },
+    {
+      question: "Read the given extract and answer the questions:\n\n… I saw my mother,\nbeside me,\ndoze, open mouthed, her face\nashen like that\nof a corpse and realised with\npain\nthat she was as old as she\nlooked but soon\nput that thought away, and\nlooked out at Young Trees sprinting, the merry children spilling\nout of their homes…\n\nI. What does the imagery of the ‘ashen face’ of the mother suggest about her physical condition?\nII. The speaker’s use of the word 'realised' suggests that her awareness was _______ (delayed / expected / sudden).\nIII. How does the phrase ‘merry children spilling out of their homes’ contribute to the tone of the passage?\nIV. The primary theme highlighted in the extract is the _______ , as the narrator reflects on her mother’s frailty and aging.\nV. What can be inferred about the emotional state of the speaker in the extract?\na) Distracted by the liveliness of the surroundings\nb) Concerned about her mother’s discomfort\nc) Overwhelmed by a sense of anguish\nd) Preoccupied with thoughts about life experiences\nVI. All of the following are true for the extract EXCEPT –\na) The comparison to a ‘corpse’ highlights the speaker’s fear of losing her mother.\nb) The poet makes exclusive use of melancholic imagery in the given lines.\nc) The speaker’s internal conflict creates a relatable portrayal of human relationships.\nd) The universality of themes makes the lines relevant to the readers.",
+      answerVerbatim: "I. She is frail, aged, in a declining physical condition, vulnerable, weakening health, lacks vitality.\nII. sudden\nIII. It introduces a contrast of vitality, joy and exuberance against the sombre and reflective mood created by the imagery of the mother’s frailty.\nIV. certainty of mortality / inevitability of death / transient nature of life\nV. c) Overwhelmed by a sense of anguish\nVI. b) The poet makes exclusive use of melancholic imagery in the given lines.",
+      markingSchemePoints: [
+        "I - Frailty and declining physical condition",
+        "II - sudden",
+        "III - Introduces contrast of vitality against sombre mood",
+        "IV - Certainty of mortality / transient nature of life",
+        "V - Overwhelmed by a sense of anguish",
+        "VI - Exclusive use of melancholic imagery is FALSE"
+      ],
+      year: "2025-26",
+      type: "RTC",
+      marks: 6,
+      aiExplanation: "The extract sets up a stark contrast between life and death. The 'ashen face' of the mother serves as a grim reminder of mortality, triggering a 'sudden' realization of her impending death. To cope with this overwhelming anguish, the narrator consciously directs her attention outside to the 'merry children spilling out', representing the relentless flow of life and vitality. It is important to note that the poet uses both melancholic imagery (corpse) and vibrant imagery (sprinting trees), making option (b) in the final question incorrect."
     }
   ],
   rhymeScheme: 'Free Verse (Single continuous sentence)',

@@ -59,6 +59,19 @@ export const aThingOfBeauty: PoetryForensics = {
   ],
   triggers: [
     {
+      question: "Read the extract and answer:\nAnd such too is the grandeur of the dooms\nWe have imagined for the mighty dead;\nAll lovely tales that we have heard or read:\nAn endless fountain of immortal drink,\nPouring unto us from the heaven's brink.\n\nWhat theme is best represented by the 'endless fountain of immortal drink', and why is this an apt analogy for the tales of the mighty dead?",
+      answerVerbatim: "The theme represented is the immortality of art and literature. The analogy is apt because just as a fountain constantly pours forth water, the tales of the mighty dead pour forth endless inspiration and wisdom for the living. The term 'immortal drink' suggests that the stories are never-ending and have the power to nourish and sustain us.",
+      markingSchemePoints: [
+        "Theme: Immortality of art and literature",
+        "Analogy: Tales constantly pour forth inspiration and wisdom",
+        "Stories nourish and sustain us like water from a fountain"
+      ],
+      year: "2023-24",
+      type: "RTC",
+      marks: 2,
+      aiExplanation: "The tales of the 'mighty dead'—the heroes and ancestors whose sacrifices are legendary—are compared to an 'endless fountain' because their inspirational power never runs dry. Just like a fountain continuously produces water that sustains physical life, these beautiful, heroic stories continuously pour out of heaven to spiritually nourish and uplift humanity across generations. This reveals Keats's belief that literature and art grant immortality to human greatness."
+    },
+    {
       question: 'How does beauty provide us "a bower quiet"?',
       answerVerbatim: 'Beauty acts as a peaceful sanctuary that provides health and quiet breathing in a world of turmoil.',
       markingSchemePoints: [
@@ -67,7 +80,9 @@ export const aThingOfBeauty: PoetryForensics = {
         'Escape from despondence'
       ],
       year: 'CBSE 2024',
-      type: 'RTC'
+      type: 'RTC',
+      marks: 1,
+      aiExplanation: "In the poem's opening, Keats establishes that a true 'thing of beauty' is not a fleeting pleasure but a permanent refuge. It acts as a protective 'bower'—a shady, peaceful place under trees—where human beings can find restorative sleep and maintain physical and mental health amidst the suffering and darkness of the world."
     },
     {
       question: 'What is the "grandeur of the dooms" mentioned by Keats?',
@@ -78,7 +93,22 @@ export const aThingOfBeauty: PoetryForensics = {
         'Immortal fountain of stories'
       ],
       year: 'CBSE Sample Paper 2025',
-      type: 'Short'
+      type: 'Short',
+      marks: 2,
+      aiExplanation: "The 'grandeur of the dooms' specifically refers to the majestic, glorious destinies envisioned for the 'mighty dead'—the historical heroes and martyrs who performed noble deeds. Keats argues that the tales of such self-sacrifice and greatness possess an aesthetic and moral beauty so profound that they act as a continuous source of inspiration for humanity, much like an immortal fountain."
+    },
+    {
+      question: "Keats suggests that beauty has the power to connect us to the earth despite the struggles of human existence. In what ways does this connection impact our understanding of the 'dark spirits' he describes?",
+      answerVerbatim: "The connection to the earth forged by beauty helps to alleviate the 'dark spirits'. The presence of beauty serves as an anchor, grounding us and providing solace amidst the ‘despondence’ and struggles of life. It transforms our understanding of these struggles from overwhelming burdens into shared human experiences that can be brightened by moments of joy.",
+      markingSchemePoints: [
+        "Connection to the earth forged by beauty helps to alleviate 'dark spirits'",
+        "Presence of beauty serves as an anchor/grounding force",
+        "Transforms struggles from overwhelming burdens to shared experiences brightened by joy"
+      ],
+      year: "2025-26",
+      type: "Short",
+      marks: 2,
+      aiExplanation: "Keats acknowledges that human existence is fundamentally plagued by 'dark spirits'—depression, malice, and suffering. However, he argues that the 'flowery band' of nature's beauty physically and spiritually tethers us to the earth, preventing these dark spirits from causing complete despair. This connection acts as a crucial anchor: it doesn't eliminate suffering, but it makes endurance possible by continuously injecting moments of divine joy and 'quiet breathing' into our struggles."
     }
   ],
   distinctions: [

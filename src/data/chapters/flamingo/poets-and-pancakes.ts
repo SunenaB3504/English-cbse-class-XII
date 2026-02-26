@@ -52,6 +52,33 @@ export const poetsAndPancakes: ChapterForensics = {
   ],
   triggers: [
     {
+      question: "What does the story of Subbu's success in the film industry reveal about the importance of loyalty, creativity, and versatility in this field?",
+      answerVerbatim: "Subbu's success reveals that these are essential qualities for success. Subbu was extremely loyal, completely identifying himself with his principal and turning his entire creativity to his principal's advantage. He was also a highly versatile and creative person who could quickly come up with numerous alternatives. Additionally, his ability to work well with others made him an invaluable asset to Gemini Studios.",
+      markingSchemePoints: [
+        "Loyalty: Complete identification with principal",
+        "Creativity: Generating numerous alternatives",
+        "Versatility: Working well with all to become an invaluable asset"
+      ],
+      year: "2023-24",
+      type: "Short",
+      marks: 2,
+      aiExplanation: "Subbu proves that immense talent alone is rarely enough; the film industry demands a combination of soft skills. His 'loyalty' meant his boss (S.S. Vasan) trusted him explicitly. His 'versatility' meant he could solve any production problem thrown at him without ego. By directing his massive 'creativity' entirely toward his boss's vision rather than his own fame, Subbu became utterly indispensable, unlike the frustrated, ego-driven office boy."
+    },
+    {
+      question: "While both Sophie and Subbu share aspirations for success in their respective fields, they encounter different constraints and demonstrate distinct approaches in pursuing their dreams. Analyse this statement based on Subbu's approach.",
+      answerVerbatim: "Subbu aims to succeed in the film industry as a poet, actor, and contributor to Gemini Studios. While Subbu faces challenges, such as criticism for his perceived sycophancy and overshadowing of his literary achievements by his success in films, he navigates these obstacles with grace and humility. Subbu's dedication to his craft and ability to adapt to various roles within Gemini Studios reflect his unwavering commitment to his pursuits.",
+      markingSchemePoints: [
+        "Aims to succeed as poet/actor/contributor",
+        "Criticism for sycophancy/overshadowing literary achievements",
+        "Navigates obstacles with grace/humility",
+        "Adaptation reflects unwavering commitment"
+      ],
+      year: "2024-25",
+      type: "Compare",
+      marks: 5,
+      aiExplanation: "This comparative question demands you contrast how two different characters handle their ambitions. Subbu possesses genuine talent and proves his worth through hard work, adaptability, and unwavering loyalty. Even when faced with the cynical environment of the film industry—and the active hatred of the 'office boy'—Subbu remains cheerful and useful. His dreams are tethered to reality and achieved through 'grace and humility,' making his success tangible, unlike Sophie's pure escapism."
+    },
+    {
       question: "Why was Stephen Spender's visit to Gemini Studios considered a 'baffling mystery'?",
       answerVerbatim: "The Boss might have known Spender's identity, but to the others, he was a poet whose accent was impenetrable and whose presence made no sense in a place that made simple Tamil films. It was only years later the author realized the visit was ideological—related to the anti-Communist movement.",
       markingSchemePoints: [
@@ -60,7 +87,9 @@ export const poetsAndPancakes: ChapterForensics = {
         "Hidden anti-Communist agenda of the Boss"
       ],
       year: "2024-25 | SQP",
-      type: "Short"
+      type: "Short",
+      marks: 2,
+      aiExplanation: "The mystery stems from sheer incongruity. Gemini Studios made populist Tamil entertainment; Spender was a highbrow English poet. Furthermore, a massive linguistic barrier (his accent) prevented the staff from understanding a single word he said. It was only later revealed to be a covert Cold War political move by the anti-Communist Boss."
     },
     {
       question: "Analyze the character of Kothamangalam Subbu as a 'No. 2' in Gemini Studios.",
@@ -71,7 +100,9 @@ export const poetsAndPancakes: ChapterForensics = {
         "Sycophancy as a survival mechanism in the industry"
       ],
       year: "2025-26 | 5 Marks",
-      type: "Long"
+      type: "Long",
+      marks: 5,
+      aiExplanation: "Subbu represents the ultimate 'company man' in a creative industry. His greatest strength is his endless fountain of creative alternatives and his unshakeable cheerfulness when around the Boss. While his versatility made him indispensable to the workings of Gemini, this exact proximity to power made the lower-level staff, like the office boy, despise him as a sycophant."
     }
   ],
   distinctions: [

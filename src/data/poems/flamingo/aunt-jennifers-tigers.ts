@@ -62,6 +62,46 @@ export const auntJennifersTigers: PoetryForensics = {
   ],
   triggers: [
     {
+      question: "The different portrayals of women in the texts 'Aunt Jennifer's Tigers', 'Going Places', 'Lost Spring', and 'My Mother at Sixty-six', offer insights into the experiences of women in society.\nCompose a draft addressing your peers, sharing the ways these portrayals highlight the diversity of the female experience and the importance of understanding each individual woman's challenges. Reference three of these texts.",
+      answerVerbatim: "Good morning, everyone. As I analysed the allotted texts, I noticed varied insights into women's experiences. Aunt Jennifer was portrayed as a victim of patriarchy, constrained by societal norms and unable to attain freedom. In contrast, Sophie in 'Going Places' was ambitious and determined to break free, refusing to be limited by gender, though her mother had sacrificed her individuality. In 'Lost Spring,' women showed resilience in the face of poverty and caste constraints, making the best of their situation. These diverse portrayals—from victimhood to resilience—teach us that women are not a uniform group but unique individuals. Thank you.",
+      markingSchemePoints: [
+        "Aunt Jennifer: Victim of patriarchy, constrained by society",
+        "Going Places (Sophie): Ambitious and determined to break free",
+        "Lost Spring: Resilient in the face of severe poverty",
+        "Conclusion: Recognizing diverse experiences rather than sweeping judgments"
+      ],
+      year: "2023-24",
+      type: "Compare",
+      marks: 5,
+      aiExplanation: "This comparative long answer demands an insightful synthesis of multiple leading female characters. By analyzing Aunt Jennifer's crushing domestic oppression, Sophie's desperate romantic ambitions, and the raw survival resilience of the women in 'Lost Spring', we see a vast spectrum of female experiences. They each face unique, distinct struggles—marital control, economic poverty, or societal expectations—proving that 'women's issues' are deeply complex and individualistic, requiring empathy tailored to each specific situation."
+    },
+    {
+      question: "How might the message of the poem, 'Aunt Jennifer’s Tigers' be different, if the following last four lines were omitted?\n\nWhen Aunt is dead, her terrified hands will lie\nStill ringed with ordeals she was mastered by.\nThe tigers in the panel that she made\nWill go on prancing, proud and unafraid.",
+      answerVerbatim: "If the last four lines were omitted, the poem would have a more sombre tone. Without the image of the tigers continuing to prance, the poem would end on a note of despair, with Aunt Jennifer's hands still ringed with the ordeals she was mastered by. The message of the poem would refer to the oppression and suffering of women, without any hope for liberation.",
+      markingSchemePoints: [
+        "Poem would have a more sombre tone ending on a note of despair",
+        "No image of tigers continuing to prance",
+        "Message of oppression without hope for liberation"
+      ],
+      year: "2023-24",
+      type: "Short",
+      marks: 2,
+      aiExplanation: "The final four lines act as the poem's salvation. They introduce the concept of the immortality of art. Even though Aunt Jennifer's physical body is dead and 'mastered' by her marriage ring, her majestic tigers live on, completely untouchable by patriarchal authority. Removing these lines would strip the poem of its only sliver of triumph, leaving a purely tragic narrative of a woman broken and destroyed by domestic oppression."
+    },
+    {
+      question: "Analyse the poems, A Roadside Stand and Aunt Jennifer's Tigers for the theme of inequality and its impact on the bearers.",
+      answerVerbatim: "A Roadside Stand focuses on the economic disparities between rural and urban areas. Aunt Jennifer's Tigers delves into the gender-based inequalities within marriage and society. Both poems highlight the struggles faced by individuals marginalized by socioeconomic and gender divisions.",
+      markingSchemePoints: [
+        "A Roadside Stand: Economic disparities (Rural vs Urban)",
+        "Aunt Jennifer's Tigers: Gender-based inequality in marriage",
+        "Commonality: Marginalization and struggle of the bearers"
+      ],
+      year: "2024-25",
+      type: "Compare",
+      marks: 5,
+      aiExplanation: "This comparative question contrasts two distinct forms of inequality. In 'A Roadside Stand', the inequality is socio-economic: the rural poor are economically paralyzed while the urban rich speed by in 'polished traffic.' In 'Aunt Jennifer's Tigers', the inequality is gender-based: Aunt Jennifer's entire identity and physical vitality are crushed under the 'massive weight' of patriarchal possession. However, both sets of 'bearers' experience a profound loss of agency and resort to silent, desperate longing."
+    },
+    {
       question: 'Why does Aunt Jennifer find the ivory needle hard to pull?',
       answerVerbatim: 'Because she is physically and mentally exhausted by the "massive weight" of her husband’s authority and the constraints of her marriage.',
       markingSchemePoints: [
@@ -69,8 +109,10 @@ export const auntJennifersTigers: PoetryForensics = {
         'Metaphorical weight of the ring',
         'Loss of individual strength'
       ],
-      year: 'CBSE 2024',
-      type: 'RTC'
+      year: '2024-25 | RTC',
+      type: 'RTC',
+      marks: 1,
+      aiExplanation: "The 'massive weight' is entirely metaphorical and psychological. It represents the crushing, oppressive demands of Aunt Jennifer's patriarchal marriage. Years of submission and fear have robbed her of physical vitality and confidence, making even the literal action of pulling a light ivory needle a massive, exhausting struggle."
     },
     {
       question: 'How do the "tigers" contrast with Aunt Jennifer’s personality?',
@@ -80,8 +122,26 @@ export const auntJennifersTigers: PoetryForensics = {
         'Active vs. Passive',
         'Eternal vs. Mortal'
       ],
-      year: 'CBSE Sample Paper 2025',
-      type: 'Short'
+      year: '2025-26 | Short',
+      type: 'Short',
+      marks: 2,
+      aiExplanation: "The tigers act as Aunt Jennifer's psychological foil. While she is frail, fearful of her husband, and trapped by her wedding band, her embroidered tigers are 'proud and unafraid,' pacing with 'chivalric certainty.' They represent the fierce, unshackled spirit of freedom and autonomy that she secretly desires but can never attain in her own life."
+    },
+    {
+      question: "Read the given extract and answer the questions:\n\nWhen Aunt is dead, her terrified hands will lie\nStill ringed with ordeals she was mastered by.\nThe tigers in the panel that she made\nWill go on prancing, proud and unafraid\n\nI What does the phrase ‘terrified hands’ suggest about Aunt’s life?\nII The tigers’ proud and playful movements reflect ______.\nIII Examine briefly how the tigers in the panel contrast with Aunt’s life experiences.\nIV. The phrase ‘still ringed’ refers to both the literal ______ (shape of the embroidery panel / wedding band on her finger) and the figurative ‘ring’ of constraints and ordeals imposed by her marriage.\nV. If a student were to interpret the word ‘prancing’ in a real-world context, which of the following would it best represent?\na) An employee working under the pressure of deadlines.\nb) A soldier standing firm and ready for battle at the frontier.\nc) A child playing freely in a park, unburdened by responsibilities.\nd) A bird trapped in a cage, longing to be free and fly high.\nVI. What does the poet imply about the art in the line ‘The tigers in the panel that she made will go on prancing’?\na) Art is a timeless expression that outlives its creator, continuing to embody their spirit and desires.\nb) The tigers symbolise Aunt Jennifer’s fleeting empowerment, which will fade over time.\nc) The panel is a temporary escape for Aunt Jennifer...\nd) The permanence of the tigers...",
+      answerVerbatim: "I. The phrase suggests that Aunt's life has been filled with struggles shaped by fear, anxiety, and oppression.\nII. the enduring power of Aunt Jennifer’s creative spirit, even after her death\nIII. The tigers in the panel are bold, fearless, and free, symbolising strength, courage, and confidence. In contrast, Aunt's life is marked by fear, struggle, and oppression.\nIV. wedding band on her finger\nV. c) A child playing freely in a park, unburdened by responsibilities.\nVI. a) Art is a timeless expression that outlives its creator, continuing to embody their spirit and desires.",
+      markingSchemePoints: [
+        "I - Life filled with struggles shaped by fear/oppression",
+        "II - enduring power of Aunt Jennifer's creative spirit",
+        "III - Tigers bold and free, Aunt fearful and oppressed",
+        "IV - wedding band on her finger",
+        "V - c) A child playing freely in a park",
+        "VI - a) Art is a timeless expression that outlives its creator"
+      ],
+      year: "2025-26",
+      type: "RTC",
+      marks: 6,
+      aiExplanation: "The final stanza of the poem contrasts the mortality and lifelong subjugation of Aunt Jennifer with the immortality and freedom of her art. Even after death, her hands remain physically 'ringed' by her wedding band, a stark symbol of her patriarchal oppression. However, the tigers she embroidered will eternally continue to 'prance', preserving her repressed inner spirit of fearlessness and freedom."
     }
   ],
   distinctions: [

@@ -51,6 +51,32 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
   ],
   triggers: [
     {
+      question: "Read the extract and answer:\nClimate change is one of the most hotly contested environmental debates... Either way, Antarctica is a crucial element in this debate—not just because it’s the only place in the world, which has never sustained a human population and therefore remains relatively ‘pristine’ in this respect; but more importantly, because it holds in its ice-cores half-million-year-old carbon records...\n\nHow does the absence of a human population in Antarctica make it significant in the climate change debate, and why is the analogy of a 'time machine' appropriate for its carbon records?",
+      answerVerbatim: "The absence of a human population makes Antarctica a pristine environment, unaffected by the same levels of human impact as other areas, making it a critical reference point. The analogy of a time machine is appropriate because, just like a time machine would allow us to observe past events, the ancient carbon records trapped in its ice allow us to observe past atmospheric and climate conditions.",
+      markingSchemePoints: [
+        "Pristine environment without human impact serves as a vital reference",
+        "Carbon records allow observation of past climates",
+        "Acts exactly like a time machine for atmospheric conditions"
+      ],
+      year: "2023-24",
+      type: "RTC",
+      marks: 2,
+      aiExplanation: "Antarctica is described as 'pristine' precisely because no massive human civilization has been there to pollute it, making it the perfect 'control group' to measure global environmental changes against. Furthermore, the half-million-year-old carbon records in its ice act as a literal time machine—scientists can extract these ice cores and perfectly analyze the exact atmospheric conditions from hundreds of thousands of years ago, giving crucial context to predict future global warming."
+    },
+    {
+      question: "To visit Antarctica now is to be a part of that history... When you think about all that can happen in a million years, it can get pretty mind-boggling. How does the author imply the role of geological knowledge in understanding the Earth's past and potential future changes?",
+      answerVerbatim: "By stating 'To visit Antarctica now is to be a part of that history', the author implies that understanding geological knowledge, such as the formation of the Himalayas or the drifting of South America, is essential for grasping the Earth's past and predicting its future.",
+      markingSchemePoints: [
+        "Geological knowledge is essential for grasping the Earth's past",
+        "Tectonic shifts (Himalayas, South America) altered climate",
+        "Understanding past helps predict future environmental changes"
+      ],
+      year: "2024-25",
+      type: "RTC",
+      marks: 1,
+      aiExplanation: "The author stresses that the massive, slow collisions of tectonic plates over millions of years (like India jamming into Asia) drastically altered the global climate. By studying these monumental past shifts recorded in Antarctica's geology, scientists can better predict how current climate changes might similarly reshape the Earth's future."
+    },
+    {
       question: 'Why is Antarctica the place to go to understand the Earth’s past?',
       answerVerbatim: 'Because it holds in its ice-cores half-million-year-old carbon records trapped in its layers of ice.',
       markingSchemePoints: [
@@ -58,8 +84,10 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
         'Pristine environment (unaffected by humans)',
         'Evidence of Gondwana'
       ],
-      year: 'CBSE 2024',
-      type: 'Short'
+      year: '2024-25 | Short',
+      type: 'Short',
+      marks: 2,
+      aiExplanation: "Antarctica is described as a 'geological time capsule.' Because it has never sustained a human population, it remains pristine and largely unaltered by industrial civilization. More importantly, its deep ice cores trap ancient carbon records from half a million years ago, allowing scientists to literally study the atmosphere of the past to predict the climate of the future."
     },
     {
       question: 'What is the significance of "Students on Ice"?',
@@ -69,8 +97,24 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
         'First-hand witness to climate change',
         'Epiphany at a young age'
       ],
-      year: 'CBSE 2023',
-      type: 'Short'
+      year: '2025-26 | Short',
+      type: 'Short',
+      marks: 2,
+      aiExplanation: "The 'Students on Ice' program shifts the focus of Antarctic expeditions from wealthy, thrill-seeking tourists to impressionable high school students. Geoff Green believes that by exposing teenagers directly to collapsing ice shelves and melting glaciers, they will experience a profound, life-altering epiphany. These students, as the 'future policy makers' of the world, are the ones who actually need to understand the urgency of the climate crisis in order to save the planet."
+    },
+    {
+      question: "Imagine you are Tishani Doshi, the narrator of ‘Journey to the End of the Earth.’ Write a blog post about your experience in Antarctica, focusing on the profound impact of the environment on your understanding of the Earth’s past and future.\nYou may begin like this:\nStanding on the icy expanse of Antarctica, I was struck by...",
+      answerVerbatim: "Standing on the icy expanse of Antarctica, I was struck by the sheer scale of the landscape and the profound silence that enveloped me. This pristine environment made me comprehend the Earth's history in a way books never could. Observing the delicate ecosystem and the rapid melting of glaciers served as a stark warning about climate change... We must recognise our responsibility to protect this crucial part of our planet...",
+      markingSchemePoints: [
+        "Awe at the sheer scale/profound silence of Antarctica",
+        "Comprehension of Earth's history beyond books",
+        "Observation of delicate ecosystem / rapid melting",
+        "Stark warning about climate change / call for responsibility"
+      ],
+      year: "2025-26",
+      type: "Long",
+      marks: 5,
+      aiExplanation: "In a blog post format, the author must blend immediate sensory shock with deep geological reflection. Tishani Doshi describes Antarctica not merely as a cold destination, but as a living time machine holding the carbon records of half a million years. The physical reality of witnessing collapsing ice shelves forcefully transforms intellectual knowledge of global warming into a terrifying, urgent emotional reality, highlighting humanity's devastating impact on the planet's future."
     }
   ],
   distinctions: [

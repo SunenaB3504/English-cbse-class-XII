@@ -45,6 +45,19 @@ export const deepWater: ChapterForensics = {
   ],
   triggers: [
     {
+      question: "Douglas uses sensory details to create a vivid image of the unfortunate experience in the pool. What might be the impact on the reader if the narration were more informative than sensory?",
+      answerVerbatim: "If more informative than sensory, the impact on the reader would likely be less emotional and engaging as sensory details help readers connect with the experience being described on a deeper level. They allow readers to visualize the scene in their minds and feel like they are a part of it. Even though informative details may provide more factual information but can sometimes feel detached and impersonal, leaving readers feeling less connected to the story.",
+      markingSchemePoints: [
+        "Less emotional and engaging",
+        "Sensory details help readers connect deeply",
+        "Informative details can feel detached and impersonal"
+      ],
+      year: "2023-24",
+      type: "Short",
+      marks: 2,
+      aiExplanation: "Sensory details—describing the physical feeling of suffocation, the sight of yellow water, the sheer terror in his chest—force the reader to vicariously experience Douglas's panic. If the account were purely informative (e.g., 'I sank for three minutes, inhaled water, and passed out'), it would read like a clinical police report. Informative writing conveys facts but lacks emotional resonance; sensory writing ensures the reader feels the primal terror of near-drowning, thereby making his eventual triumph over that fear much more impactful."
+    },
+    {
       question: "Explain the 'systematic' approach Douglas took to overcome his fear.",
       answerVerbatim: "He hired an instructor who put a belt around him and used a rope through a pulley. For three months, he practiced exhaling underwater and inhaling above. The instructor built a swimmer 'piece by piece', and only when each part was perfect did he put them together into an integrated whole.",
       markingSchemePoints: [
@@ -52,8 +65,10 @@ export const deepWater: ChapterForensics = {
         "Isolation of skills (breathing, kicking)",
         "Gradual integration of parts into a whole"
       ],
-      year: "SQP 2024-25",
-      type: "Short"
+      year: "2024-25 | Short",
+      type: "Short",
+      marks: 2,
+      aiExplanation: "Douglas eradicated his phobia through methodical, sheer determination. First, he hired a professional instructor who 'built a swimmer piece by piece' using a belt and pulley system in the pool to ensure safety. Over months, he learned to coordinate his breathing and his limbs. This systematic unlearning of fear allowed his brain to logically internalize safety before he eventually tested himself in open water."
     },
     {
       question: "Analyze Douglas's experience in the light of Roosevelt's quote on fear.",
@@ -63,8 +78,24 @@ export const deepWater: ChapterForensics = {
         "Psychological insight from near-drowning",
         "Universal application of Roosevelt's philosophy"
       ],
-      year: "2025-26 | 5 Marks",
-      type: "Long"
+      year: "2025-26 | Long",
+      type: "Long",
+      marks: 5,
+      aiExplanation: "The near-drowning left Douglas with a profound philosophical realization: the physiological act of dying is peaceful (as he experienced when he finally blacked out in the pool), and the true agony lies solely in the *fear* of death. By surviving both the terror of drowning and the terror of anticipating it, he internalizes FDR's maxim that 'All we have to fear is fear itself,' emerging with an intensified, fierce desire to live."
+    },
+    {
+      question: "What lesson can individuals learn from Douglas’s experience in overcoming his fear of water?",
+      answerVerbatim: "Individuals can learn that fear can be overcome through perseverance, determination, and gradual exposure to the source of fear. Douglas’s experience teaches that facing challenges step by step, with proper guidance and practice, allows one to conquer even the most deep-seated fears, leading to personal growth and freedom.",
+      markingSchemePoints: [
+        "Fear can be overcome through perseverance and determination",
+        "Gradual exposure to the source of fear",
+        "Facing challenges step by step with proper guidance",
+        "Conquering fears leads to personal growth and freedom"
+      ],
+      year: "2025-26",
+      type: "Short",
+      marks: 2,
+      aiExplanation: "Douglas's journey is a masterclass in systematic desensitization. Instead of relying on sheer willpower, he strategically deconstructs his terror. By hiring an instructor, using a safety belt/pulley, and practicing repeatedly over months, he proves that paralyzing psychological trauma can be dismantled 'piece by piece.' The ultimate lesson is that consistent, structured determination—coupled with confronting the fear head-on—results in profound personal liberation."
     }
   ],
   distinctions: [

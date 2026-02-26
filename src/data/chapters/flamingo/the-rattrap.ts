@@ -52,6 +52,33 @@ export const theRattrap: ChapterForensics = {
   ],
   triggers: [
     {
+      question: "How does the setting of the remote forest location in 'The Rattrap' contribute to the overall tone and mood of the story?",
+      answerVerbatim: "Serves as a significant backdrop for the events that unfold in the story... creates a sense of isolation and desolation, emphasizing the loneliness and despair that the peddler experiences... the harsh winter conditions and the barren landscape add to the overall tone of melancholy and hopelessness... the forest also represents the metaphorical wilderness of the human soul, highlighting the struggles and temptations that people face in their journey through life.",
+      markingSchemePoints: [
+        "Creates a sense of isolation and desolation",
+        "Harsh winter conditions add to melancholy and hopelessness",
+        "Metaphorical wilderness of the human soul (temptations)"
+      ],
+      year: "2023-24",
+      type: "Short",
+      marks: 2,
+      aiExplanation: "The setting mirrors the internal state of the peddler. Physically, the dense, dark, snow-covered forest trap leaves him helplessly walking in circles, exhausted and freezing. Emotionally, it reflects his bleak, isolated existence on the fringes of society. Ultimately, the forest operates as a psychological 'rattrap' itself—a direct consequence of his temptation to steal the crofter's thirty kronor, thereby heightening the narrative's grim, claustrophobic mood."
+    },
+    {
+      question: "Explain how the rattrap symbolises the dual aspects of human nature.",
+      answerVerbatim: "Dual – The tendency towards greed and deceit - society, driven by wealth and gain, ensnares individuals, reducing their existence to a constant struggle to escape from materialistic enticements. The potential for redemption through empathy and kindness –kindness and trust by the ironmaster’s daughter, Edla, inspires the peddlar to reclaim his essential humanity and escape the identity of a thief - signified by his decision to return the stolen money and leaving a note explaining his thoughts about the world being a rattrap.",
+      markingSchemePoints: [
+        "Tendency towards greed and deceit",
+        "Society driven by wealth/gain ensnares individuals",
+        "Potential for redemption through empathy/kindness",
+        "Trust inspires reclaiming essential humanity"
+      ],
+      year: "2024-25",
+      type: "Short",
+      marks: 2,
+      aiExplanation: "The rattrap serves as a powerful dual symbol. On the dark side, it represents human greed—how the 'bait' of material wealth easily traps people in cycles of deceit and misery. On the bright side, the peddler's ultimate escape from this trap symbolizes the human capacity for redemption, proving that genuine empathy and kindness can reawaken a person's fundamental goodness and free them from their self-made prisons."
+    },
+    {
       question: "How does Edla's treatment of the peddler differ from her father's?",
       answerVerbatim: "The ironmaster views him through the lens of utility and social status (old comrade vs. intruder). Edla, however, sees his fear and humanity; she treats him 'as if he was a real captain,' allowing him to rise to that dignity. Her kindness is unconditional, regardless of his true identity.",
       markingSchemePoints: [
@@ -60,18 +87,25 @@ export const theRattrap: ChapterForensics = {
         "The power of 'acting as if' to catalyze change"
       ],
       year: "2023-24 | 5 Marks",
-      type: "Long"
+      type: "Long",
+      marks: 5,
+      aiExplanation: "The ironmaster's hospitality is entirely conditional, based upon his mistaken belief that the peddler is an old regiment comrade. Upon discovering the truth, his hospitality instantly turns into anger and threats. Conversely, Edla's treatment is rooted in profound empathy. Even after learning the peddler is a vagabond and a thief, she insists on treating him with the honor promised to him. It is this unconditional, status-blind kindness that ultimately empowers the peddler to redeem himself."
     },
     {
-      question: "Explain the metaphor of the world as a rattrap.",
-      answerVerbatim: "The whole world is nothing but a big rattrap. It exists only to set baits for people. It offers riches and joys, shelter and food, heat and clothing, exactly as the rattrap offers cheese and pork—and as soon as anyone lets himself be tempted to touch the bait, the rattrap closes on him.",
+      question: "Read the given extract and answer the questions:\n\nShe said this in such a friendly manner that the rattrap peddler must have felt confidence in her.\n‘It would never have occurred to me that you would bother with me yourself, miss,’ he said. ‘I will come at once.’\nHe accepted the fur coat, which the valet handed him with a deep bow, threw it over his rags, and followed the young lady out to the carriage, without granting the astonished blacksmiths so much as a glance.\nBut while he was riding up to the manor house he had evil forebodings.\n“Why the devil did I take that fellow’s money?” he thought. “Now I am sitting in the trap and will never get out of it.”\n\nI. Which of the following best reflect the 'friendly manner' Edla exhibits toward the rattrap peddler as referred to in the extract?\n1. Pay a compliment\n2. Show kindness\n3. Provide financial support\n4. Be respectful\n5. Speak in an excited tone\nSelect the most suitable option.\nA. 1 and 5\nB. 2 and 4\nC. 1, 2 and 3\nD. 3, 4 and 5\nII. The peddler threw the fur coat over his rags and followed Edla out to the carriage, ______ (enthusiastically / silently / reluctantly).\nIII. How did the peddler feel toward Edla after accepting the fur coat and making his statement?\nA. He decided to humour her gesture.\nB. He felt obligated to trust her kindness.\nC. He remained unsure about her true intentions.\nD. He recognised and appreciated her compassion.\nIV. What might have been the most likely reason the blacksmiths were astonished when the peddler accepted the coat and left with Edla?\nV. Justify that guilt was the primary cause of the peddler's sense of evil foreboding, based on the information in the extract?\nVI. When the peddler says, \"…I will never get out,\" his statement stems from his guilt over stealing ‘that fellow’s’ money and his fear that _______ .",
+      answerVerbatim: "I. B) 2 and 4\nII. silently\nIII. D) He recognised and appreciated her compassion.\nIV. Because the peddler, a poor vagabond in rags, was treated with respect and generosity by Edla, which was an unusual gesture of kindness for someone of his status.\nV. Because his thoughts explicitly reveal regret and anxiety about stealing the ‘fellow’s’ money / show that his guilt over the theft is weighing heavily on him.\nVI. …Edla’s kindness and the situation at the manor house might lead to his exposure as a thief",
       markingSchemePoints: [
-        "Worldly luxuries as 'bait'",
-        "The trap of greed and temptation",
-        "Inevitability of the fall for the tempted"
+        "I - B) 2 and 4",
+        "II - silently",
+        "III - D) He recognised and appreciated her compassion",
+        "IV - Astonished that a poor vagabond was treated with respect and generosity",
+        "V - Thoughts reveal regret and anxiety about stealing",
+        "VI - Situation at the manor house might lead to exposure as a thief"
       ],
-      year: "Verbatim SQP 2025-26",
-      type: "Long"
+      year: "2025-26",
+      type: "RTC",
+      marks: 6,
+      aiExplanation: "Edla's genuine kindness immediately disarms the peddler, overriding his initial refusal. However, while traveling to the manor, his past actions haunt him. He realizes that the stolen thirty kronor was the 'bait' and, by accepting it, he has walked straight into a trap—the very philosophy he preached. The dread he feels is the psychological terror of exposure: he knows that surrounding himself with wealthy, respectable people at the manor house drastically increases his chances of being caught for his crime."
     }
   ],
   distinctions: [

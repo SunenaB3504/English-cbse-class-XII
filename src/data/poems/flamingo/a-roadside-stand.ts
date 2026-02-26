@@ -64,6 +64,31 @@ export const aRoadsideStand: PoetryForensics = {
   ],
   triggers: [
     {
+      question: "Select the phrase that suggests the following: The so-called aids are not offered out of genuine care or consent but are imposed in a controlling and perhaps unwelcome manner.",
+      answerVerbatim: "enforcing benefits",
+      markingSchemePoints: [
+        "Identification of the oxymoron 'enforcing benefits'",
+        "Recognition of imposed, non-consensual help"
+      ],
+      year: "2024-25",
+      type: "RTC",
+      marks: 1,
+      aiExplanation: "The phrase 'enforcing benefits' is a powerful oxymoron constructed by Frost. A 'benefit' is supposedly helpful, but 'enforcing' it strips the rural poor of their agency and consent. It highlights how urban politicians impose 'solutions' that serve their own agendas rather than actually addressing the farmers' true needs."
+    },
+    {
+      question: "Analyse the poems, A Roadside Stand and Aunt Jennifer's Tigers for the theme of inequality and its impact on the bearers.",
+      answerVerbatim: "A Roadside Stand focuses on the economic disparities between rural and urban areas. Aunt Jennifer's Tigers delves into the gender-based inequalities within marriage and society. Both poems highlight the struggles faced by individuals marginalized by socioeconomic and gender divisions.",
+      markingSchemePoints: [
+        "A Roadside Stand: Economic disparities (Rural vs Urban)",
+        "Aunt Jennifer's Tigers: Gender-based inequality in marriage",
+        "Commonality: Marginalization and struggle of the bearers"
+      ],
+      year: "2024-25",
+      type: "Compare",
+      marks: 5,
+      aiExplanation: "This comparative question contrasts two distinct forms of inequality. In 'A Roadside Stand', the inequality is socio-economic: the rural poor are economically paralyzed while the urban rich speed by in 'polished traffic.' In 'Aunt Jennifer's Tigers', the inequality is gender-based: Aunt Jennifer's entire identity and physical vitality are crushed under the 'massive weight' of patriarchal possession. However, both sets of 'bearers' experience a profound loss of agency and resort to silent, desperate longing."
+    },
+    {
       question: 'What is the "childish longing in vain" that the poet refers to?',
       answerVerbatim: 'It is the farmers\' persistent but futile hope that a car will stop and buy something from their roadside stand.',
       markingSchemePoints: [
@@ -71,8 +96,10 @@ export const aRoadsideStand: PoetryForensics = {
         'Economic disappointment',
         'Crave for city recognition'
       ],
-      year: 'CBSE 2024',
-      type: 'Short'
+      year: '2024-25 | Short',
+      type: 'Short',
+      marks: 2,
+      aiExplanation: "The 'childish longing' is the farmers' naive hope that out of the thousands of speeding cars, just one will stop to genuinely support their business. Frost calls it 'in vain' because the city folk are too deeply immersed in their own fast-paced lives and consumerist aesthetics to ever notice the profound economic desperation of the rural stand."
     },
     {
       question: 'Why are the politicians called "greedy good-doers"?',
@@ -82,8 +109,10 @@ export const aRoadsideStand: PoetryForensics = {
         'Exploitation of ignorance',
         'Self-serving charity'
       ],
-      year: 'CBSE Sample Paper 2026',
-      type: 'RTC'
+      year: '2025-26 | RTC',
+      type: 'RTC',
+      marks: 1,
+      aiExplanation: "Frost uses 'greedy good-doers' as a cynical oxymoron. These figures—politicians and developers—parade as saviors 'doing good' by relocating the poor into clustered villages. In reality, they are 'greedy,' feeding off the rural population to secure political power, eventually lulling the farmers out of their wits and destroying their traditional way of life."
     }
   ],
   distinctions: [

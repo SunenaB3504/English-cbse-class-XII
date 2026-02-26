@@ -51,6 +51,19 @@ export const theInterview: ChapterForensics = {
   ],
   triggers: [
     {
+      question: "Umberto Eco, with reference to 'The Name of the Rose' says, “I think if I had written The Name of the Rose ten years earlier or ten years later, it wouldn’t have been the same.” What could he have meant?",
+      answerVerbatim: "Eco suggests that the success of his book was largely due to timing. This could be interpreted as Eco recognizing the importance of cultural context and how the reception of a work of art is influenced by the historical, social, and political climate of its time. The themes and ideas he explored resonated particularly strongly with readers in that fleeting cultural moment.",
+      markingSchemePoints: [
+        "Success of the book was largely due to timing",
+        "Recognizing the importance of cultural context",
+        "Themes resonated strongly in that fleeting cultural moment"
+      ],
+      year: "2023-24",
+      type: "Short",
+      marks: 2,
+      aiExplanation: "Eco is acknowledging that a masterpiece doesn't exist in a vacuum; its public reception depends heavily on the zeitgeist of the era. 'The Name of the Rose' struck a chord precisely because the societal and intellectual mood of that specific time period was primed for a deep dive into metaphysics and medieval theology. Shifting the release by a decade might have resulted in the book falling flat because the audience's collective mindset would have been different."
+    },
+    {
       question: "What is Umberto Eco's theory of 'interstices'?",
       answerVerbatim: "Eco explains that the universe has empty spaces. If we eliminate those spaces, the universe would be the size of a fist. Similarly, in our lives, we have many empty spaces—intervals. He calls them 'interstices.' He works in these spaces, which is why he can write so much.",
       markingSchemePoints: [
@@ -59,7 +72,9 @@ export const theInterview: ChapterForensics = {
         "Strategy for high intellectual productivity"
       ],
       year: "2024-25 | Short",
-      type: "Short"
+      type: "Short",
+      marks: 2,
+      aiExplanation: "Eco’s theory of 'interstices' challenges the notion that rest periods must be unproductive. By comparing the physical universe's empty spaces to the micro-intervals in our daily routines—like waiting for an elevator—he explains how capturing and working during these tiny pockets of time adds up to massive intellectual productivity over a lifetime."
     },
     {
       question: "Why do some celebrities despise being interviewed?",
@@ -70,7 +85,23 @@ export const theInterview: ChapterForensics = {
         "Association with criminal or immoral behavior"
       ],
       year: "2025-26 | SQP",
-      type: "Long"
+      type: "Long",
+      marks: 5,
+      aiExplanation: "For many celebrities, an interview is an invasive assault on their personal identity. V.S. Naipaul argues that it 'wounds' people by stripping away a piece of their privacy. Historical literary figures were even harsher: Lewis Carroll actively feared them, and Rudyard Kipling considered the act so degrading that he labeled it 'immoral' and a 'crime.' These visceral reactions highlight the inherent tension between public curiosity and private dignity."
+    },
+    {
+      question: "How does the reference to 'interstices' enhance our understanding of Umberto Eco's perspective on writing and creativity?",
+      answerVerbatim: "Eco uses 'interstices' to describe the 'empty spaces' or transitional moments in life (like waiting for an elevator) that he utilises for his writing. This metaphor highlights Eco's unique approach to time management and creativity. It suggests that literature and ideas can flourish in the small, often overlooked moments of daily life. This perspective portrays Eco as a highly disciplined and resourceful thinker, capable of turning mundane interruptions into productive opportunities.",
+      markingSchemePoints: [
+        "Metaphor for the 'empty spaces' or transitional moments in life",
+        "Unique approach to time management and creativity",
+        "Literature/ideas can flourish in small, overlooked moments",
+        "Portrays Eco as highly disciplined and resourceful"
+      ],
+      year: "2025-26",
+      type: "Short",
+      marks: 2,
+      aiExplanation: "Eco's concept of 'interstices' fundamentally redefines exactly how intellectual work gets done. Instead of viewing writing as something that requires massive, dedicated blocks of undisturbed time, he views it as agile and opportunistic. By using a cosmological metaphor (empty spaces in the universe) to explain waiting for an elevator, Eco demonstrates that true creativity thrives by maximizing the micro-intervals that others waste, demonstrating immense mental discipline."
     }
   ],
   distinctions: [

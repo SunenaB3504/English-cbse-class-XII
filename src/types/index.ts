@@ -12,6 +12,8 @@ export interface SQPTrigger {
   markingSchemePoints: string[];
   year: string;
   type: 'RTC' | 'Short' | 'Long' | 'Persona' | 'Compare';
+  marks: number;
+  aiExplanation: string;
 }
 
 export interface ChapterForensics {
@@ -24,19 +26,19 @@ export interface ChapterForensics {
   authorStyle: string;
   themes: string[];
   milestones: { time: string; event: string }[];
-  characters: { 
-    name: string; 
-    traits: string[]; 
-    conflict: string; 
+  characters: {
+    name: string;
+    traits: string[];
+    conflict: string;
     growth: string;
     evidence: string;
   }[];
   motifs: { symbol: string; meaning: string }[];
   dictionary: { word: string; context: string; synonym: string }[];
   triggers: SQPTrigger[];
-  distinctions?: { 
-    title: string; 
-    comparison: { labelA: string; labelB: string; points: { a: string; b: string }[] } 
+  distinctions?: {
+    title: string;
+    comparison: { labelA: string; labelB: string; points: { a: string; b: string }[] }
   }[];
 }
 

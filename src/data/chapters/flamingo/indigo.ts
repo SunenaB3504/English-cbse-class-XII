@@ -52,6 +52,33 @@ export const indigo: ChapterForensics = {
   ],
   triggers: [
     {
+      question: "What can be inferred from Rajendra Prasad’s recorded upshot of the lawyer consultations at Motihari? [Reference - The senior lawyer replied, they had come to advise and help him...]",
+      answerVerbatim: "That Gandhi's commitment to the cause of the peasants, despite being a stranger to the region, was exemplary and motivated the lawyers to continue their support. It highlights the idea that the lawyers were conscious of the potential shame they would bring upon themselves if they deserted the peasants in their time of need.",
+      markingSchemePoints: [
+        "Gandhi's exemplary commitment motivated the lawyers",
+        "Lawyers became conscious of potential shame",
+        "Inspired a sense of purpose to fight for justice"
+      ],
+      year: "2023-24",
+      type: "Short",
+      marks: 2,
+      aiExplanation: "Rajendra Prasad's record is pivotal because it captures the moment the Indian lawyers experienced a profound moral awakening. Initially, they viewed the situation purely from a professional standpoint. However, upon witnessing Gandhi—a prominent stranger—willing to go to prison for the sharecroppers, they recognized the utter cowardice and shame in their own planned retreat. Gandhi's selfless courage effectively shamed them into a unified political and moral alliance, leading them to declare they would follow him to jail."
+    },
+    {
+      question: "How did the peasants of Champaran react to Gandhi’s presence and why?",
+      answerVerbatim: "Largely due to the leadership and advocacy provided by Mahatma Gandhi -- his involvement brought national attention to their plight --highlighted the importance of civil rights and nonviolent resistance\nGandhi's strategic approach to negotiations & his insistence on nonviolent protest -- empowered the peasants to stand up against oppressive landlords --- led to their immediate victory -- inspired a broader movement for social and economic justice across India",
+      markingSchemePoints: [
+        "Involvement brought national attention to their plight",
+        "Highlighted importance of civil rights/nonviolent resistance",
+        "Empowered peasants to stand up against landlords",
+        "Inspired broader movement for justice"
+      ],
+      year: "2024-25",
+      type: "Short",
+      marks: 2,
+      aiExplanation: "Gandhi's arrival fundamentally shifted the psychology of the Champaran peasants. Previously paralyzed by a fear of British authority and the convoluted legal system, his presence and strategic leadership acted as a catalyst. Seeing a champion willing to go to jail for them, the peasants spontaneously gathered in the thousands, realizing for the first time that they had both rights and the collective power to demand them. This mobilization was the beginning of their liberation from fear."
+    },
+    {
       question: "Why did Gandhi agree to a settlement of 25% refund instead of 50%?",
       answerVerbatim: "Gandhi explained that the amount of the refund was less important than the fact that the landlords had been obliged to surrender part of the money and, with it, part of their prestige. Therefore, as far as the peasants were concerned, the planters had behaved as lords above the law.",
       markingSchemePoints: [
@@ -60,7 +87,9 @@ export const indigo: ChapterForensics = {
         "Psychological victory for the peasants"
       ],
       year: "2024-25 | 5 Marks",
-      type: "Long"
+      type: "Long",
+      marks: 5,
+      aiExplanation: "The refund was not just a financial transaction; it was a psychological victory. By forcing the landlords to surrender a portion of the money, Gandhi forced them to surrender a portion of their assumed prestige. It shattered the illusion that the British planters were above the law, which was a critical first step towards the peasants' true independence."
     },
     {
       question: "How did the Champaran episode change the psychology of the Indian peasant?",
@@ -71,7 +100,9 @@ export const indigo: ChapterForensics = {
         "End of the paralyzing fear of authority"
       ],
       year: "2025-26 | SQP",
-      type: "Short"
+      type: "Short",
+      marks: 2,
+      aiExplanation: "The Champaran episode proved to the peasants that they were not alone. The fact that a leader like Gandhi was willing to go to jail for their cause made them realize they had rights and defenders. This collective realization dispelled their deep-rooted fear of the British authority."
     }
   ],
   distinctions: [

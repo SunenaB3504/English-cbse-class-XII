@@ -51,6 +51,46 @@ export const theThirdLevel: ChapterForensics = {
   ],
   triggers: [
     {
+      question: "In the story, ‘The Third Level’ by Jack Finney, Charley is obsessed with finding the third level. In an attempt to thrash out whether this obsession is a good quality or a harmful one, Charley’s wife expresses her thoughts in a diary entry.\nAs Louisa, Charley’s wife, write this diary entry. Support your response with reference to the story.",
+      answerVerbatim: "I have always known him to be an intelligent man with an imaginative mind. However, his recent obsession with finding the Third Level has left me extremely worried. On one hand, it displays determination to unravel life's mysteries. However, his obsession has caused him to detach from reality. He spends all his time searching for a place that may not exist. I understand he feels overwhelmed by modern stress and Sam indicated he uses it as a coping mechanism, but it prevents him from addressing underlying issues. His obsession is affecting our relationship and making him neglect his responsibilities.",
+      markingSchemePoints: [
+        "Acknowledge his imagination but express deep worry",
+        "Obsession serves as a coping mechanism for modern stress (Sam's diagnosis)",
+        "Harmful detachment from reality; neglecting present responsibilities"
+      ],
+      year: "2023-24",
+      type: "Long",
+      marks: 5,
+      aiExplanation: "Louisa acts as the emotional anchor to reality in the story. In a diary entry, she would likely express severe anxiety over her husband's deteriorating mental state. While recognizing Charley's artistic and imaginative nature (his stamp collecting), she would view his obsession with an 1894 timeline not as a romantic adventure, but as a dangerous psychological delusion. His desperation to escape mid-20th-century anxiety directly harms his real-world marriage and responsibilities."
+    },
+    {
+      question: "Interpret the significance of both literal and metaphorical journeys in the story, ‘The Third Level.’",
+      answerVerbatim: "Literal journey: Charley's physical navigation of the Grand Central Station to find the Third Level... represents a quest for an alternative reality. Metaphorical journey: psychological escape from modern anxieties...",
+      markingSchemePoints: [
+        "Literal: physical navigation of Grand Central to find the Third Level",
+        "Quest for an alternative reality/timeline",
+        "Metaphorical: psychological escape from modern anxieties (war, worry)"
+      ],
+      year: "2024-25",
+      type: "Short",
+      marks: 2,
+      aiExplanation: "Charley’s physical journey through the subterranean tunnels of Grand Central Station mirrors his psychological journey away from the harsh realities of the modern world. Literally, he is looking for a train to Galesburg; metaphorically, he is actively seeking an escape hatch from mid-20th-century anxieties (war, worry, insecurity) into a romanticized, peaceful past."
+    },
+    {
+      question: "Discuss the narrative techniques used by the author in The Third Level. How do these techniques effectively convey the themes of escapism and nostalgia? Provide specific examples from the text to support your analysis.",
+      answerVerbatim: "Jack Finney employs an unreliable narrator, Charley, whose experiences blur the line between reality and imagination. The use of historical details (President Garfield, 1894 dates) combined with psychological elements effectively conveys the overwhelming desire for an escape from the insecurity of the modern world.",
+      markingSchemePoints: [
+        "Use of an unreliable first-person narrator (Charley)",
+        "Blurring the line between reality and imagination/hallucination",
+        "Blending precise historical facts with psychological desires",
+        "Conveying the overwhelming desire to escape modern insecurity"
+      ],
+      year: "2024-25",
+      type: "Long",
+      marks: 5,
+      aiExplanation: "Through first-person narration (Charley), Jack Finney expertly creates an unreliable narrator, forcing the reader to constantly question what is real and what is a psychological hallucination. He meticulously blends precise historical facts (President Garfield, 1894 newspapers) with intense sensory details (flickering gaslights, brass spittoons) to make Charley's desperate escapist nostalgia feel incredibly tangible to the reader."
+    },
+    {
       question: 'Why did Charley want to go to Galesburg?',
       answerVerbatim: 'He wanted to escape the insecurity and fear of the modern world for the peaceful, stress-free life of Galesburg in 1894.',
       markingSchemePoints: [
@@ -58,8 +98,10 @@ export const theThirdLevel: ChapterForensics = {
         'Peaceful 1894 atmosphere',
         'Childhood memories/Security'
       ],
-      year: 'CBSE 2024',
-      type: 'Short'
+      year: '2024-25 | Short',
+      type: 'Short',
+      marks: 2,
+      aiExplanation: "Galesburg represents the ultimate idyllic sanctuary. For Charley, a 31-year-old New Yorker weighed down by the stress, war, and insecurity of the post-WWII era, 1894 Galesburg is a romanticized haven of peace. It's a place where summer evenings are long, people have time for each other, and the horrors of the First and Second World Wars haven't even happened yet—a pure psychological escape."
     },
     {
       question: 'What was the irony of Sam\'s disappearance?',
@@ -69,8 +111,24 @@ export const theThirdLevel: ChapterForensics = {
         'Logical mind accepts the illogical',
         'Validation of the Third Level'
       ],
-      year: 'CBSE 2025 (Sample)',
-      type: 'Short'
+      year: '2025-26 | Short',
+      type: 'Short',
+      marks: 2,
+      aiExplanation: "Sam’s disappearance is the story's greatest twist. As a pragmatic psychiatrist, Sam initially diagnoses Charley’s vision of the Third Level as a mere 'waking-dream wish fulfillment'—a symptom of modern stress. The profound irony is that the very man who clinically analyzed and dismissed Charley's escapism ended up succumbing to it himself, ultimately finding and settling in the 1894 Galesburg he claimed didn't exist."
+    },
+    {
+      question: "Read the given extract and answer the questions:\n\nMy three hundred dollars bought less than two hundred in old-style bills, but I didn’t care; eggs were thirteen cents a dozen in 1894.\nBut I’ve never again found the corridor that leads to the third level at Grand Central Station, although I’ve tried often enough. Louisa was pretty worried when I told her all this, and didn’t want me to look for the third level any more, and after a while I stopped; I went back to my stamps. But now we’re both looking, every weekend…\n\nI. What does Charley’s indifference to the cost of old-style bills and his focus on the price of eggs in 1894 suggest about his view of the past?\nII. Charley has been unsuccessful in finding the corridor to the third level despite ____.\nIII. Where is the irony in Louisa’s reaction to Charley’s search for the third level in this extract?\nIV. The phrase ‘I went back to my stamps’ suggests _____.\na) finding comfort in a hobby that is familiar\nb) choosing a new hobby to forget earlier pursuits\nc) attempting to engage together in a new hobby\nd) approaching a familiar hobby with enthusiasm",
+      answerVerbatim: "I. Charley’s indifference shows that he values the simplicity and affordability of the past, where things were less expensive and more relaxed.\nII. frequent efforts at locating it\nIII. The irony lies in the fact that Louisa initially worries and urges Charley to stop searching for the third level, but later, both of them end up looking for it together every weekend.\nIV. a) finding comfort in a hobby that is familiar",
+      markingSchemePoints: [
+        "I - values the simplicity and affordability of the past",
+        "II - frequent efforts at locating it",
+        "III - Louisa initially worries but later joins the search",
+        "IV - a) finding comfort in a hobby that is familiar"
+      ],
+      year: "2025-26",
+      type: "RTC",
+      marks: 4,
+      aiExplanation: "Charley's willingness to accept a massive loss in currency exchange highlights his overwhelming desperation to escape modern life. The low price of eggs symbolizes the slower, comfortable, and stress-free life of 1894. The extract ends on a poignant note of irony involving Louisa: the very person who acted as Charley's anchor to reality and demanded he stop his delusional search has eventually succumbed to the same modern anxieties, choosing to join him in the desperate hunt for the Third Level every weekend."
     }
   ],
   distinctions: [
