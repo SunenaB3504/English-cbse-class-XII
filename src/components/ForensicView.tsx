@@ -31,7 +31,7 @@ export function ForensicView({ content, onBack }: Props) {
 
   return (
     <div className="animate-in fade-in duration-500 pb-20">
-      <button 
+      <button
         onClick={onBack}
         className="mb-8 flex items-center gap-2 text-royal-600 font-semibold hover:text-royal-800 transition-colors group"
       >
@@ -44,7 +44,7 @@ export function ForensicView({ content, onBack }: Props) {
             <h1 className="text-5xl font-black text-slate-900 mb-2 tracking-tight">{content.title}</h1>
             <p className="text-xl text-royal-600 font-medium mb-4">by {content.author}</p>
             <div className="max-w-4xl p-6 bg-white rounded-2xl border-l-4 border-royal-600 shadow-sm relative group/summary">
-              <button 
+              <button
                 onClick={handleSpeak}
                 className="absolute top-4 right-4 p-2 rounded-full bg-royal-50 text-royal-600 opacity-0 group-hover/summary:opacity-100 transition-opacity hover:bg-royal-600 hover:text-white"
                 title={isSpeaking ? "Stop Narration" : "Listen to Summary"}
@@ -98,7 +98,7 @@ export function ForensicView({ content, onBack }: Props) {
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
         {/* Main Content Areas */}
         <div className="lg:col-span-3 space-y-12">
-          
+
           {/* Poetry Specific: Rhyme Scheme & Poetic Devices */}
           {isPoetry && (
             <section className="bg-white rounded-3xl p-10 shadow-sm border border-slate-100">
@@ -128,7 +128,7 @@ export function ForensicView({ content, onBack }: Props) {
           {/* Stanza Breakdown (Poetry) or Milestones (Prose) */}
           <section className="bg-white rounded-3xl p-10 shadow-sm border border-slate-100">
             <h2 className="text-3xl font-black flex items-center gap-3 mb-8 text-slate-900">
-              {isPoetry ? <Music className="text-royal-600" /> : <Book className="text-royal-600" />} 
+              {isPoetry ? <Music className="text-royal-600" /> : <Book className="text-royal-600" />}
               {isPoetry ? "Stanza Blueprint" : "Narrative Blueprint"}
             </h2>
             <div className="space-y-6">
@@ -247,22 +247,34 @@ export function ForensicView({ content, onBack }: Props) {
                 <div key={i} className="border-l-4 border-royal-500 pl-8 py-2 relative">
                   <div className="flex items-center gap-3 mb-4">
                     <span className="bg-royal-600 text-white px-3 py-1 rounded text-[10px] font-black uppercase tracking-widest shadow-lg">{trigger.year}</span>
+                    <span className="bg-emerald-600 text-white px-3 py-1 rounded text-[10px] font-black uppercase tracking-widest shadow-lg">{trigger.marks} Mark{trigger.marks > 1 ? 's' : ''}</span>
                     <span className="text-slate-500 text-xs font-mono font-bold tracking-widest uppercase">{trigger.type} Analysis</span>
                   </div>
                   <p className="text-white font-black mb-6 text-xl leading-tight tracking-tight">Q: {trigger.question}</p>
-                  <div className="bg-slate-800/80 p-6 rounded-2xl mb-6 border border-slate-700/50 backdrop-blur-sm">
-                    <p className="text-emerald-400 text-base italic font-bold leading-relaxed mb-4">
-                      "Verbatim MS Answer:"
-                    </p>
-                    <p className="text-slate-200 text-sm leading-relaxed">{trigger.answerVerbatim}</p>
+
+                  <div className="flex flex-col gap-4">
+                    <div className="bg-slate-800/80 p-6 rounded-2xl border border-slate-700/50 backdrop-blur-sm">
+                      <p className="text-emerald-400 text-base italic font-bold leading-relaxed mb-4">
+                        "CBSE Marking Scheme (Verbatim):"
+                      </p>
+                      <p className="text-slate-200 text-sm leading-relaxed mb-4">{trigger.answerVerbatim}</p>
+                      <div className="flex flex-wrap gap-3">
+                        {trigger.markingSchemePoints.map((p, idx) => (
+                          <span key={idx} className="px-4 py-2 bg-slate-700/50 text-emerald-200 text-[10px] font-black rounded-lg border border-emerald-900/50 uppercase tracking-widest">
+                            {p}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+
+                    <div className="bg-indigo-950/80 p-6 rounded-2xl border border-indigo-500/30 backdrop-blur-sm">
+                      <p className="text-indigo-400 text-base italic font-bold leading-relaxed mb-4 flex items-center gap-2">
+                        <Sparkles size={16} /> Mark-Based AI Explanation:
+                      </p>
+                      <p className="text-indigo-100 text-sm leading-relaxed whitespace-pre-wrap">{trigger.aiExplanation}</p>
+                    </div>
                   </div>
-                  <div className="flex flex-wrap gap-3">
-                    {trigger.markingSchemePoints.map((p, idx) => (
-                      <span key={idx} className="px-4 py-2 bg-slate-800/50 text-royal-200 text-[10px] font-black rounded-lg border border-slate-700/50 uppercase tracking-widest">
-                        {p}
-                      </span>
-                    ))}
-                  </div>
+
                 </div>
               ))}
             </div>
