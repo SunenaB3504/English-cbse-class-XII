@@ -2,7 +2,7 @@ import { WritingSkeleton } from '../../types';
 
 export const noticeWriting: WritingSkeleton = {
   id: 'notices',
-  format: 'Borders | Organization Name (Capital) | NOTICE (Capital) | Date | Heading | Body | Signature | Name | Designation',
+  format: 'Borders (Required) | Organization Name | NOTICE | Date | Heading | Body | Signature | Name | Designation',
   blueprint: [
     {
       section: 'Heading',
@@ -31,6 +31,23 @@ export const noticeWriting: WritingSkeleton = {
         'Interested students may register their names with...',
         'Strict adherence to the schedule is expected.'
       ]
+    },
+    {
+      section: 'Example: Cultural Fest Notice',
+      content: `[Box outline required in exam]
+ST. THOMAS SCHOOL, NEW DELHI
+NOTICE
+15 October 2026
+
+ANNUAL CULTURAL FESTIVAL
+
+This is to inform all students from Classes IX to XII that our school is orchestrating its Annual Cultural Festival, 'Symphony 2026', on 10 November 2026, from 9:00 AM to 4:00 PM in the Main Auditorium. 
+
+A variety of events including group dance, solo singing, and one-act plays will be convened. Interested students must enroll their names with their respective class teachers by 25 October 2026. For any clarifications, contact the undersigned.
+
+Rohit Sharma
+(Cultural Secretary)`,
+      keyPhrases: []
     }
   ],
   vocabularyUpgrades: [

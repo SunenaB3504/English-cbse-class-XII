@@ -2,7 +2,7 @@ import { WritingSkeleton } from '../../types';
 
 export const invitations: WritingSkeleton = {
   id: 'invitations',
-  format: 'Card Type (Formal) or Letter Type (Formal/Informal). Include RSVP.',
+  format: 'Card Type (Boxed, 3rd Person) | Letter Type (Sender, Date, Receiver, Subject, Salutation). Always include RSVP.',
   blueprint: [
     {
       section: 'Formal Card (Standard)',
@@ -38,6 +38,28 @@ export const invitations: WritingSkeleton = {
         'Mr. X has great pleasure in accepting...',
         'I am delighted to accept your invitation...'
       ]
+    },
+    {
+      section: 'Example: Formal Card Invitation',
+      content: `[Box outline required in exam]
+The Principal, Staff, and Students of
+ST. JOHN’S PUBLIC SCHOOL, CHENNAI
+
+Request the pleasure of your company on the auspicious occasion of their
+
+25th ANNUAL DAY CELEBRATION
+"Resonance 2026"
+
+On Saturday, 20th November 2026
+at 5:00 PM
+in the School Auditorium
+
+Hon'ble Minister of Education, Shri XYZ, has kindly consented to be the Chief Guest and give away the prizes.
+
+RSVP: Admin Officer
+Ph: 044-23456789
+(Please be seated by 4:45 PM)`,
+      keyPhrases: []
     }
   ],
   vocabularyUpgrades: [
