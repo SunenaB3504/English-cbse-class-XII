@@ -41,8 +41,7 @@ export const invitations: WritingSkeleton = {
     },
     {
       section: 'Example: Formal Card Invitation',
-      content: `[Box outline required in exam]
-The Principal, Staff, and Students of
+      content: `The Principal, Staff, and Students of
 ST. JOHN’S PUBLIC SCHOOL, CHENNAI
 
 Request the pleasure of your company on the auspicious occasion of their

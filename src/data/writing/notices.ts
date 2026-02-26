@@ -34,8 +34,7 @@ export const noticeWriting: WritingSkeleton = {
     },
     {
       section: 'Example: Cultural Fest Notice',
-      content: `[Box outline required in exam]
-ST. THOMAS SCHOOL, NEW DELHI
+      content: `ST. THOMAS SCHOOL, NEW DELHI
 NOTICE
 15 October 2026
 

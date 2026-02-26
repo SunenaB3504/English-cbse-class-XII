@@ -31,7 +31,7 @@ export function WritingView({ skeleton, onBack }: Props) {
 
   return (
     <div className="animate-in fade-in slide-in-from-bottom-4 duration-500 pb-20">
-      <button 
+      <button
         onClick={onBack}
         className="mb-8 flex items-center gap-2 text-royal-600 font-semibold hover:text-royal-800 transition-colors group"
       >
@@ -64,7 +64,7 @@ export function WritingView({ skeleton, onBack }: Props) {
         <div className="lg:col-span-2 space-y-8">
           <section className="bg-white rounded-[2.5rem] p-10 border border-slate-100 shadow-xl overflow-hidden relative">
             <div className="absolute -right-20 -top-20 opacity-[0.03] rotate-12 pointer-events-none">
-                <Layout size={400} />
+              <Layout size={400} />
             </div>
             <h2 className="text-3xl font-black text-slate-900 mb-10 flex items-center gap-3">
               <Layout className="text-royal-600" /> Structure Protocol
@@ -83,17 +83,19 @@ export function WritingView({ skeleton, onBack }: Props) {
                       <h3 className="text-xl font-black text-royal-900 uppercase tracking-tight">{step.section}</h3>
                       <button
                         onClick={() => handleSpeak(`${step.section}. ${step.content}`, idx)}
-                        className={`p-2 rounded-xl transition-all ${
-                          speakingIdx === idx 
-                            ? 'bg-royal-100 text-royal-600 ring-2 ring-royal-200 scale-110' 
+                        className={`p-2 rounded-xl transition-all ${speakingIdx === idx
+                            ? 'bg-royal-100 text-royal-600 ring-2 ring-royal-200 scale-110'
                             : 'text-slate-400 hover:text-royal-600 hover:bg-royal-50 opacity-0 group-hover:opacity-100'
-                        }`}
+                          }`}
                         title="Narration Hearing"
                       >
                         {speakingIdx === idx ? <VolumeX size={18} /> : <Volume2 size={18} />}
                       </button>
                     </div>
-                    <p className="text-slate-600 font-medium leading-relaxed bg-slate-50 p-4 rounded-2xl border border-slate-100 italic">
+                    <p className={`text-slate-600 font-medium leading-relaxed bg-slate-50 p-4 rounded-2xl italic ${step.section.startsWith('Example: ')
+                        ? 'border-2 border-slate-800 shadow-md whitespace-pre-wrap font-mono text-sm'
+                        : 'border border-slate-100'
+                      }`}>
                       {step.content}
                     </p>
                     {step.keyPhrases.length > 0 && (
@@ -117,7 +119,7 @@ export function WritingView({ skeleton, onBack }: Props) {
         <div className="space-y-8">
           <section className="bg-gradient-to-br from-royal-900 to-indigo-950 rounded-[2.5rem] p-8 text-white shadow-2xl relative overflow-hidden">
             <div className="absolute top-0 right-0 p-6 opacity-10">
-                <Sparkles size={100} />
+              <Sparkles size={100} />
             </div>
             <h3 className="text-xl font-black flex items-center gap-2 mb-8 uppercase tracking-widest italic">
               <Sparkles className="text-amber-400" /> Vocabulary Upgrades
@@ -145,17 +147,17 @@ export function WritingView({ skeleton, onBack }: Props) {
 
           <section className="bg-white rounded-[2.5rem] p-8 border-2 border-slate-100 shadow-sm">
             <h3 className="text-xl font-black text-slate-900 mb-6 flex items-center gap-2 uppercase tracking-widest">
-                <ShieldCheck className="text-emerald-500" /> Scoring Audit
+              <ShieldCheck className="text-emerald-500" /> Scoring Audit
             </h3>
             <div className="space-y-4">
-                <div className="p-4 bg-emerald-50 rounded-2xl border border-emerald-100">
-                    <p className="text-[10px] font-black text-emerald-800 uppercase mb-1">Format Compliance</p>
-                    <p className="text-xs text-emerald-700 font-medium leading-relaxed">Ensure all structural markers (dates, headings, signatures) are correctly aligned to the 2026 schema.</p>
-                </div>
-                <div className="p-4 bg-royal-50 rounded-2xl border border-royal-100">
-                    <p className="text-[10px] font-black text-royal-800 uppercase mb-1">Lexical Value</p>
-                    <p className="text-xs text-royal-700 font-medium leading-relaxed">Integrated advanced vocabulary correlates directly to 'Expression' marks in the rubrics.</p>
-                </div>
+              <div className="p-4 bg-emerald-50 rounded-2xl border border-emerald-100">
+                <p className="text-[10px] font-black text-emerald-800 uppercase mb-1">Format Compliance</p>
+                <p className="text-xs text-emerald-700 font-medium leading-relaxed">Ensure all structural markers (dates, headings, signatures) are correctly aligned to the 2026 schema.</p>
+              </div>
+              <div className="p-4 bg-royal-50 rounded-2xl border border-royal-100">
+                <p className="text-[10px] font-black text-royal-800 uppercase mb-1">Lexical Value</p>
+                <p className="text-xs text-royal-700 font-medium leading-relaxed">Integrated advanced vocabulary correlates directly to 'Expression' marks in the rubrics.</p>
+              </div>
             </div>
           </section>
         </div>
