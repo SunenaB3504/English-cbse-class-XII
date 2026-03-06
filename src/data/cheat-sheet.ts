@@ -15,14 +15,14 @@ export const morningReviewContent = `
 </h2>
 
 <ul style="list-style-type: none; padding-left: 0;">
-  <li style="margin-bottom: 8px;"><b>The Last Lesson:</b> <span style="color: #0369a1;">Linguistic imperialism</span>, cultural identity, linguistic chauvinism, <span style="color: #0369a1;">thunderclap</span> (shock), language as the "key to their prison".</li>
-  <li style="margin-bottom: 8px;"><b>Lost Spring:</b> Child labor exploitation, <span style="color: #0369a1;">perpetual state of poverty</span>, vicious circle (sahukars), stolen spring, stigma of caste.</li>
-  <li style="margin-bottom: 8px;"><b>Deep Water:</b> <span style="color: #0369a1;">Hydrophobia</span>, systematic therapy, psychological trauma, conquering fear, "All we have to fear is fear itself."</li>
-  <li style="margin-bottom: 8px;"><b>The Rattrap:</b> <span style="color: #0369a1;">Redemption through compassion</span>, extended metaphor (world = rattrap), unconditional love, dignity restores humanity.</li>
-  <li style="margin-bottom: 8px;"><b>Indigo:</b> <span style="color: #0369a1;">Civil disobedience / Satyagraha</span>, sharecropping system, liberation from fear, Swaraj, conflict of duties.</li>
-  <li style="margin-bottom: 8px;"><b>Poets and Pancakes:</b> National integration, Cold War ideology, anti-Communist paranoia, <span style="color: #0369a1;">satirical critique</span>, MRA.</li>
-  <li style="margin-bottom: 8px;"><b>The Interview:</b> Journalistic medium, <span style="color: #0369a1;">unwarranted intrusion</span>, source of truth vs. soul-stealing, work in "interstices".</li>
-  <li style="margin-bottom: 8px;"><b>Going Places:</b> Adolescent fantasizing, hero worship, socio-economic entrapment, <span style="color: #0369a1;">escapism</span>.</li>
+  <li style="margin-bottom: 8px;"><b>The Last Lesson:</b> <span style="color: #0369a1;">Linguistic imperialism</span>, cultural identity, linguistic chauvinism, <span style="color: #0369a1;">loss of freedom</span>, imposition of foreign control, unexpected thunderclap (shock).</li>
+  <li style="margin-bottom: 8px;"><b>Lost Spring:</b> <span style="color: #0369a1;">Perpetual state of poverty</span>, vicious circle (sahukars/middlemen), enduring hope amidst destitution, stolen childhood, systemic indifference.</li>
+  <li style="margin-bottom: 8px;"><b>Deep Water:</b> <span style="color: #0369a1;">Hydrophobia</span>, overcoming fear through <span style="color: #0369a1;">perseverance, determination, and gradual exposure</span>, psychological trauma yielding to empowerment.</li>
+  <li style="margin-bottom: 8px;"><b>The Rattrap:</b> <span style="color: #0369a1;">Redemption through empathy</span> vs materialistic enticements, extended metaphor (world = rattrap), essential human goodness awakened by trust.</li>
+  <li style="margin-bottom: 8px;"><b>Indigo:</b> <span style="color: #0369a1;">Civil disobedience / Satyagraha</span>, sharecropping exploitation, self-reliance, liberation from fear of British landlords, Swaraj.</li>
+  <li style="margin-bottom: 8px;"><b>Poets and Pancakes:</b> National integration, Cold War ideology, anti-Communist paranoia, <span style="color: #0369a1;">satirical critique of human folly</span>, MRA.</li>
+  <li style="margin-bottom: 8px;"><b>The Interview:</b> Journalistic medium, <span style="color: #0369a1;">intrusive and unwelcome nature of interviews</span>, source of truth vs. soul-stealing, work in "interstices".</li>
+  <li style="margin-bottom: 8px;"><b>Going Places:</b> Adolescent fantasizing, hero worship, socio-economic entrapment, <span style="color: #0369a1;">escapism</span>, oppressive and cluttered home environment vs grand illusions.</li>
 </ul>
 
 ---
@@ -34,30 +34,31 @@ export const morningReviewContent = `
 <ul>
   <li><b>My Mother at Sixty-Six:</b> 
     <ul>
-      <li><i>Metaphor:</i> <span style="color: #7e22ce;">"Ashy / Corpse"</span> (pallor of death), <span style="color: #7e22ce;">"Late Winter's Moon"</span> (waning vitality).</li>
-      <li><i>Contrast:</i> "Trees sprinting" vs internal decay. Parting smile acts as a brave facade hiding childhood fear.</li>
+      <li><i>Metaphor:</i> <span style="color: #7e22ce;">"Ashy / Corpse"</span> (pallor of death), <span style="color: #7e22ce;">"Late Winter's Moon"</span> (waning vitality, gentle serene decline).</li>
+      <li><i>Contrast:</i> "Trees sprinting" (transient nature of life) vs inevitable aging. Parting smile hides childhood anxiety.</li>
     </ul>
   </li>
   <li><b>Keeping Quiet:</b> 
     <ul>
-      <li><i>Core message:</i> <span style="color: #7e22ce;">Total inactivity DOES NOT equal death.</span> Stillness is a life-affirming pause for introspection.</li>
-      <li><i>Triggers:</i> Fishermen/salt gatherers symbolize harmony with nature. "Victory with no survivors" mocks the futility of war.</li>
+      <li><i>Core message:</i> <span style="color: #7e22ce;">Total inactivity DOES NOT equal death.</span> A call for introspection and awareness of the harm humans cause.</li>
+      <li><i>Triggers:</i> Fishermen/salt gatherers symbolize reconnecting with humanity. "Victory with no survivors" mocks the futility of aggression.</li>
     </ul>
   </li>
   <li><b>A Thing of Beauty:</b> 
     <ul>
-      <li><i>Core message:</i> <span style="color: #7e22ce;">Contra-Entropy</span> — loveliness increases, it never fades.</li>
-      <li><i>Triggers:</i> "Bower quiet," "Inhuman dearth" (critique of human selfishness), "Immortal drink" (divine beauty).</li>
+      <li><i>Core message:</i> <span style="color: #7e22ce;">Contra-Entropy</span> — loveliness increases, it never fades. It acts as a refuge from stress.</li>
+      <li><i>Triggers:</i> "Bower quiet," "Inhuman dearth" (critique of human selfishness), "Immortal drink" (lasting emotional and psychological support).</li>
     </ul>
   </li>
   <li><b>A Roadside Stand:</b> 
     <ul>
-      <li><i>Triggers:</i> <span style="color: #7e22ce;">Pathetic childish longing</span> (waiting for cars), "Greedy Good-Doers" (paternalistic charity), polished urban traffic vs rural despair.</li>
+      <li><i>Triggers:</i> <span style="color: #7e22ce;">Pathetic childish longing</span> (waiting for cars), "Greedy Good-Doers" (paternalistic charity dulling critical thinking), polished urban traffic vs rural despair.</li>
     </ul>
   </li>
   <li><b>Aunt Jennifer's Tigers:</b> 
     <ul>
-      <li><i>Dual Symbolism:</i> <span style="color: #7e22ce;">Massive weight of ring</span> (patriarchal oppression) vs. <span style="color: #7e22ce;">Topaz denizens</span> (fearless, immortal spirit).</li>
+      <li><i>Dual Symbolism:</i> <span style="color: #7e22ce;">Massive weight of ring</span> (patriarchal oppression) vs. <span style="color: #7e22ce;">Topaz denizens</span> (fearless spirit).</li>
+      <li><i>Core Theme:</i> Art immortalises the creator's emotions and transcends mortal constraints.</li>
     </ul>
   </li>
 </ul>
@@ -69,11 +70,11 @@ export const morningReviewContent = `
 </h2>
 
 <ul>
-  <li><b>The Third Level:</b> <span style="color: #b45309;">Waking-dream wish fulfillment</span>, psychological escapism, temporal displacement vs modern anxiety.</li>
-  <li><b>The Tiger King:</b> <span style="color: #b45309;">Dramatic irony</span>, royal hubris, ecological callousness. (The wooden toy tiger represents inescapable fate).</li>
-  <li><b>Journey to End of Earth:</b> Geological time scale, <span style="color: #b45309;">phytoplankton/carbon cycle</span>, interconnectedness.</li>
-  <li><b>The Enemy:</b> Moral dilemma, <span style="color: #b45309;">humanitarianism vs. nationalism</span>, professional ethics transcending prejudice.</li>
-  <li><b>On the Face of It:</b> Physical impairment, social alienation, internalized shame vs <span style="color: #b45309;">psychological healing (Mr. Lamb)</span>.</li>
+  <li><b>The Third Level:</b> <span style="color: #b45309;">Waking-dream wish fulfillment</span>, psychological escapism, temporal displacement vs modern anxiety. <i>(Nostalgia vs Psychological Refuge)</i>.</li>
+  <li><b>The Tiger King:</b> <span style="color: #b45309;">Dramatic irony</span>, royal hubris, ecological callousness. <i>(The folly of mastering fate through power)</i>.</li>
+  <li><b>Journey to End of Earth:</b> Geological time scale, <span style="color: #b45309;">phytoplankton/carbon cycle</span>, interconnectedness, geological processes shaping planetary history.</li>
+  <li><b>The Enemy:</b> Moral dilemma, <span style="color: #b45309;">humanitarianism vs. nationalism</span>, professional ethics transcending political allegiance.</li>
+  <li><b>On the Face of It:</b> Physical impairment, social alienation. <i>Mr Lamb's optimistic/genuine connection</i> vs <i>Derry's pessimistic view/alienation</i>.</li>
   <li><b>Memories of Childhood:</b> 
     <ul>
       <li><i>Zitkala-Sa:</i> Cultural assimilation, institutional violence, forced loss of indigenous identity.</li>
@@ -97,22 +98,22 @@ export const morningReviewContent = `
   <tr>
     <td style="padding: 8px; border: 1px solid #cbd5e1; font-weight: bold;">NOTICE</td>
     <td style="padding: 8px; border: 1px solid #cbd5e1;">50 Words Max. Keep strictly formal.</td>
-    <td style="padding: 8px; border: 1px solid #cbd5e1;"><b>BOX MANDATORY</b>. Org Name, NOTICE, Heading, 5 Ws.</td>
+    <td style="padding: 8px; border: 1px solid #cbd5e1;"><b>BOX MANDATORY</b>. Org Name, NOTICE, Heading, Date, Auth. Sign/Desg.</td>
   </tr>
   <tr>
     <td style="padding: 8px; border: 1px solid #cbd5e1; font-weight: bold;">INVITATION</td>
-    <td style="padding: 8px; border: 1px solid #cbd5e1;">Card format = 3rd Person. Replies = 3rd Person.</td>
-    <td style="padding: 8px; border: 1px solid #cbd5e1;">RSVP. Do not sign the end of a formal card invitation.</td>
+    <td style="padding: 8px; border: 1px solid #cbd5e1;">Card format = 3rd Person. Formal Repl. = 3rd Person.</td>
+    <td style="padding: 8px; border: 1px solid #cbd5e1;">Date/Time/Venue. RSVP. Do not sign the end of a formal card.</td>
   </tr>
   <tr>
     <td style="padding: 8px; border: 1px solid #cbd5e1; font-weight: bold;">FORMAL LETTER</td>
-    <td style="padding: 8px; border: 1px solid #cbd5e1;">Editor/Job App. Strict spacing.</td>
-    <td style="padding: 8px; border: 1px solid #cbd5e1;">Use "menace", "grievance". For Job: Bio-Data is a separate section.</td>
+    <td style="padding: 8px; border: 1px solid #cbd5e1;">Editor/Job App. Strict spacing. Ensure clear Intro/Body/Conclusion.</td>
+    <td style="padding: 8px; border: 1px solid #cbd5e1;">Job App must refer to the advertisement and state suitability! Bio-Data separate.</td>
   </tr>
   <tr>
-    <td style="padding: 8px; border: 1px solid #cbd5e1; font-weight: bold;">REPORT</td>
-    <td style="padding: 8px; border: 1px solid #cbd5e1;">Factual, Chronological, Objective.</td>
-    <td style="padding: 8px; border: 1px solid #cbd5e1;"><b>PAST TENSE</b> only. Headline + By-line.</td>
+    <td style="padding: 8px; border: 1px solid #cbd5e1; font-weight: bold;">REPORT/ARTICLE</td>
+    <td style="padding: 8px; border: 1px solid #cbd5e1;">Article = Present/Future. Report = Past Tense Only.</td>
+    <td style="padding: 8px; border: 1px solid #cbd5e1;">Headline + By-line mandatory for both. Report needs Place/Date.</td>
   </tr>
 </table>
 
@@ -137,7 +138,7 @@ export const morningReviewContent = `
     <h4 style="color: #b91c1c; margin-bottom: 4px;">🚨 Conceptual Traps</h4>
     <ul style="color: #7f1d1d; padding-left: 20px; font-size: 0.95em;">
       <li>The 100th tiger <b>did not</b> kill the Maharaja (it fainted).</li>
-      <li>Sadao helped the American out of <b>medical ethics</b>, not affection.</li>
+      <li>Sadao helped the American out of <b>professional ethics</b>, not affection.</li>
       <li>Charley's time travel is intentionally <b>ambiguous / psychological</b>.</li>
     </ul>
   </div>
