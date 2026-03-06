@@ -6,19 +6,21 @@ import { flamingoPoems } from './data/poems/flamingo';
 import { writingSkeletons } from './data/writing';
 import { ForensicView } from './components/ForensicView';
 import { WritingView } from './components/WritingView';
+import { CheatSheetView } from './components/CheatSheetView';
 import { ChapterForensics, PoetryForensics, WritingSkeleton } from './types';
 
 function App() {
   const [selectedContent, setSelectedContent] = useState<ChapterForensics | PoetryForensics | null>(null);
   const [selectedWriting, setSelectedWriting] = useState<WritingSkeleton | null>(null);
+  const [showCheatSheet, setShowCheatSheet] = useState(false);
 
   if (selectedContent) {
     return (
       <div className="min-h-screen bg-slate-50 font-sans p-8 md:p-12 lg:p-16">
         <div className="max-w-7xl mx-auto">
-          <ForensicView 
-            content={selectedContent} 
-            onBack={() => setSelectedContent(null)} 
+          <ForensicView
+            content={selectedContent}
+            onBack={() => setSelectedContent(null)}
           />
         </div>
       </div>
@@ -29,9 +31,21 @@ function App() {
     return (
       <div className="min-h-screen bg-slate-50 font-sans p-8 md:p-12 lg:p-16">
         <div className="max-w-7xl mx-auto">
-          <WritingView 
-            skeleton={selectedWriting} 
-            onBack={() => setSelectedWriting(null)} 
+          <WritingView
+            skeleton={selectedWriting}
+            onBack={() => setSelectedWriting(null)}
+          />
+        </div>
+      </div>
+    );
+  }
+
+  if (showCheatSheet) {
+    return (
+      <div className="min-h-screen bg-slate-50 font-sans p-8 md:p-12 lg:p-16">
+        <div className="max-w-7xl mx-auto">
+          <CheatSheetView
+            onBack={() => setShowCheatSheet(false)}
           />
         </div>
       </div>
@@ -50,6 +64,16 @@ function App() {
             <button className="hover:text-royal-300 transition-colors">Flamingo</button>
             <button className="hover:text-royal-300 transition-colors">Vistas</button>
             <button className="hover:text-royal-300 transition-colors">Writing Authority</button>
+            <button
+              onClick={() => {
+                setSelectedContent(null);
+                setSelectedWriting(null);
+                setShowCheatSheet(true);
+              }}
+              className="bg-amber-500 text-royal-900 px-3 py-1 rounded-full font-bold hover:bg-amber-400 transition-colors shadow-lg"
+            >
+              Morning Review
+            </button>
           </div>
         </div>
       </nav>
@@ -73,7 +97,7 @@ function App() {
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {flamingoChapters.map(chapter => (
-              <ProjectCard 
+              <ProjectCard
                 key={chapter.id}
                 content={chapter}
                 type="Prose"
@@ -89,7 +113,7 @@ function App() {
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {flamingoPoems.map(poem => (
-              <ProjectCard 
+              <ProjectCard
                 key={poem.id}
                 content={poem}
                 type="Poetry"
@@ -105,7 +129,7 @@ function App() {
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {vistasChapters.map(chapter => (
-              <ProjectCard 
+              <ProjectCard
                 key={chapter.id}
                 content={chapter}
                 type="Vistas"
@@ -121,7 +145,7 @@ function App() {
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {writingSkeletons.map(skeleton => (
-              <div 
+              <div
                 key={skeleton.id}
                 onClick={() => setSelectedWriting(skeleton)}
                 className="bg-white p-6 rounded-3xl border border-slate-200 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all cursor-pointer group"
@@ -142,10 +166,10 @@ function App() {
 
 function ProjectCard({ content, type, onOpen }: { content: ChapterForensics | PoetryForensics; type: string; onOpen: () => void }) {
   // Use the first milestone description or summary
-  const summaryText = 'stanzaBreakdown' in content 
-    ? content.stanzaBreakdown[0].summary 
+  const summaryText = 'stanzaBreakdown' in content
+    ? content.stanzaBreakdown[0].summary
     : content.milestones[0].event;
-  
+
   return (
     <div className="bg-white p-8 rounded-[2rem] border border-slate-200 shadow-sm hover:shadow-2xl hover:-translate-y-2 transition-all group flex flex-col justify-between h-full">
       <div>
@@ -161,8 +185,8 @@ function ProjectCard({ content, type, onOpen }: { content: ChapterForensics | Po
           {summaryText}
         </p>
       </div>
-      
-      <button 
+
+      <button
         onClick={onOpen}
         className="w-full py-4 bg-slate-900 text-white rounded-2xl font-bold flex items-center justify-center gap-2 hover:bg-royal-700 active:scale-95 transition-all shadow-lg shadow-slate-200"
       >
