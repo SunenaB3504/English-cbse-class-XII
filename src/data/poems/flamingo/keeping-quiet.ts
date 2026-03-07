@@ -45,7 +45,7 @@ export const keepingQuiet: PoetryForensics = {
   triggers: [
     {
       question: "Imagine you are Pablo Neruda, the poet of Keeping Quiet. What advice might you offer to Robert Frost, the poet of A Roadside Stand, in the context of his conflicted emotions, as displayed in the given lines:\nThe requisite lift of spirit has never been found,\nOr so the voice of the country seems to complain,\nI can’t help owning the great relief it would be\nTo put these people at one stroke out of their pain.\n\nPen down your advice, in a letter to Frost.",
-      answerVerbatim: "Dear Robert, I understand it can be difficult to make decisions when overwhelmed by emotions. I advise you to take a moment to be still and contemplative before making any decisions about the fate of the people at the roadside stand. By quieting your mind and being present, you may objectively understand their struggles and gain a new perspective. Such a moment of reflection could help you see beyond your conflicting emotions and connect with your own humanity and that of others from a place of balance and calm. Warmly, Pablo Neruda.",
+      answerVerbatim: "Dear Robert, I understand it can be difficult to make decisions when overwhelmed by emotions. I advise you to take a moment to be still and contemplative.\n\nI. Objective Understanding: By quieting your mind, you may objectively understand their struggles.\nII. Perspective: Reflection helps you see beyond conflicting emotions and connect with shared humanity.\nIII. Balance: This silence allows you to act from a place of calm rather than rash impulse.\n\nWarmly, Pablo Neruda.",
       markingSchemePoints: [
         "Take a moment of stillness and reflection before reacting",
         "Quiet the mind to objectively understand their struggles",
@@ -58,7 +58,7 @@ export const keepingQuiet: PoetryForensics = {
     },
     {
       question: "Read the extract and answer the question:\nThose who prepare green wars, wars with gas, wars with fire, victory with no survivors, would put on clean clothes and walk about with their brothers in the shade, doing nothing.\n\nHow can the message in the excerpt, about the outcome of wars, be applied to promote peace?",
-      answerVerbatim: "Global leaders and communities can work toward more sustainable and peaceful solutions – Can be used to advocate for non-violent resolutions / peace negotiations in contemporary conflicts / Can be used to promote dialogue and understanding over aggression and warfare",
+      answerVerbatim: "I. Sustainable Solutions: Communities can work toward peaceful resolutions rather than mutual destruction.\nII. Non-violence: The imagery advocates for negotiations and dialogue in contemporary conflicts.\nIII. Humanity over Aggression: Encourages understanding and brotherhood over warfare.",
       markingSchemePoints: [
         "Work toward sustainable and peaceful solutions",
         "Advocate for non-violent resolutions/peace negotiations",
@@ -71,7 +71,7 @@ export const keepingQuiet: PoetryForensics = {
     },
     {
       question: "What is the 'exotic moment' the poet refers to?",
-      answerVerbatim: "The poet refers to the moment of total silence and stillness as 'exotic.' It would be exotic because it would be without rush, without engines, and would create a 'sudden strangeness' where everyone feels a sense of togetherness for the first time.",
+      answerVerbatim: "I. Universal Silence: A rare moment free from the 'rush' of modern life and engines.\nII. Sudden Strangeness: A feeling of unprecedented togetherness and spiritual unity.\nIII. Departure: A break from the mundane, chaotic routine of existence.",
       markingSchemePoints: [
         "Absence of noise and mechanical rush (engines)",
         "Feeling of 'sudden strangeness' or collective unity",
@@ -84,7 +84,7 @@ export const keepingQuiet: PoetryForensics = {
     },
     {
       question: "How does the Earth teach us that there is life under apparent stillness?",
-      answerVerbatim: "The poet uses the example of the Earth which 'when everything seems dead and later proves to be alive.' In winter, nature appears dormant and lifeless, yet it is actually preparing for new growth in spring. Similarly, silence is not death but a preparation for a better life.",
+      answerVerbatim: "I. Seasonal Metaphor: The Earth in winter appears dead but is preparing for rebirth in spring.\nII. Latent Life: Real life exists within apparent stillness.\nIII. Preparation: Silence is not 'stagnation' (death) but a vital preparation for a better life.",
       markingSchemePoints: [
         "Metaphor of seasonal change (Winter to Spring)",
         "Life existing in a state of 'apparent' dormancy",
@@ -97,7 +97,7 @@ export const keepingQuiet: PoetryForensics = {
     },
     {
       question: "What does the reference to fishermen not harming whales and the man gathering salt looking at his hurt hands signify in the poem?",
-      answerVerbatim: "The reference signifies a pause in exploitative and destructive human activities. It reflects the poet's call for introspection and awareness of the harm humans cause to nature and themselves. By pausing, the fishermen and the salt gatherer are shown as reconnecting with their humanity and reflecting on their actions.",
+      answerVerbatim: "I. Cessation of Exploitation: Signifies a pause in external destruction (whales) and internal self-harm (hurt hands).\nII. Introspection: The poet calls for humans to recognize the harm they cause to nature and themselves.\nIII. Reconnection: By pausing, individuals can reconnect with their humanity and reflect on their impact.",
       markingSchemePoints: [
         "Signifies a pause in exploitative/destructive human activities",
         "Reflects poet's call for introspection and awareness",

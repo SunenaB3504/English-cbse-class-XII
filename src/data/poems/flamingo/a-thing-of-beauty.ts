@@ -59,8 +59,8 @@ export const aThingOfBeauty: PoetryForensics = {
   ],
   triggers: [
     {
-      question: "Read the extract and answer:\nAnd such too is the grandeur of the dooms\nWe have imagined for the mighty dead;\nAll lovely tales that we have heard or read:\nAn endless fountain of immortal drink,\nPouring unto us from the heaven's brink.\n\nWhat theme is best represented by the 'endless fountain of immortal drink', and why is this an apt analogy for the tales of the mighty dead?",
-      answerVerbatim: "The theme represented is the immortality of art and literature. The analogy is apt because just as a fountain constantly pours forth water, the tales of the mighty dead pour forth endless inspiration and wisdom for the living. The term 'immortal drink' suggests that the stories are never-ending and have the power to nourish and sustain us.",
+      question: "Read the extract and answer:\n\nAnd such too is the grandeur of the dooms\nWe have imagined for the mighty dead;\nAll lovely tales that we have heard or read:\nAn endless fountain of immortal drink,\nPouring unto us from the heaven's brink.\n\nWhat theme is best represented by the 'endless fountain of immortal drink', and why is this an apt analogy for the tales of the mighty dead?",
+      answerVerbatim: "I. Immortality of Art: The theme is the eternal nature of literature and heroic tales.\nII. Constant Inspiration: Like a fountain, these stories continuously pour forth wisdom and motivation.\nIII. Spiritual Nourishment: The 'immortal drink' suggests the stories sustain us across generations.",
       markingSchemePoints: [
         "Theme: Immortality of art and literature",
         "Analogy: Tales constantly pour forth inspiration and wisdom",
@@ -73,7 +73,7 @@ export const aThingOfBeauty: PoetryForensics = {
     },
     {
       question: 'How does beauty provide us "a bower quiet"?',
-      answerVerbatim: 'Beauty acts as a peaceful sanctuary that provides health and quiet breathing in a world of turmoil.',
+      answerVerbatim: "I. Sanctuary: Beauty provides a peaceful, shady shelter ('bower') in a world of turmoil.\nII. Restorative Health: It offers 'quiet breathing' and restorative sleep.\nIII. Escape: Helps the soul transcend the 'despondence' of human existence.",
       markingSchemePoints: [
         'Eternal joy',
         'Physical and spiritual health',
@@ -86,7 +86,7 @@ export const aThingOfBeauty: PoetryForensics = {
     },
     {
       question: 'What is the "grandeur of the dooms" mentioned by Keats?',
-      answerVerbatim: 'It refers to the magnificent legacies and stories of heroic sacrifices of the ancestors (mighty dead).',
+      answerVerbatim: "I. Heroic Legacies: Refers to the majestic destinies and stories of self-sacrifice of our ancestors.\nII. Eternal Inspiration: These tales act as a 'fountain' of joy that never runs dry.\nIII. Aesthetic Value: The moral beauty of their deeds is seen as eternal.",
       markingSchemePoints: [
         'Inspirational stories',
         'Legacy of the mighty dead',
@@ -99,7 +99,7 @@ export const aThingOfBeauty: PoetryForensics = {
     },
     {
       question: "Keats suggests that beauty has the power to connect us to the earth despite the struggles of human existence. In what ways does this connection impact our understanding of the 'dark spirits' he describes?",
-      answerVerbatim: "The connection to the earth forged by beauty helps to alleviate the 'dark spirits'. The presence of beauty serves as an anchor, grounding us and providing solace amidst the ‘despondence’ and struggles of life. It transforms our understanding of these struggles from overwhelming burdens into shared human experiences that can be brightened by moments of joy.",
+      answerVerbatim: "I. Alleviating Darkness: The connection to earth via beauty helps neutralize 'dark spirits'.\nII. Anchoring Force: Beauty acts as an anchor, grounding us amidst the 'despondence' of life.\nIII. Perspective Shift: Transforms struggles from overwhelming burdens into manageable human experiences.",
       markingSchemePoints: [
         "Connection to the earth forged by beauty helps to alleviate 'dark spirits'",
         "Presence of beauty serves as an anchor/grounding force",

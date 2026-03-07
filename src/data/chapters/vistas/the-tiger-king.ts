@@ -53,7 +53,7 @@ export const theTigerKing: ChapterForensics = {
   triggers: [
     {
       question: "Read the extract and answer:\nIn other words, the Tiger King is dead. The manner of his death is a matter of extraordinary interest... “The child will grow up to become the warrior of warriors, hero of heroes... But...” they bit their lips and swallowed hard... “This is a secret which should not be revealed at all. And yet we are forced to speak out.”\n\nIn the given extract, what emotion were the astrologers feeling when they 'bit their lips and swallowed hard', and why is the line 'the most fantastic aspect of his demise' an example of contrast?",
-      answerVerbatim: "The physical gesture of biting their lips indicates that the astrologers were feeling intense unease and discomfort about revealing a tragic prophecy to the King. The phrase 'the most fantastic aspect of his demise' is a contrast because 'fantastic' is usually associated with something positive and exciting, while 'demise' refers to a tragic and negative end.",
+      answerVerbatim: "I. Reluctance: The astrologers 'bit their lips' out of fear and intense unease about delivering a deadly prophecy to a powerful and absolute ruler.\nII. Contrast: The author uses 'fantastic' (positive/exciting) alongside 'demise' (tragic/negative) to highlight the satirical and unbelievable nature of the King's end.",
       markingSchemePoints: [
         "Astrologers felt unease/discomfort",
         "Reluctance to reveal a deadly prophecy",
@@ -66,7 +66,7 @@ export const theTigerKing: ChapterForensics = {
     },
     {
       question: "Discuss the significance of the toy tiger in the climax of ‘The Tiger King.’",
-      answerVerbatim: "The toy tiger, though inanimate, becomes the instrument of the Tiger King's downfall, fulfilling the prophecy. It symbolizes the tragic irony / inescapability of fate – death came from a wooden toy... The climax emphasizes the futility of the King's efforts to manipulate his destiny...",
+      answerVerbatim: "I. Instrument of Fate: The inanimate toy, rather than a real tiger, fulfills the prophecy.\nII. Symbolic Irony: Death coming from a cheap wooden object mocks the King's lifelong vanity.\nIII. Futility: It demonstrates the impossibility of manipulating or escaping one's predestined end.",
       markingSchemePoints: [
         "Inanimate toy fulfills the prophecy",
         "Symbolizes tragic irony and inescapability of fate",
@@ -79,7 +79,7 @@ export const theTigerKing: ChapterForensics = {
     },
     {
       question: 'What is the irony in the Tiger King’s death?',
-      answerVerbatim: 'After killing 99 real tigers with high-tech weapons, he is killed by a "sliver" of wood from a poorly made toy tiger.',
+      answerVerbatim: "I. Predestined End: Despite high-tech weapons and 99 kills, a tiny wooden sliver causes the fatal infection.\nII. Poetic Justice: The King's ego is defeated by a crude proxy of nature.\nIII. Mockery: Destiny has the final laugh over the 'great' hunter's absolute power.",
       markingSchemePoints: [
         'Prophecy fulfillment',
         'Victory of destiny over ego',
@@ -92,7 +92,7 @@ export const theTigerKing: ChapterForensics = {
     },
     {
       question: 'How did the Dewan manage the 100th tiger?',
-      answerVerbatim: 'He secretly brought an old, weak tiger from the People’s Park in Madras and left it in the forest for the King to find.',
+      answerVerbatim: "I. Fear-driven Farce: The Dewan imports an old tiger from Madras to avoid the King's wrath.\nII. Manipulation: He releases it into the forest secretly for the King to 'find'.\nIII. Sycophancy: Highlights the desperate lies subordinates tell to survive an absolute monarch.",
       markingSchemePoints: [
         'Fear of the King’s temper',
         'Manipulation of the hunt',

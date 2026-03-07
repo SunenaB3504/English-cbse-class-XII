@@ -52,7 +52,7 @@ export const memoriesOfChildhood: ChapterForensics = {
   triggers: [
     {
       question: "A grown up Zitkala-Sa, reflects on the incident about cutting of her long hair and is conflicted that she did not do enough to resist and surrendered easily. She also wonders if she could have tried something else to prevent the incident. As the grown-up Zitkala-Sa, create a diary entry, expressing these thoughts and conclude by absolving yourself of any blame.",
-      answerVerbatim: "I find myself reflecting on an event that happened many years ago... I am proud I stood up for myself and hid initially. But as time passed, I allowed them to cut my hair. I feel I gave in too easily, that I did not do enough to resist. Perhaps I could have sought help from fellow students or tried to escape. But I was so overwhelmed I could not think straight. Today, I absolve myself of any blame. As a young girl forced into a strange place, I was a victim of a system seeking to strip my identity. I forgive myself and honor the brave little girl who stood up for herself.",
+      answerVerbatim: "Dear Diary, I am reflecting on the day my hair was shingled.\n\nI. Initial Resistance: I am proud that I hid and fought back with a kick.\nII. Survivor's Guilt: As an adult, I wonder if I could have escaped or fought harder.\nIII. Systemic Failure: However, I realize I was a terrified child in a brutal, institutionalized system.\nIV. Self-Forgiveness: I absolve myself of blame; I was a victim of cultural erasure, and I honor that brave little girl.",
       markingSchemePoints: [
         "Conflict over surrendering easily and not doing enough to resist",
         "Wondering if alternate actions (escaping/getting help) were possible",
@@ -65,7 +65,7 @@ export const memoriesOfChildhood: ChapterForensics = {
     },
     {
       question: "How can we say that the vadai packet incident reveals that the writer lacked the cognitive and emotional maturity required to understand the implications of untouchability?",
-      answerVerbatim: "At the time of the incident, the writer was only in the third grade (around eight years old) - children at that age are still developing their cognitive and emotional abilities - it is not uncommon for them to lack a full understanding of complex social issues. The writer shared she had not heard people speak openly of it - suggesting she did not fully grasp the issue's societal implications. She understood individuals were treated differently, but not the full scope.",
+      answerVerbatim: "I. Childhood Innocence: At eight years old, Bama found the elder's actions 'hilarious' rather than insulting.\nII. Lack of Context: She had not yet been exposed to the open discussion of caste-based pollution.\nIII. Developing Awareness: She understood people were treated differently but lacked the cognitive maturity to grasp the sinister power of untouchability.",
       markingSchemePoints: [
         "Writer was only 8 years old (developing cognitive abilities)",
         "Had never heard people speak openly of untouchability",
@@ -78,7 +78,7 @@ export const memoriesOfChildhood: ChapterForensics = {
     },
     {
       question: "In what ways does the imagery of her ‘long hair shingled like a coward's’ symbolise the erasure of Zitkala’s cultural heritage and the imposition of Western norms?",
-      answerVerbatim: "Her long hair represented her Native American cultural identity, as cutting it was a practice reserved for cowards in her culture. Therefore, the forced shingling of her hair stands as a harsh metaphor for the violent stripping away of her heritage by the boarding school authorities.",
+      answerVerbatim: "I. Sacred Symbol: Long hair represented bravery and honor in Zitkala-Sa's Native American culture.\nII. Mourning vs. Cowardice: Cutting hair was a ritual reserved for losers or those in shame.\nIII. Violent Erasure: Shingling was a metaphor for the intentional stripping of cultural heritage by the authorities.",
       markingSchemePoints: [
         "Long hair represented Native American cultural identity",
         "Cutting it was a practice reserved for cowards/mourners",
@@ -91,7 +91,7 @@ export const memoriesOfChildhood: ChapterForensics = {
     },
     {
       question: 'What did "shingled hair" mean to Zitkala-Sa?',
-      answerVerbatim: 'In her culture, shingled hair was worn only by cowards, mourners, or those in shame; it was the ultimate loss of dignity.',
+      answerVerbatim: "I. Cultural Loss: In her tradition, short hair was worn only by cowards, mourners, or the shamed.\nII. Institutional Assault: The forced cut was the school's primary tool for mental and cultural subjugation.\nIII. Crushed Dignity: It represented the ultimate loss of individual and community honor.",
       markingSchemePoints: [
         'Cultural significance',
         'Traditional beliefs',
@@ -104,7 +104,7 @@ export const memoriesOfChildhood: ChapterForensics = {
     },
     {
       question: 'What advice did Annan give to Bama?',
-      answerVerbatim: 'He told her that because they were born into that community, they had no honor or dignity; only education could change that.',
+      answerVerbatim: "I. Systemic Oppression: Being born into the Dalit community meant an inherent loss of honor in the eyes of society.\nII. Education as a Weapon: Annan advised that intellectual excellence was the only tool to reclaim dignity.\nIII. Merit over Caste: By studying hard, Bama could force others to respect her based on her own effort.",
       markingSchemePoints: [
         'Power of knowledge',
         'Social equality',

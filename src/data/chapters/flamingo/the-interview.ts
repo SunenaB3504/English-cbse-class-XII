@@ -52,7 +52,7 @@ export const theInterview: ChapterForensics = {
   triggers: [
     {
       question: "Umberto Eco, with reference to 'The Name of the Rose' says, “I think if I had written The Name of the Rose ten years earlier or ten years later, it wouldn’t have been the same.” What could he have meant?",
-      answerVerbatim: "Eco suggests that the success of his book was largely due to timing. This could be interpreted as Eco recognizing the importance of cultural context and how the reception of a work of art is influenced by the historical, social, and political climate of its time. The themes and ideas he explored resonated particularly strongly with readers in that fleeting cultural moment.",
+      answerVerbatim: "I. Importance of Zeitgeist: Eco suggests the book's success depended heavily on the 'right time'.\nII. Cultural Context: Its themes (metaphysics/theology) resonated with the specific mood of that decade.\nIII. Unpredictability of Fame: Even Eco cannot fully explain why it became a mass phenomenon.",
       markingSchemePoints: [
         "Success of the book was largely due to timing",
         "Recognizing the importance of cultural context",
@@ -65,7 +65,7 @@ export const theInterview: ChapterForensics = {
     },
     {
       question: "What is Umberto Eco's theory of 'interstices'?",
-      answerVerbatim: "Eco explains that the universe has empty spaces. If we eliminate those spaces, the universe would be the size of a fist. Similarly, in our lives, we have many empty spaces—intervals. He calls them 'interstices.' He works in these spaces, which is why he can write so much.",
+      answerVerbatim: "I. Universe Metaphor: Just as the universe has empty spaces, our lives have 'intervals'.\nII. Micro-productivity: Eco uses these 'interstices' (like waiting for an elevator) to work.\nIII. Secret of Prolificacy: This technique allows him to produce a vast amount of intellectual work.",
       markingSchemePoints: [
         "Metaphor of the universe's empty spaces",
         "Utilization of time-intervals (e.g., waiting for an elevator)",
@@ -78,7 +78,7 @@ export const theInterview: ChapterForensics = {
     },
     {
       question: "Why do some celebrities despise being interviewed?",
-      answerVerbatim: "Some see it as an unwarranted intrusion into their lives. They feel that it somehow diminishes them. V.S. Naipaul feels that 'some people are wounded by interviews and lose a part of themselves.' Lewis Carroll had a 'just horror of the interviewer.' Rudyard Kipling called it 'immoral' and 'a crime.'",
+      answerVerbatim: "I. Unwarranted Intrusion: They see it as a violation of privacy and personal identity.\nII. Naipaul's View: Believes people are 'wounded' and lose a part of themselves.\nIII. Kipling's View: Characterized it as 'immoral', 'a crime', and an 'assault'.",
       markingSchemePoints: [
         "Loss of privacy/unwarranted intrusion",
         "Feeling of being 'wounded' or 'diminished'",

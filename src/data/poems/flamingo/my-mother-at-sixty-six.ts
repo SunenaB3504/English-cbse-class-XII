@@ -43,8 +43,8 @@ export const myMotherAtSixtySix: PoetryForensics = {
   ],
   triggers: [
     {
-      question: "Read the extract and answer:\n...I looked again at her, wan, pale\nas a late winter’s moon and felt that old\nfamiliar ache, my childhood’s fear,\nbut all I said was, see you soon, Amma,\nall I did was smile and smile and smile......\n\nWhat is the speaker's emotional state when looking at her mother, and what does the use of the word 'but' suggest in the line 'but all I said was...'?",
-      answerVerbatim: "The speaker is fearful and apprehensive, feeling an 'old familiar ache' and 'childhood's fear' rooted in past experiences of separation. The use of the word 'but' suggests a contrast between the speaker's internal emotional response (intense fear of loss) and her outward behaviour (smiling to reassure her mother).",
+      question: "Read the extract and answer:\n\n...I looked again at her, wan, pale\nas a late winter’s moon and felt that old\nfamiliar ache, my childhood’s fear,\nbut all I said was, see you soon, Amma,\nall I did was smile and smile and smile......\n\nWhat is the speaker's emotional state when looking at her mother, and what does the use of the word 'but' suggest in the line 'but all I said was...'?",
+      answerVerbatim: "I. Emotional State: The speaker is fearful and apprehensive, feeling an 'old familiar ache' rooted in childhood fears.\nII. Role of 'But': It suggests a stark contrast between internal turmoil (dread of loss) and external composure (smiling to reassure her mother).",
       markingSchemePoints: [
         "Emotional state: Fearful, apprehensive, nostalgic ache",
         "Driven by a childhood fear of losing the mother",
@@ -57,7 +57,7 @@ export const myMotherAtSixtySix: PoetryForensics = {
     },
     {
       question: "Interpret the use of visual imagery by Kamala Das in her poem to depict the passage of time.",
-      answerVerbatim: "The image of her aging mother - ‘pale as a late winter’s moon,’ -- conveys the fragility and the inevitability of aging -- highlights the physical changes brought by time and evokes a sense of gentle, serene decline rather than abrupt decay. The image with the vivid, lively description of young trees sprinting and merry children spilling out of their homes --- contrasts sharply with her mother's stillness and silence --- enhances the sense of her mother's isolation in her old age / the relentless passage of time that spares no one -- life’s transient nature",
+      answerVerbatim: "I. Aging Process: The mother is 'pale as a late winter’s moon,' signifying fragility and inevitable decline.\nII. Juxtaposition: This is contrasted with 'young trees sprinting' and 'merry children spilling out,' which represent life's vitality.\nIII. Transience: Highlights the relentless passage of time and the mother's isolation in her old age.",
       markingSchemePoints: [
         "Aging mother ('pale as a late winter's moon') conveys fragility/inevitability",
         "Highlights physical changes/gentle decline",
@@ -84,7 +84,7 @@ export const myMotherAtSixtySix: PoetryForensics = {
     },
     {
       question: "Why does the poet compare her mother to a 'late winter's moon'?",
-      answerVerbatim: "Winter is the final season of the year, symbolizing the end of life. A 'late winter's moon' appears pale, hazy, and lacks brightness and strength, much like the poet's mother who has lost her youthful glow and is nearing the end of her life journey.",
+      answerVerbatim: "I. Symbolism of Winter: Winter represents the final stage of life and the end of a cycle.\nII. Comparison: Much like a late winter's moon is obscured and hazy, the mother has lost her youthful radiance and strength.",
       markingSchemePoints: [
         "Symbolism of winter as the end of life",
         "Loss of radiance and vital energy",
@@ -97,7 +97,7 @@ export const myMotherAtSixtySix: PoetryForensics = {
     },
     {
       question: "Read the given extract and answer the questions:\n\n… I saw my mother,\nbeside me,\ndoze, open mouthed, her face\nashen like that\nof a corpse and realised with\npain\nthat she was as old as she\nlooked but soon\nput that thought away, and\nlooked out at Young Trees sprinting, the merry children spilling\nout of their homes…\n\nI. What does the imagery of the ‘ashen face’ of the mother suggest about her physical condition?\nII. The speaker’s use of the word 'realised' suggests that her awareness was _______ (delayed / expected / sudden).\nIII. How does the phrase ‘merry children spilling out of their homes’ contribute to the tone of the passage?\nIV. The primary theme highlighted in the extract is the _______ , as the narrator reflects on her mother’s frailty and aging.\nV. What can be inferred about the emotional state of the speaker in the extract?\na) Distracted by the liveliness of the surroundings\nb) Concerned about her mother’s discomfort\nc) Overwhelmed by a sense of anguish\nd) Preoccupied with thoughts about life experiences\nVI. All of the following are true for the extract EXCEPT –\na) The comparison to a ‘corpse’ highlights the speaker’s fear of losing her mother.\nb) The poet makes exclusive use of melancholic imagery in the given lines.\nc) The speaker’s internal conflict creates a relatable portrayal of human relationships.\nd) The universality of themes makes the lines relevant to the readers.",
-      answerVerbatim: "I. She is frail, aged, in a declining physical condition, vulnerable, weakening health, lacks vitality.\nII. sudden\nIII. It introduces a contrast of vitality, joy and exuberance against the sombre and reflective mood created by the imagery of the mother’s frailty.\nIV. certainty of mortality / inevitability of death / transient nature of life\nV. c) Overwhelmed by a sense of anguish\nVI. b) The poet makes exclusive use of melancholic imagery in the given lines.",
+      answerVerbatim: "I. Fragility: She is in a declining physical state, lacking vitality.\nII. sudden: The narrator's realization of her mother's mortality is abrupt and painful.\nIII. Contrast: The 'spilling children' introduce a tone of exuberance against the mother's somatic stillness.\nIV. Universal Theme: The inevitability of death and the transient nature of life.\nV. Anguish: The speaker is overwhelmed by a sense of impending loss.\nVI. Imagery: The poem uses a mix of melancholic and vibrant imagery.",
       markingSchemePoints: [
         "I - Frailty and declining physical condition",
         "II - sudden",

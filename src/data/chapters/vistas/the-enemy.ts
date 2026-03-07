@@ -59,7 +59,7 @@ export const theEnemy: ChapterForensics = {
   triggers: [
     {
       question: "Answer the question in the context of the following lines from ‘The Enemy’.\n“Stupid Yumi,” she muttered fiercely. “Is this anything but a man? And a wounded helpless man!”\nIn the conviction of her own superiority she bent impulsively and untied the knotted rugs that kept the white man covered.\n\nExplain the superiority Hana is convinced about.",
-      answerVerbatim: "Hana is expressing her frustration with Yumi, who is hesitant to help the wounded white man. By asking 'Is this anything but a man?', Hana is highlighting that they are all humans, regardless of race or nationality. She believes their common humanity makes it a moral duty to help. In these lines, she asserts her belief in the importance of doing the right thing, demonstrating her sense of moral superiority over Yumi, who is more concerned with following strict rules than helping a fellow human being.",
+      answerVerbatim: "I. Moral Superiority: Hana prioritizes basic human compassion over Yumi's fearful, prejudiced nationalism.\nII. Universalism: She recognizes the POW as a 'wounded helpless man' rather than just an ideological enemy.\nIII. Overcoming Bias: Her conviction allows her to act when others are paralyzed by societal rules.",
       markingSchemePoints: [
         "Frustration with Yumi's hesitation to help",
         "Highlighting common humanity over race/nationality",
@@ -72,7 +72,7 @@ export const theEnemy: ChapterForensics = {
     },
     {
       question: "Analyse how the writer has incorporated influences such as religion/humanity, family bonds, and patriotism to good effect in the story, The Enemy.",
-      answerVerbatim: "Religion/Humanity: Sadao's Hippocratic oath overrides his nationalistic hatred. Family Bonds: The traditional Japanese household dynamics between Sadao and Hana add tension but ultimate support. Patriotism: Represented by the servants' mutiny and the General. The conflict between these forces creates the story's profound psychological depth.",
+      answerVerbatim: "I. Humanity vs. Hate: Sadao's medical ethics override his nationalistic duty.\nII. Domestic Support: The bond between Sadao and Hana provides the resilience needed to harbor the POW.\nIII. Patriotism: Servants and the General represent the external pressures of wartime expectations.\nIV. Psychological Depth: The intersection of these forces creates a profound moral struggle.",
       markingSchemePoints: [
         "Humanity/Medical ethics overriding national hatred",
         "Family bonds creating tension and support (Hana's role)",
@@ -86,7 +86,7 @@ export const theEnemy: ChapterForensics = {
     },
     {
       question: 'Why did Sadao help the American escape?',
-      answerVerbatim: 'Because he realized that high walls of prejudice could not withstand the common human bond, and he felt his duty as a doctor was fulfilled.',
+      answerVerbatim: "I. Ethical Victory: His conscience as a doctor definitively conquers his patriotism.\nII. Common Bond: Realizes that 'high walls of prejudice' are artificial constructs of war.\nIII. Fulfilled Duty: After healing the man, he cannot condemn him to death, ensuring his ultimate safety.",
       markingSchemePoints: [
         'Doctor’s conscience',
         'Humanity over nationalism',
@@ -99,7 +99,7 @@ export const theEnemy: ChapterForensics = {
     },
     {
       question: 'How did the servants react to the POW?',
-      answerVerbatim: 'They were openly hostile, critical of Sadao’s "American education," and eventually left the house in protest.',
+      answerVerbatim: "I. Hostility: The servants represent blind nationalism and superstitious fear of the foreigner.\nII. Criticism: They label Sadao's medical compassion as a corrupting influence of 'American education'.\nIII. Protest: Their eventual resignation highlights the intense societal pressure and legal risk Sadao faced.",
       markingSchemePoints: [
         'Nationalist pride',
         'Fear of legal trouble',
@@ -112,7 +112,7 @@ export const theEnemy: ChapterForensics = {
     },
     {
       question: "'The Enemy' highlights the conflict between national duty and personal ethics, showcasing how compassion can transcend prejudice. Write a character analysis of Dr. Sadao, exploring this conflict and his ultimate choices.\nYou may begin like this:\nDr. Sadao is a complex character who finds himself torn between his duty as a Japanese citizen and his ethical obligations as a doctor.",
-      answerVerbatim: "Dr. Sadao is a complex character who finds himself torn between his duty as a Japanese citizen and his ethical obligations as a doctor. When an American prisoner of war washes ashore, Sadao faces a profound moral dilemma. Initially, he and his wife Hana hesitate, driven by patriotism and fear of reprisal. However, his training as a surgeon prevails, compelling him to save the soldier's life... His ultimate decision to help the American escape demonstrates that his compassion and medical ethics outweigh national prejudice...",
+      answerVerbatim: "I. Core Conflict: Dr. Sadao is torn between his national duty to report a POW and his ethical duty to save a life.\nII. Moral Evolution: He moves from initial patriotic hesitation to active clinical intervention.\nIII. Universalism: Choosing to facilitate Tom's escape proves that his medical oath eclipses all political boundaries.\nIV. Conclusion: His character represents the triumph of individual ethics over state-mandated prejudice.",
       markingSchemePoints: [
         "Faces profound moral dilemma (patriotism vs. medical ethics)",
         "Initial hesitation driven by patriotism/fear of reprisal",

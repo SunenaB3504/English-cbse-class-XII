@@ -60,7 +60,7 @@ export const goingPlaces: ChapterForensics = {
   triggers: [
     {
       question: "While both Sophie and Subbu share aspirations for success in their respective fields, they encounter different constraints and demonstrate distinct approaches in pursuing their dreams. Analyse this statement based on Sophie's approach.",
-      answerVerbatim: "Sophie dreams of owning a boutique or becoming a fashion designer. Financial limitations and other expectations, such as her father's disapproval, hinder Sophie's pursuit of her dreams. Despite the challenges, Sophie remains determined to achieve her goals, showing persistence and creativity in her pursuits.",
+      answerVerbatim: "I. Escapist Dreams: Sophie's aspirations (boutique/designer) are disconnected from her reality.\nII. Socio-economic Constraints: Financial limitations and family skepticism act as barriers.\nIII. Internal Persistence: She pours her creativity into maintaining an elaborate mental fantasy.",
       markingSchemePoints: [
         "Dreams of owning boutique/becoming designer",
         "Hindered by financial limitations/father's disapproval",
@@ -74,7 +74,7 @@ export const goingPlaces: ChapterForensics = {
     },
     {
       question: "Contrast the characters of Sophie and Jansie.",
-      answerVerbatim: "Sophie is a dreamer who lives in a world of fantasy, while Jansie is a realist who is grounded in her social reality. Sophie dreams of becoming a boutique owner or an actress, whereas Jansie knows she is earmarked for the biscuit factory. Sophie is secretive; Jansie is a gossip.",
+      answerVerbatim: "I. Dreamer vs. Realist: Sophie lives in fantasy; Jansie accepts her socio-economic reality.\nII. Aspiration vs. Fate: Sophie dreams of stardom; Jansie knows she is 'earmarked' for a factory.\nIII. Privacy vs. Gossip: Sophie is secretive about her mind; Jansie is prone to community gossip.",
       markingSchemePoints: [
         "Dreamer vs. Realist",
         "Aspiration vs. Acceptance of fate",
@@ -87,7 +87,7 @@ export const goingPlaces: ChapterForensics = {
     },
     {
       question: "Why did Sophie choose Geoff to tell her secret about Danny Casey?",
-      answerVerbatim: "Geoff was silent and didn't talk much, which made Sophie think he had 'vasty areas' of his mind that she wanted to be part of. She felt that because he was quiet, she could trust him with her secrets and that he might take her to those 'exotic' places.",
+      answerVerbatim: "I. Silent Confidant: Geoff's introverted nature made him seem trustworthy.\nII. Exotic Unknowns: Sophie imagined he had 'vast areas' of his mind related to the outside world.\nIII. Hope for Inclusion: She wanted to be part of his adult, mechanical world.",
       markingSchemePoints: [
         "Geoff's introverted and silent nature",
         "Sophie's desire to access his 'unknown' world",
@@ -100,7 +100,7 @@ export const goingPlaces: ChapterForensics = {
     },
     {
       question: "Read the given extract and answer the questions:\n\n“She thinks money grows on trees, don’t she, Dad?”, said little Derek, hanging on the back of his father’s chair.\nTheir mother sighed. Sophie watched her back stooped over the sink and wondered at the incongruity of the delicate bow which fastened her apron strings. The delicate-seeming bow and the crooked back.\nThe evening had already blacked in the windows and the small room was steamy from the stove and cluttered with the heavy-breathing man in his vest at the table and the dirty washing piled up in the corner. Sophie felt a tightening in her throat.\nShe went to look for her brother Geoff.\n\nI. Fill in the blank by choosing the correct option from those given in the brackets.\nThe literal meaning conveyed via the phrase ‘the evening had already blacked in the windows’ is the_______ (arrival of night / shadow over ambitions).\nII. What was mother most likely thinking when she sighed?\n1. \"Life would have been different if money did grow on trees!\"\n2. \"I wish he would stop troubling my dear Sophie.\"\n3. \"We can only wish; we’ve never had enough anyway.\"\n4. \"I’m too tired to respond to such comments anymore.\"\n5. \"Our struggles will never end; no matter what Sophie dreams of.\"\nSelect the most suitable option.\nA. 1, 3 and 5\nB. 2, 4 and 5\nC. 1 and 4\nD. 2 and 3\nIII. The delicate bow on Sophie’s mother’s apron and her crooked back highlights the theme of ______.\nA. appearance vs. reality\nB. resilience through hardship\nC. the fragility of youth\nD. the complexity of familial love\nIV. The line from the extract that correctly captures Sophie’s emotional response to the contrast between her dreams and the limitations of her current circumstances is ‘________.’\nV. What does the writer emphasise by associating the term ‘cluttered’ with ‘heavy breathing’?\nVI. How does the setting of the room contribute to the mood of the extract?",
-      answerVerbatim: "I. arrival of the night\nII. A) 1, 3 and 5\nIII. A) appearance vs. reality\nIV. Sophie felt a tightening in her throat.\nV. The writer emphasises the oppressive and suffocating environment of Sophie’s household. The heavy breathing of her father is a metaphorical representation of the overwhelming weight of fatigue, labour, and monotony.\nVI. The cluttered and steamy setting creates a sense of discomfort and hardship, contributing to the mood of weariness and tension.",
+      answerVerbatim: "I. arrival of the night\nII. A) 1, 3 and 5\nIII. A) appearance vs. reality\nIV. 'Sophie felt a tightening in her throat.'\nV. Oppressive Environment: Emphasises the suffocating fatigue and heavy monotony of the household.\nVI. Hardship: The steamy, cluttered setting creates a mood of weariness and physical tension.",
       markingSchemePoints: [
         "I - arrival of the night",
         "II - A) 1, 3 and 5",

@@ -46,7 +46,7 @@ export const deepWater: ChapterForensics = {
   triggers: [
     {
       question: "Douglas uses sensory details to create a vivid image of the unfortunate experience in the pool. What might be the impact on the reader if the narration were more informative than sensory?",
-      answerVerbatim: "If more informative than sensory, the impact on the reader would likely be less emotional and engaging as sensory details help readers connect with the experience being described on a deeper level. They allow readers to visualize the scene in their minds and feel like they are a part of it. Even though informative details may provide more factual information but can sometimes feel detached and impersonal, leaving readers feeling less connected to the story.",
+      answerVerbatim: "I. Emotional Resonance: If more informative than sensory, the impact would be less emotional as sensory details help readers connect with the experience deeply.\nII. Visualization: Sensory details allow readers to visualize the scene in their minds.\nIII. Detachment: While informative details provide facts, they can feel detached and impersonal, leaving readers less connected.",
       markingSchemePoints: [
         "Less emotional and engaging",
         "Sensory details help readers connect deeply",
@@ -59,7 +59,7 @@ export const deepWater: ChapterForensics = {
     },
     {
       question: "Explain the 'systematic' approach Douglas took to overcome his fear.",
-      answerVerbatim: "He hired an instructor who put a belt around him and used a rope through a pulley. For three months, he practiced exhaling underwater and inhaling above. The instructor built a swimmer 'piece by piece', and only when each part was perfect did he put them together into an integrated whole.",
+      answerVerbatim: "I. Guided Training: He hired an instructor who used a belt and pulley system for safety.\nII. Breath Control: For three months, he practiced exhaling underwater and inhaling above.\nIII. Piece-by-piece Integration: The instructor built a swimmer 'piece by piece', integrating skills only when each part was perfect.",
       markingSchemePoints: [
         "Methodical use of pulley and rope",
         "Isolation of skills (breathing, kicking)",
@@ -72,7 +72,7 @@ export const deepWater: ChapterForensics = {
     },
     {
       question: "Analyze Douglas's experience in the light of Roosevelt's quote on fear.",
-      answerVerbatim: "Douglas realized that 'In death there is peace. There is terror only in the fear of death.' He lived through the experience of dying and the terror that fear of it produces. His victory prove Roosevelt's point—that the fear itself is the true enemy to be conquered.",
+      answerVerbatim: "I. Philosophy of Fear: Douglas realized that 'In death there is peace. There is terror only in the fear of death.'\nII. The True Enemy: Through his near-death experience, he proved Roosevelt's point—that the fear itself is the true enemy to be conquered.\nIII. Desire to Live: Conquering this fear intensified his will to live.",
       markingSchemePoints: [
         "Distinction between death (peace) and fear of death (terror)",
         "Psychological insight from near-drowning",
@@ -85,7 +85,7 @@ export const deepWater: ChapterForensics = {
     },
     {
       question: "What lesson can individuals learn from Douglas’s experience in overcoming his fear of water?",
-      answerVerbatim: "Individuals can learn that fear can be overcome through perseverance, determination, and gradual exposure to the source of fear. Douglas’s experience teaches that facing challenges step by step, with proper guidance and practice, allows one to conquer even the most deep-seated fears, leading to personal growth and freedom.",
+      answerVerbatim: "I. Perseverance: Fear can be overcome through determination and persistence.\nII. Gradual Exposure: Douglas’s experience teaches that facing challenges step by step helps one conquer deep-seated phobias.\nIII. Guidance: Proper mentorship and practice are crucial to dismantling psychological barriers.",
       markingSchemePoints: [
         "Fear can be overcome through perseverance and determination",
         "Gradual exposure to the source of fear",

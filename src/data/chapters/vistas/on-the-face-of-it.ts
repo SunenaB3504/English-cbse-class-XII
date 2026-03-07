@@ -52,7 +52,7 @@ export const onTheFaceOfIt: ChapterForensics = {
   triggers: [
     {
       question: "What does the play ‘On the Face of It’ suggest about the importance of empathy in overcoming prejudice and stereotypes?",
-      answerVerbatim: "The play highlights the damaging effects of prejudice and stereotypes on both the victim and the perpetrator. However, it also suggests that empathy and understanding can overcome these barriers. Through the relationship between Derry and Mr. Lamb, their initial assumptions are challenged and broken down. This underscores the importance of empathy in recognizing prejudices, allowing individuals to see beyond surface-level differences.",
+      answerVerbatim: "I. Damaging Effects: Prejudice and stereotypes negatively impact both the victim (Derry) and the perpetrator.\nII. Breaking Barriers: Empathy and understanding are essential to challenge and break down assuming assumptions.\nIII. Surface vs. Soul: Empathy allows individuals to see beyond surface-level scars to recognize common humanity.",
       markingSchemePoints: [
         "Prejudice damages both victim and perpetrator",
         "Relationship between Derry and Lamb challenges initial assumptions",
@@ -65,7 +65,7 @@ export const onTheFaceOfIt: ChapterForensics = {
     },
     {
       question: "How does Susan Hill subtly portray a blend of pessimism and optimism in ‘On the Face of It’?",
-      answerVerbatim: "Susan Hill portrays pessimism through Derry's alienation and Mr. Lamb's tragic death... However, optimism shines through Mr. Lamb's resilience, his ability to find beauty in weeds, and Derry's ultimate transformation towards a positive outlook.",
+      answerVerbatim: "I. Pessimism: Rooted in Derry's alienation, self-hatred, and the tragic death of Mr. Lamb.\nII. Optimism: Found in Lamb's resilience, his 'weed garden' philosophy, and Derry's ultimate transformation.\nIII. Legacy: Even after tragedy, the positive outlook survives through Derry's change in character.",
       markingSchemePoints: [
         "Pessimism rooted in Derry's alienation and Mr. Lamb's death",
         "Optimism through Mr. Lamb's resilience and worldview",
@@ -78,7 +78,7 @@ export const onTheFaceOfIt: ChapterForensics = {
     },
     {
       question: 'What is the "Face" of it that Mr. Lamb talks about?',
-      answerVerbatim: 'It refers to the superficial appearance of things. On the surface (on the face of it), Derry and Lamb are different and "ugly," but inside they are both human souls.',
+      answerVerbatim: "I. Superficiality: Refers to the deceptive nature of physical appearance.\nII. Surface vs. Depth: On the surface, both are seen as 'ugly' or 'lame', but they share a common human soul.\nIII. Rejection of Labels: Challenges the idea that a physical scar determines identity.",
       markingSchemePoints: [
         'Superficiality',
         'Inner identity',
@@ -91,7 +91,7 @@ export const onTheFaceOfIt: ChapterForensics = {
     },
     {
       question: 'Why does Derry keep coming back to Mr. Lamb?',
-      answerVerbatim: 'Because for the first time, someone treats him like a normal human being and doesn’t show pity or fear toward his face.',
+      answerVerbatim: "I. Human Connection: For the first time, Derry is treated as a person rather than a 'monster'.\nII. Absence of Pity: He values Lamb's complete indifference to his physical scar.\nIII. Empowering Dialogue: Derry is disarmed by being spoken to as an equal without fear or pity.",
       markingSchemePoints: [
         'Acceptance',
         'Positive reinforcement',
@@ -104,7 +104,7 @@ export const onTheFaceOfIt: ChapterForensics = {
     },
     {
       question: "Read the given extract and answer the questions:\n\nDerry: What they think.\nMr Lamb: What do they think, then?\nDerry: You think.... ‘Here’s a boy.’ You look at me...and then you see my face and you think. ‘That’s bad. That’s a terrible thing. That’s the ugliest thing I ever saw.’ You think, ‘Poor boy.’ But I’m not. Not poor. Underneath, you are afraid. Anybody would be. I am. When I look in the mirror, and see it, I’m afraid of me.\nMr Lamb: No, Not the whole of you. Not of you.\nDerry: Yes!\n[Pause]\n\nI. What does Mr. Lamb mean when he says, “No. Not the whole of you. Not of you”?\nII. What might Derry be thinking during the pause after he insists, “Yes!”?\nChoose the most appropriate option:\nA. \"Why doesn’t he understand me?\"\nB. \"He’s pretending to care like everyone else.\"\nC. \"Maybe he really sees more than just my face.\"\nD. \"I should leave. He doesn’t get it.\"\nIII. Fill in the blank with a suitable word:\nMr. Lamb’s response suggests that he sees Derry’s face as only one ______ of who he is.\nIV. What does this exchange reveal about the emotional distance Derry feels and Mr. Lamb’s attempt to bridge it?",
-      answerVerbatim: "I. Mr. Lamb means that Derry’s appearance is not his whole identity. He sees beyond the scarred face to the person within.\nII. c) \"Maybe he really sees more than just my face.\"\nIII. aspect\nIV. The exchange reveals that Derry feels deeply misunderstood and defined by his appearance, while Mr. Lamb tries to connect with him on a human level by challenging Derry’s belief.",
+      answerVerbatim: "I. Identity: Mr. Lamb insists that Derry's scar is not his 'whole' being or identity.\nII. Perspective: The 'Pause' signifies Derry's internal shift as he recognizes Lamb's sincerity.\nIII. Breaking Assumptions: Derry assumes everyone is afraid; Lamb challenges this by looking past the face.\nIV. Misunderstanding: Derry feels defined by his face; Lamb attempts to bridge this by focusing on the 'person within'.",
       markingSchemePoints: [
         "I - Appearance is not his whole identity",
         "II - c) Maybe he really sees more than just my face",
@@ -118,7 +118,7 @@ export const onTheFaceOfIt: ChapterForensics = {
     },
     {
       question: "What does Derry’s remark, “Think, you might have been blinded, or born deaf, or have to live in a wheelchair...,” reveal about his perspective on how people console others?",
-      answerVerbatim: "This remark reflects Derry’s frustration with the way people console others by comparing struggles. He feels such comparisons dismiss his pain, highlighting his sensitivity and resentment toward invalidating his personal experiences. It shows his desire to be understood for his individual challenges rather than being generalised or pitied.",
+      answerVerbatim: "I. Frustration with Pity: Derry resents being told 'it could be worse', as it invalidates his specific pain.\nII. Individualism: He wants his unique challenges to be acknowledged rather than generalized.\nIII. Rejection of Comparison: Comparisons to blindness or wheelchairs suggest that his suffering is 'relative' rather than absolute.",
       markingSchemePoints: [
         "Frustration with how people console by comparing struggles",
         "Comparisons dismiss his intense personal pain",

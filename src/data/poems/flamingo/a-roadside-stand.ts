@@ -77,7 +77,7 @@ export const aRoadsideStand: PoetryForensics = {
     },
     {
       question: "Analyse the poems, A Roadside Stand and Aunt Jennifer's Tigers for the theme of inequality and its impact on the bearers.",
-      answerVerbatim: "A Roadside Stand focuses on the economic disparities between rural and urban areas. Aunt Jennifer's Tigers delves into the gender-based inequalities within marriage and society. Both poems highlight the struggles faced by individuals marginalized by socioeconomic and gender divisions.",
+      answerVerbatim: "I. Roadside Stand (Economic): Focuses on the socio-economic disparities between rural and urban areas.\nII. Aunt Jennifer's Tigers (Gender): Delves into the gender-based inequalities within marriage.\nIII. Common Impact: Both poems highlight the struggles, loss of agency, and marginalization of the bearers.",
       markingSchemePoints: [
         "A Roadside Stand: Economic disparities (Rural vs Urban)",
         "Aunt Jennifer's Tigers: Gender-based inequality in marriage",
@@ -90,7 +90,7 @@ export const aRoadsideStand: PoetryForensics = {
     },
     {
       question: 'What is the "childish longing in vain" that the poet refers to?',
-      answerVerbatim: 'It is the farmers\' persistent but futile hope that a car will stop and buy something from their roadside stand.',
+      answerVerbatim: "I. Hopeless Waiting: The farmers' futile hope that a passing car will stop and buy their produce.\nII. Economic Neglect: Represents the failure of the 'city money' to acknowledge rural existence.\nIII. Vain Aspiration: A 'childish' need for recognition that is never fulfilled by the urban elite.",
       markingSchemePoints: [
         'Hopeless waiting',
         'Economic disappointment',
@@ -103,7 +103,7 @@ export const aRoadsideStand: PoetryForensics = {
     },
     {
       question: 'Why are the politicians called "greedy good-doers"?',
-      answerVerbatim: 'Because they pretend to help the rural poor with schemes while actually exploiting them for their own political or financial gain.',
+      answerVerbatim: "I. Pretence of Help: Politicians offer schemes that appear beneficial but are actually self-serving.\nII. Manipulation: These 'benefactors' lull the poor into a state of passivity while exploiting them.\nIII. Destructive Charity: They strip the rural folk of their traditional lifestyle for political gain.",
       markingSchemePoints: [
         'Hypocrisy',
         'Exploitation of ignorance',

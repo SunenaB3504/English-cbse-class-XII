@@ -53,7 +53,7 @@ export const theLastLesson: ChapterForensics = {
   ],
   triggers: [
     {
-      question: "Pick evidence from the extract that helps one infer that this was not the protagonist’s first time being late to school. (Reference: Usually, when school began...)",
+      question: "Pick evidence from the extract that helps one infer that this was not the protagonist’s first time being late to school.\n\n(Reference: Usually, when school began...)",
       answerVerbatim: "The protagonist states: 'I had counted on the commotion to get to my desk without being seen,' which implies that they have been late before and have developed a strategy for avoiding punishment.",
       markingSchemePoints: [
         "Plan to sneak in without being noticed",
@@ -67,7 +67,7 @@ export const theLastLesson: ChapterForensics = {
     },
     {
       question: "What a thunderclap these words were to me! Oh, the wretches; that was what they had put up at the town-hall! My last French lesson! Why, I hardly knew how to write! I should never learn anymore! I must stop there, then! Oh, how sorry I was for not learning my lessons, for seeking birds’ eggs, or going sliding on the Saar! My books, that had seemed such a nuisance a while ago, so heavy to carry, my grammar, and my history of the saints, were old friends now that I couldn’t give up. And M. Hamel, too; the idea that he was going away, that I should never see him again, made me forget all about his ruler and how cranky he was.\n\nWhat was the writer’s purpose in using the metaphor of a ‘thunderclap’?",
-      answerVerbatim: "To emphasise the suddenness and shock of Franz’s understanding about the importance of his education. / To conveys the urgency and deep impact of this moment / To dramatically highlight how unexpected and jarring the realisation was to him – like the startling and instant nature of a thunderclap / To effectively capture the emotional intensity of the moment of deep regret and abrupt awakening experienced by Franz",
+      answerVerbatim: "I. To emphasise the suddenness and shock of Franz’s understanding about the importance of his education.\nII. To conveys the urgency and deep impact of this moment.\nIII. To dramatically highlight how unexpected and jarring the realisation was to him – like the startling and instant nature of a thunderclap.\nIV. To effectively capture the emotional intensity of the moment of deep regret and abrupt awakening experienced by Franz.",
       markingSchemePoints: [
         "Emphasise suddenness and shock",
         "Convey urgency and deep impact",
@@ -80,7 +80,7 @@ export const theLastLesson: ChapterForensics = {
       aiExplanation: "The metaphor 'thunderclap' vividly illustrates the sudden, jarring, and overwhelming nature of M. Hamel's announcement. Just as a thunderclap is loud, unexpected, and startling, the news that French would no longer be taught abruptly shatters Franz's carefree world, filling him with immediate shock and deep regret for taking his education for granted."
     },
     {
-      question: "Read the extract and answer the question:\nWhat a thunderclap these words were to me! Oh, the wretches; that was what they had put up at the town-hall! My last French lesson! ... My books, that had seemed such a nuisance a while ago ... were old friends now that I couldn’t give up. And M. Hamel, too; the idea that he was going away, that I should never see him again, made me forget all about his ruler and how cranky he was.\n\nSelect the correct option from those given in brackets to fill in the blank.\nThe use of exclamatory marks in the first five sentences of the extract serves to express the speaker’s _______ (hidden/ intense) emotions.",
+      question: "Read the extract and answer the question:\n\nWhat a thunderclap these words were to me! Oh, the wretches; that was what they had put up at the town-hall! My last French lesson! ... My books, that had seemed such a nuisance a while ago ... were old friends now that I couldn’t give up. And M. Hamel, too; the idea that he was going away, that I should never see him again, made me forget all about his ruler and how cranky he was.\n\nSelect the correct option from those given in brackets to fill in the blank.\nThe use of exclamatory marks in the first five sentences of the extract serves to express the speaker’s _______ (hidden/ intense) emotions.",
       answerVerbatim: "intense",
       markingSchemePoints: [
         "intense"
@@ -91,7 +91,7 @@ export const theLastLesson: ChapterForensics = {
       aiExplanation: "The exclamatory marks (!) are punctuation tools used specifically to convey strong, uncontained feelings. In this context, they highlight Franz's intense shock, disbelief, and distress upon hearing the linguistic decree, rather than emotions he is trying to hide."
     },
     {
-      question: "Read the extract and answer the question:\nWhat a thunderclap these words were to me! Oh, the wretches; that was what they had put up at the town-hall! My last French lesson! ... My books, that had seemed such a nuisance a while ago ... were old friends now that I couldn’t give up. And M. Hamel, too; the idea that he was going away, that I should never see him again, made me forget all about his ruler and how cranky he was.\n\nComplete the following suitably.\nThe activities of seeking birds' eggs and sliding on the Saar reveal two things about Franz's character before his change in perspective. First, his youthful carefree nature and second, his preference for _________________.",
+      question: "Read the extract and answer the question:\n\nWhat a thunderclap these words were to me! Oh, the wretches; that was what they had put up at the town-hall! My last French lesson! ... My books, that had seemed such a nuisance a while ago ... were old friends now that I couldn’t give up. And M. Hamel, too; the idea that he was going away, that I should never see him again, made me forget all about his ruler and how cranky he was.\n\nComplete the following suitably.\nThe activities of seeking birds' eggs and sliding on the Saar reveal two things about Franz's character before his change in perspective. First, his youthful carefree nature and second, his preference for _________________.",
       answerVerbatim: "…preference for play over study",
       markingSchemePoints: [
         "preference for play over study",
@@ -140,7 +140,7 @@ export const theLastLesson: ChapterForensics = {
     },
     {
       question: "What does the contrasting imagery of the church clock and the Prussian trumpets represent, in ‘The Last Lesson’?",
-      answerVerbatim: "Represents -- the tension between local traditions and foreign occupation. The church clock -- symbol of local, everyday life and continuity --- in stark opposition to the Prussian trumpets, which symbolise disruption, military power, and the enforcement of foreign rule. Highlights the theme of loss and the struggle to preserve one's cultural heritage against overwhelming odds.",
+      answerVerbatim: "The contrasting imagery represents the tension between local traditions and foreign occupation.\n\nI. The church clock: Symbol of local, everyday life and continuity.\nII. Prussian trumpets: Symbolise disruption, military power, and the enforcement of foreign rule.\n\nThis highlights the theme of loss and the struggle to preserve one's cultural heritage against overwhelming odds.",
       markingSchemePoints: [
         "Tension between local traditions & foreign occupation",
         "Church clock = local everyday life / continuity",
@@ -154,7 +154,7 @@ export const theLastLesson: ChapterForensics = {
     },
     {
       question: "What role does the French language played in ‘The Last Lesson’, in the context of the narrator’s feelings towards it?",
-      answerVerbatim: "The narrator's feelings towards the French language shift from indifference to deep appreciation and respect when it is no longer allowed to be taught. Also, French, in the story, symbolises the loss of freedom and the imposition of foreign control over the region. Therefore, the narrator’s sense of loss and regret reflects the emotional impact of this change.",
+      answerVerbatim: "I. Shift in Perspective: The narrator's feelings shift from indifference to deep appreciation and respect when it is no longer allowed to be taught.\nII. Symbolic Loss: French symbolises the loss of freedom and the imposition of foreign control over the region.\nIII. Emotional Impact: The narrator’s sense of loss and regret reflects the emotional impact of this change.",
       markingSchemePoints: [
         "Feelings shift from indifference to deep appreciation/respect",
         "Symbolises loss of freedom and imposition of foreign control",

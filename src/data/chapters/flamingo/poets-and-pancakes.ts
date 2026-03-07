@@ -53,7 +53,7 @@ export const poetsAndPancakes: ChapterForensics = {
   triggers: [
     {
       question: "What does the story of Subbu's success in the film industry reveal about the importance of loyalty, creativity, and versatility in this field?",
-      answerVerbatim: "Subbu's success reveals that these are essential qualities for success. Subbu was extremely loyal, completely identifying himself with his principal and turning his entire creativity to his principal's advantage. He was also a highly versatile and creative person who could quickly come up with numerous alternatives. Additionally, his ability to work well with others made him an invaluable asset to Gemini Studios.",
+      answerVerbatim: "I. Unwavering Loyalty: Subbu identified himself completely with his principal (the Boss).\nII. Creative Flexibility: He could offer numerous alternatives for any scene.\nIII. Interpersonal Skills: His cheerful nature and ability to work with all made him invaluable.",
       markingSchemePoints: [
         "Loyalty: Complete identification with principal",
         "Creativity: Generating numerous alternatives",
@@ -66,7 +66,7 @@ export const poetsAndPancakes: ChapterForensics = {
     },
     {
       question: "While both Sophie and Subbu share aspirations for success in their respective fields, they encounter different constraints and demonstrate distinct approaches in pursuing their dreams. Analyse this statement based on Subbu's approach.",
-      answerVerbatim: "Subbu aims to succeed in the film industry as a poet, actor, and contributor to Gemini Studios. While Subbu faces challenges, such as criticism for his perceived sycophancy and overshadowing of his literary achievements by his success in films, he navigates these obstacles with grace and humility. Subbu's dedication to his craft and ability to adapt to various roles within Gemini Studios reflect his unwavering commitment to his pursuits.",
+      answerVerbatim: "I. Professional Goals: Subbu aimed to succeed as a poet and a filmmaker.\nII. Responding to Criticism: He navigated jealousy and claims of sycophancy with humility.\nIII. Adaptability: His success was rooted in his ability to fit any role required by the studio.",
       markingSchemePoints: [
         "Aims to succeed as poet/actor/contributor",
         "Criticism for sycophancy/overshadowing literary achievements",
@@ -80,7 +80,7 @@ export const poetsAndPancakes: ChapterForensics = {
     },
     {
       question: "Why was Stephen Spender's visit to Gemini Studios considered a 'baffling mystery'?",
-      answerVerbatim: "The Boss might have known Spender's identity, but to the others, he was a poet whose accent was impenetrable and whose presence made no sense in a place that made simple Tamil films. It was only years later the author realized the visit was ideological—related to the anti-Communist movement.",
+      answerVerbatim: "I. Linguistic Barrier: His English accent was impenetrable to the simple Tamil-speaking staff.\nII. Cultural Mismatch: There was no clear link between high English poetry and commercial Tamil cinema.\nIII. Hidden Agenda: The Boss's anti-Communist motivations were unknown to the employees at the time.",
       markingSchemePoints: [
         "Linguistic barrier (unintelligible accent)",
         "Mismatch between high English poetry and simple Tamil cinema",
@@ -93,7 +93,7 @@ export const poetsAndPancakes: ChapterForensics = {
     },
     {
       question: "Analyze the character of Kothamangalam Subbu as a 'No. 2' in Gemini Studios.",
-      answerVerbatim: "Subbu was the No. 2 because he had the capacity to be 'always cheerful' and 'tailor-made for films.' He could suggest many alternatives for a scene. He was charitable, loyal, and could write poetry, yet he was despised by the office boy for his perceived sycophancy.",
+      answerVerbatim: "I. Irreplaceable Asset: He was 'tailor-made' for filmmaking and exceptionally charitable.\nII. Creative Problem Solver: Offered endless alternatives for production challenges.\nIII. Controversial Figure: Despised by the office boy for his proximity to power and perceived sycophancy.",
       markingSchemePoints: [
         "Versatility and creative alternative-thinking",
         "Loyalty to the Boss (S.S. Vasan)",

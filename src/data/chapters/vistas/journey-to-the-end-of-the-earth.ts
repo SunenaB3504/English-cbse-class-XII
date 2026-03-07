@@ -52,7 +52,7 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
   triggers: [
     {
       question: "Read the extract and answer:\nClimate change is one of the most hotly contested environmental debates... Either way, Antarctica is a crucial element in this debate—not just because it’s the only place in the world, which has never sustained a human population and therefore remains relatively ‘pristine’ in this respect; but more importantly, because it holds in its ice-cores half-million-year-old carbon records...\n\nHow does the absence of a human population in Antarctica make it significant in the climate change debate, and why is the analogy of a 'time machine' appropriate for its carbon records?",
-      answerVerbatim: "The absence of a human population makes Antarctica a pristine environment, unaffected by the same levels of human impact as other areas, making it a critical reference point. The analogy of a time machine is appropriate because, just like a time machine would allow us to observe past events, the ancient carbon records trapped in its ice allow us to observe past atmospheric and climate conditions.",
+      answerVerbatim: "I. Pristine Control: Antarctica acts as a 'control group' for measuring human impact precisely because it has no permanent residential population.\nII. Time Machine Analogy: The half-million-year-old carbon records in ice cores offer a literal window into past atmospheric conditions.\nIII. Scientific Reference: It provides an unaltered history of global climate changes.",
       markingSchemePoints: [
         "Pristine environment without human impact serves as a vital reference",
         "Carbon records allow observation of past climates",
@@ -65,7 +65,7 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
     },
     {
       question: "To visit Antarctica now is to be a part of that history... When you think about all that can happen in a million years, it can get pretty mind-boggling. How does the author imply the role of geological knowledge in understanding the Earth's past and potential future changes?",
-      answerVerbatim: "By stating 'To visit Antarctica now is to be a part of that history', the author implies that understanding geological knowledge, such as the formation of the Himalayas or the drifting of South America, is essential for grasping the Earth's past and predicting its future.",
+      answerVerbatim: "I. Essential Context: Geological knowledge of Gondwana and tectonic plate movement explains current climate shifts.\nII. Predictions: Understanding past shifts (like the Himalayan collision) is vital for predicting future environmental change.\nIII. Historic Unity: Antarctica reveals the ancient separation of continents and the resulting cooling of the Earth.",
       markingSchemePoints: [
         "Geological knowledge is essential for grasping the Earth's past",
         "Tectonic shifts (Himalayas, South America) altered climate",
@@ -78,7 +78,7 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
     },
     {
       question: 'Why is Antarctica the place to go to understand the Earth’s past?',
-      answerVerbatim: 'Because it holds in its ice-cores half-million-year-old carbon records trapped in its layers of ice.',
+      answerVerbatim: "I. Time Capsule: Preserves ancient carbon records trapped in deep layers of ice.\nII. Absence of Humans: Remains relatively ‘pristine’ and provides a clear measurement of industrial impact.\nIII. Gondwana Legacy: Effectively documents the history of the ancient supercontinent.",
       markingSchemePoints: [
         'Geological time capsule',
         'Pristine environment (unaffected by humans)',
@@ -91,7 +91,7 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
     },
     {
       question: 'What is the significance of "Students on Ice"?',
-      answerVerbatim: 'It provides high school students with an inspiring educational experience to develop respect and care for the planet.',
+      answerVerbatim: "I. Future Policymakers: Targets high school students who have the capacity to change global environmental laws.\nII. Experiential Epiphany: First-hand witness to collapsing glaciers is far more impactful than textbook theory.\nIII. Planet Stewardship: Aimed at developing a deep respect and care for the Earth's delicate balance.",
       markingSchemePoints: [
         'Developing future policy makers',
         'First-hand witness to climate change',
@@ -104,7 +104,7 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
     },
     {
       question: "Imagine you are Tishani Doshi, the narrator of ‘Journey to the End of the Earth.’ Write a blog post about your experience in Antarctica, focusing on the profound impact of the environment on your understanding of the Earth’s past and future.\nYou may begin like this:\nStanding on the icy expanse of Antarctica, I was struck by...",
-      answerVerbatim: "Standing on the icy expanse of Antarctica, I was struck by the sheer scale of the landscape and the profound silence that enveloped me. This pristine environment made me comprehend the Earth's history in a way books never could. Observing the delicate ecosystem and the rapid melting of glaciers served as a stark warning about climate change... We must recognise our responsibility to protect this crucial part of our planet...",
+      answerVerbatim: "I. Sensory Shock: Awe at the sheer scale of the landscape and the profound silence.\nII. Educational Insight: Direct comprehension of Gondwana's legacy and Earth's history beyond books.\nIII. Urgent Warning: First-hand experience of melting glaciers creates a terrifying, personal understanding of climate change.\nIV. Responsibility: Realization of the human duty to protect this 'end of the world' to save our future.",
       markingSchemePoints: [
         "Awe at the sheer scale/profound silence of Antarctica",
         "Comprehension of Earth's history beyond books",

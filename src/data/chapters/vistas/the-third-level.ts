@@ -52,7 +52,7 @@ export const theThirdLevel: ChapterForensics = {
   triggers: [
     {
       question: "In the story, ‘The Third Level’ by Jack Finney, Charley is obsessed with finding the third level. In an attempt to thrash out whether this obsession is a good quality or a harmful one, Charley’s wife expresses her thoughts in a diary entry.\nAs Louisa, Charley’s wife, write this diary entry. Support your response with reference to the story.",
-      answerVerbatim: "I have always known him to be an intelligent man with an imaginative mind. However, his recent obsession with finding the Third Level has left me extremely worried. On one hand, it displays determination to unravel life's mysteries. However, his obsession has caused him to detach from reality. He spends all his time searching for a place that may not exist. I understand he feels overwhelmed by modern stress and Sam indicated he uses it as a coping mechanism, but it prevents him from addressing underlying issues. His obsession is affecting our relationship and making him neglect his responsibilities.",
+      answerVerbatim: "Dear Diary, I am extremely worried about Charley. He is an intelligent man, but his obsession with the 'Third Level' is frightening. \n\nI. Detachment: He is losing touch with reality, searching for a place that Sam calls a coping mechanism.\nII. Impact: It's affecting our marriage and making him neglect his present duties.\nIII. Worry: While it shows his imagination, I fear he's avoiding the underlying stress of the modern world.",
       markingSchemePoints: [
         "Acknowledge his imagination but express deep worry",
         "Obsession serves as a coping mechanism for modern stress (Sam's diagnosis)",
@@ -65,7 +65,7 @@ export const theThirdLevel: ChapterForensics = {
     },
     {
       question: "Interpret the significance of both literal and metaphorical journeys in the story, ‘The Third Level.’",
-      answerVerbatim: "Literal journey: Charley's physical navigation of the Grand Central Station to find the Third Level... represents a quest for an alternative reality. Metaphorical journey: psychological escape from modern anxieties...",
+      answerVerbatim: "I. Literal Journey: Charley's physical search through Grand Central for the Third Level represents a quest for an alternative reality.\nII. Metaphorical Journey: His psychological flight from modern 'war and worry' towards a romanticized peace in Galesburg.",
       markingSchemePoints: [
         "Literal: physical navigation of Grand Central to find the Third Level",
         "Quest for an alternative reality/timeline",
@@ -78,7 +78,7 @@ export const theThirdLevel: ChapterForensics = {
     },
     {
       question: "Discuss the narrative techniques used by the author in The Third Level. How do these techniques effectively convey the themes of escapism and nostalgia? Provide specific examples from the text to support your analysis.",
-      answerVerbatim: "Jack Finney employs an unreliable narrator, Charley, whose experiences blur the line between reality and imagination. The use of historical details (President Garfield, 1894 dates) combined with psychological elements effectively conveys the overwhelming desire for an escape from the insecurity of the modern world.",
+      answerVerbatim: "I. Unreliable Narrator: Charley's experiences blur the line between reality and delusion.\nII. Historical Verisimilitude: Use of 1894 details (President Garfield) makes the nostalgia tangible.\nIII. Blended Genres: Blending realism with science fiction (time travel) to highlight themes of escapism.",
       markingSchemePoints: [
         "Use of an unreliable first-person narrator (Charley)",
         "Blurring the line between reality and imagination/hallucination",
@@ -105,7 +105,7 @@ export const theThirdLevel: ChapterForensics = {
     },
     {
       question: 'What was the irony of Sam\'s disappearance?',
-      answerVerbatim: 'The psychiatrist who dismissed Charley\'s experience as "wish fulfillment" ended up finding and settling in the very past he analyzed.',
+      answerVerbatim: "I. Analytical Dismissal: Sam initially labels Charley's experience as a 'waking-dream wish fulfillment'.\nII. Ultimate Conversion: The psychiatrist who analyzed the delusion ends up becoming a part of it.\nIII. Validation: Sam's letter from 1894 ironically validates the existence of the Third Level.",
       markingSchemePoints: [
         'Psychiatrist becomes the patient',
         'Logical mind accepts the illogical',
@@ -118,7 +118,7 @@ export const theThirdLevel: ChapterForensics = {
     },
     {
       question: "Read the given extract and answer the questions:\n\nMy three hundred dollars bought less than two hundred in old-style bills, but I didn’t care; eggs were thirteen cents a dozen in 1894.\nBut I’ve never again found the corridor that leads to the third level at Grand Central Station, although I’ve tried often enough. Louisa was pretty worried when I told her all this, and didn’t want me to look for the third level any more, and after a while I stopped; I went back to my stamps. But now we’re both looking, every weekend…\n\nI. What does Charley’s indifference to the cost of old-style bills and his focus on the price of eggs in 1894 suggest about his view of the past?\nII. Charley has been unsuccessful in finding the corridor to the third level despite ____.\nIII. Where is the irony in Louisa’s reaction to Charley’s search for the third level in this extract?\nIV. The phrase ‘I went back to my stamps’ suggests _____.\na) finding comfort in a hobby that is familiar\nb) choosing a new hobby to forget earlier pursuits\nc) attempting to engage together in a new hobby\nd) approaching a familiar hobby with enthusiasm",
-      answerVerbatim: "I. Charley’s indifference shows that he values the simplicity and affordability of the past, where things were less expensive and more relaxed.\nII. frequent efforts at locating it\nIII. The irony lies in the fact that Louisa initially worries and urges Charley to stop searching for the third level, but later, both of them end up looking for it together every weekend.\nIV. a) finding comfort in a hobby that is familiar",
+      answerVerbatim: "I. Valuation: He values the simplicity and affordability of 1894 over modern monetary value.\nII. Persistence: Despite frequent attempts, he is unable to find the gateway again.\nIII. Irony: Louisa initially worries but eventually joins Charley in his weekly search for the level.\nIV. Familiarity: 'Going back to stamps' signifies finding comfort in a familiar, grounded hobby.",
       markingSchemePoints: [
         "I - values the simplicity and affordability of the past",
         "II - frequent efforts at locating it",

@@ -54,7 +54,7 @@ export const lostSpring: ChapterForensics = {
   triggers: [
     {
       question: "What is the writer’s purpose in allowing the boys to speak for themselves via dialogue, as opposed to only a writer’s commentary in 'Lost Spring'?",
-      answerVerbatim: "To give voice to their hopes, dreams, and struggles in a way that is immediate and relatable / To add a sense of authenticity and realism to the story / To make the experience more engaging and memorable for the reader.",
+      answerVerbatim: "I. Direct Voice: To give voice to their hopes, dreams, and struggles in a way that is immediate and relatable.\nII. Authenticity: To add a sense of authenticity and realism to the story.\nIII. Engagement: To make the experience more engaging and memorable for the reader.",
       markingSchemePoints: [
         "Give voice to their hopes and struggles",
         "Add authenticity and realism",
@@ -103,8 +103,8 @@ export const lostSpring: ChapterForensics = {
       aiExplanation: "The text explicitly states that once a child finds a coin, they don't stop looking. The occasional, unpredictable reward (finding a rupee) acts as a powerful psychological incentive, creating a perpetual sense of 'wonder' and hope that keeps them tethered to the dump."
     },
     {
-      question: "Read the extract and answer the question:\nAnd survival in Seemapuri means rag-picking. Through the years, it has acquired the proportions of a fine art. Garbage to them is gold. It is their daily bread, a roof over their heads, even if it is a leaking roof. But for a child it is even more “I sometimes find a rupee, even a ten-rupee note,” Saheb says, his eyes lighting up. When you can find a silver coin in a heap of garbage, you don’t stop scrounging, for there is hope of finding more. It seems that for children, garbage has a meaning different from what it means to their parents. For the children it is wrapped in wonder, for the elders it is a means of survival.\n\nHow does the perception of garbage differ between children and adults in Seemapuri?",
-      answerVerbatim: "For children, garbage represents a source of wonder and potential treasure, whereas for adults, it is primarily a means of survival.",
+      question: "Read the extract and answer the question:\n\nAnd survival in Seemapuri means rag-picking. Through the years, it has acquired the proportions of a fine art. Garbage to them is gold. It is their daily bread, a roof over their heads, even if it is a leaking roof. But for a child it is even more “I sometimes find a rupee, even a ten-rupee note,” Saheb says, his eyes lighting up. When you can find a silver coin in a heap of garbage, you don’t stop scrounging, for there is hope of finding more. It seems that for children, garbage has a meaning different from what it means to their parents. For the children it is wrapped in wonder, for the elders it is a means of survival.\n\nHow does the perception of garbage differ between children and adults in Seemapuri?",
+      answerVerbatim: "I. For Children: Garbage represents a source of wonder and potential treasure.\nII. For Adults: It is primarily a pragrmatic means of survival.",
       markingSchemePoints: [
         "Children: source of wonder / potential treasure",
         "Adults: primarily a means of survival"
@@ -115,7 +115,7 @@ export const lostSpring: ChapterForensics = {
       aiExplanation: "The narrative draws a stark contrast regarding intent: adults view the garbage pragmatically—it provides their daily bread and a roof over their heads. Children, on the other hand, view it with a corrupted sense of innocence, treating the dump as a magical space where 'treasure' (coins) can be discovered."
     },
     {
-      question: "Read the extract and answer the question:\nAnd survival in Seemapuri means rag-picking. Through the years, it has acquired the proportions of a fine art. Garbage to them is gold. It is their daily bread, a roof over their heads, even if it is a leaking roof. But for a child it is even more “I sometimes find a rupee, even a ten-rupee note,” Saheb says, his eyes lighting up. When you can find a silver coin in a heap of garbage, you don’t stop scrounging, for there is hope of finding more. It seems that for children, garbage has a meaning different from what it means to their parents. For the children it is wrapped in wonder, for the elders it is a means of survival.\n\nWhat is implied by the description of rag-picking as having ‘acquired the proportions of a fine art’ in the excerpt?\nA. Rag-picking is an undesirable and simple task that anyone can do without effort.\nB. Rag-picking has evolved into a complex skill that is valued within the community.\nC. Rag-picking is a temporary activity that does not significantly impact the community.\nD. Rag-picking has the status of an artistic hobby that children pursue for enjoyment.",
+      question: "Read the extract and answer the question:\n\nAnd survival in Seemapuri means rag-picking. Through the years, it has acquired the proportions of a fine art. Garbage to them is gold. It is their daily bread, a roof over their heads, even if it is a leaking roof. But for a child it is even more “I sometimes find a rupee, even a ten-rupee note,” Saheb says, his eyes lighting up. When you can find a silver coin in a heap of garbage, you don’t stop scrounging, for there is hope of finding more. It seems that for children, garbage has a meaning different from what it means to their parents. For the children it is wrapped in wonder, for the elders it is a means of survival.\n\nWhat is implied by the description of rag-picking as having ‘acquired the proportions of a fine art’ in the excerpt?\n\nA. Rag-picking is an undesirable and simple task that anyone can do without effort.\nB. Rag-picking has evolved into a complex skill that is valued within the community.\nC. Rag-picking is a temporary activity that does not significantly impact the community.\nD. Rag-picking has the status of an artistic hobby that children pursue for enjoyment.",
       answerVerbatim: "B. Rag-picking has evolved into a complex skill that is valued within the community.",
       markingSchemePoints: [
         "B"
@@ -126,7 +126,7 @@ export const lostSpring: ChapterForensics = {
       aiExplanation: "By calling it a 'fine art,' Anees Jung ironically highlights how a degrading, survival-driven task has become so deeply embedded in Seemapuri's culture that the ragpickers have developed highly specialized, almost professional skills simply to survive."
     },
     {
-      question: "Read the extract and answer the question:\nAnd survival in Seemapuri means rag-picking. Through the years, it has acquired the proportions of a fine art. Garbage to them is gold. It is their daily bread, a roof over their heads, even if it is a leaking roof. But for a child it is even more “I sometimes find a rupee, even a ten-rupee note,” Saheb says, his eyes lighting up. When you can find a silver coin in a heap of garbage, you don’t stop scrounging, for there is hope of finding more. It seems that for children, garbage has a meaning different from what it means to their parents. For the children it is wrapped in wonder, for the elders it is a means of survival.\n\nWhat is the reason for Saheb’s eyes ‘lighting up’?\nA. The immediate experience of finding something valuable.\nB. Discussing his findings with others.\nC. Reminiscing about past findings in the garbage.\nD. Planning future scavenging expeditions",
+      question: "Read the extract and answer the question:\n\nAnd survival in Seemapuri means rag-picking. Through the years, it has acquired the proportions of a fine art. Garbage to them is gold. It is their daily bread, a roof over their heads, even if it is a leaking roof. But for a child it is even more “I sometimes find a rupee, even a ten-rupee note,” Saheb says, his eyes lighting up. When you can find a silver coin in a heap of garbage, you don’t stop scrounging, for there is hope of finding more. It seems that for children, garbage has a meaning different from what it means to their parents. For the children it is wrapped in wonder, for the elders it is a means of survival.\n\nWhat is the reason for Saheb’s eyes ‘lighting up’?\n\nA. The immediate experience of finding something valuable.\nB. Discussing his findings with others.\nC. Reminiscing about past findings in the garbage.\nD. Planning future scavenging expeditions",
       answerVerbatim: "C. Reminiscing about past findings in the garbage.",
       markingSchemePoints: [
         "C"
@@ -138,7 +138,7 @@ export const lostSpring: ChapterForensics = {
     },
     {
       question: "Identify an instance of hope or resilience in ‘Lost Spring’ and analyse how it reflects one of the story's themes.",
-      answerVerbatim: "An instance of hope or resilience – Saheb’s continued search in the garbage, driven by the occasional discovery of a rupee or a ten-rupee note, symbolises his hope and resilience against the overwhelming odds of his harsh life. This reflects the theme of enduring hope amidst poverty and destitution - the human spirit’s capacity to dream and hope, even in the terribly dire circumstances -- suggesting that the desire for a better life can exist independent of one's current state of poverty.",
+      answerVerbatim: "I. Instance of Hope: Saheb’s continued search in the garbage, driven by the occasional discovery of a rupee or a ten-rupee note, symbolises his hope and resilience against the overwhelming odds.\nII. Thematic Connection: This reflects the theme of enduring hope amidst poverty and destitution—the human spirit’s capacity to dream and hope, even in the terribly dire circumstances.",
       markingSchemePoints: [
         "Saheb's continued search for a rupee/ten-rupee note",
         "Symbolises hope/resilience against overwhelming odds",
@@ -152,7 +152,7 @@ export const lostSpring: ChapterForensics = {
     },
     {
       question: "What is the significance of the fact that the bangle makers in Firozabad “don’t know that it is illegal for children like him to work in the glass furnaces with high temperatures”?",
-      answerVerbatim: "The fact highlights the widespread ignorance and exploitation prevalent in Firozabad. It underscores a harsh reality where child labour is normalised and perpetuated due to a lack of awareness of the law and legal rights. The bangle makers, trapped in poverty and generational trade, are oblivious to the illegality of the practice, which reflects a systemic failure in the enforcement of child protection laws.",
+      answerVerbatim: "I. Systemic Ignocance: Highlights the widespread ignorance and exploitation where child labour is normalised due to a lack of legal awareness.\nII. Generational Trap: The bangle makers, trapped in poverty, are oblivious to their legal rights.\nIII. State Failure: Reflects a systemic failure in the enforcement of child protection laws.",
       markingSchemePoints: [
         "Highlights widespread ignorance and exploitation",
         "Child labour is normalised/perpetuated due to lack of awareness",

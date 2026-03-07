@@ -52,8 +52,8 @@ export const indigo: ChapterForensics = {
   ],
   triggers: [
     {
-      question: "What can be inferred from Rajendra Prasad’s recorded upshot of the lawyer consultations at Motihari? [Reference - The senior lawyer replied, they had come to advise and help him...]",
-      answerVerbatim: "That Gandhi's commitment to the cause of the peasants, despite being a stranger to the region, was exemplary and motivated the lawyers to continue their support. It highlights the idea that the lawyers were conscious of the potential shame they would bring upon themselves if they deserted the peasants in their time of need.",
+      question: "What can be inferred from Rajendra Prasad’s recorded upshot of the lawyer consultations at Motihari?\n\n[Reference - The senior lawyer replied, they had come to advise and help him...]",
+      answerVerbatim: "I. Moral Awakening: Gandhi's commitment as a stranger motivated the lawyers to support the cause.\nII. Collective Responsibility: Lawyers realized the potential shame in deserting the peasants.\nIII. Shift in Purpose: Inspired a unified sense of purpose to fight for justice.",
       markingSchemePoints: [
         "Gandhi's exemplary commitment motivated the lawyers",
         "Lawyers became conscious of potential shame",
@@ -66,7 +66,7 @@ export const indigo: ChapterForensics = {
     },
     {
       question: "How did the peasants of Champaran react to Gandhi’s presence and why?",
-      answerVerbatim: "Largely due to the leadership and advocacy provided by Mahatma Gandhi -- his involvement brought national attention to their plight --highlighted the importance of civil rights and nonviolent resistance\nGandhi's strategic approach to negotiations & his insistence on nonviolent protest -- empowered the peasants to stand up against oppressive landlords --- led to their immediate victory -- inspired a broader movement for social and economic justice across India",
+      answerVerbatim: "I. National Attention: Gandhi's involvement highlighted the importance of civil rights and non-violent resistance.\nII. Empowerment: His strategic approach empowered peasants to stand up against oppressive landlords.\nIII. Catalyst for Justice: Led to an immediate victory and inspired a broader movement across India.",
       markingSchemePoints: [
         "Involvement brought national attention to their plight",
         "Highlighted importance of civil rights/nonviolent resistance",
@@ -80,7 +80,7 @@ export const indigo: ChapterForensics = {
     },
     {
       question: "Why did Gandhi agree to a settlement of 25% refund instead of 50%?",
-      answerVerbatim: "Gandhi explained that the amount of the refund was less important than the fact that the landlords had been obliged to surrender part of the money and, with it, part of their prestige. Therefore, as far as the peasants were concerned, the planters had behaved as lords above the law.",
+      answerVerbatim: "I. Prestige over Money: Gandhi prioritised the planters' loss of prestige over the refund amount.\nII. Rule of Law: Shattered the illusion that planters were 'lords above the law'.\nIII. Psychological Breakthrough: Proved to the peasants that they had rights and defenders.",
       markingSchemePoints: [
         "Prestige more important than money",
         "Planters' behavior as 'lords above the law' broken",
@@ -93,7 +93,7 @@ export const indigo: ChapterForensics = {
     },
     {
       question: "How did the Champaran episode change the psychology of the Indian peasant?",
-      answerVerbatim: "The peasants saw that they had rights and defenders. They learned courage. The spontaneous demonstration around the courthouse was the beginning of their liberation from the fear of the British.",
+      answerVerbatim: "I. Awareness of Rights: Peasants realized they had legal defenders.\nII. Initiation into Courage: The Motihari demonstration marked the end of their paralyzing fear.\nIII. Psychological Liberation: It was the beginning of their liberation from British authority.",
       markingSchemePoints: [
         "Discovery of rights and defenders",
         "Initiation into courage",
