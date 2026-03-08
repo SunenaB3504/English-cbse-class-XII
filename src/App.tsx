@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { BookOpen, Search, Zap, Library, Music, Book, PenTool } from 'lucide-react';
+import { BookOpen, Search, Zap, Library, Music, Book, PenTool, Layout } from 'lucide-react';
 import { flamingoChapters } from './data/chapters/flamingo';
 import { vistasChapters } from './data/chapters/vistas';
 import { flamingoPoems } from './data/poems/flamingo';
@@ -8,11 +8,14 @@ import { ForensicView } from './components/ForensicView';
 import { WritingView } from './components/WritingView';
 import { CheatSheetView } from './components/CheatSheetView';
 import { ChapterForensics, PoetryForensics, WritingSkeleton } from './types';
+import { allSQPs } from './data/sqps';
+import { SQPView } from './components/SQPView';
 
 function App() {
   const [selectedContent, setSelectedContent] = useState<ChapterForensics | PoetryForensics | null>(null);
   const [selectedWriting, setSelectedWriting] = useState<WritingSkeleton | null>(null);
   const [showCheatSheet, setShowCheatSheet] = useState(false);
+  const [showSQP, setShowSQP] = useState(false);
 
   if (selectedContent) {
     return (
@@ -52,6 +55,19 @@ function App() {
     );
   }
 
+  if (showSQP) {
+    return (
+      <div className="min-h-screen bg-slate-50 font-sans p-8 md:p-12 lg:p-16">
+        <div className="max-w-7xl mx-auto">
+          <SQPView
+            sqps={allSQPs}
+            onBack={() => setShowSQP(false)}
+          />
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="min-h-screen bg-slate-50 font-sans">
       <nav className="bg-royal-900 text-white p-4 shadow-lg sticky top-0 z-50">
@@ -60,15 +76,35 @@ function App() {
             <BookOpen className="text-royal-300" />
             XII English Core <span className="text-royal-400 font-light hidden sm:inline">| Literature Forensics</span>
           </h1>
-          <div className="flex gap-4 sm:gap-6 text-sm font-medium">
-            <button className="hover:text-royal-300 transition-colors">Flamingo</button>
-            <button className="hover:text-royal-300 transition-colors">Vistas</button>
-            <button className="hover:text-royal-300 transition-colors">Writing Authority</button>
+          <div className="flex gap-4 sm:gap-6 text-sm font-medium items-center">
+            <button
+              onClick={() => {
+                setSelectedContent(null);
+                setSelectedWriting(null);
+                setShowCheatSheet(false);
+                setShowSQP(false);
+              }}
+              className="hover:text-royal-300 transition-colors"
+            >
+              Home
+            </button>
+            <button
+              onClick={() => {
+                setSelectedContent(null);
+                setSelectedWriting(null);
+                setShowCheatSheet(false);
+                setShowSQP(true);
+              }}
+              className="hover:text-royal-300 transition-colors flex items-center gap-1"
+            >
+              <Layout size={14} className="text-amber-400" /> SQP Vault
+            </button>
             <button
               onClick={() => {
                 setSelectedContent(null);
                 setSelectedWriting(null);
                 setShowCheatSheet(true);
+                setShowSQP(false);
               }}
               className="bg-amber-500 text-royal-900 px-3 py-1 rounded-full font-bold hover:bg-amber-400 transition-colors shadow-lg"
             >
@@ -89,6 +125,27 @@ function App() {
           <p className="text-slate-600 max-w-2xl text-lg leading-relaxed">
             A high-fidelity analysis engine mapping chapter motifs, character psychology, and <span className="text-royal-600 font-bold">verbatim</span> Board marking schemes.
           </p>
+
+          <div className="mt-8 flex gap-4">
+            <button
+              onClick={() => setShowSQP(true)}
+              className="flex items-center gap-3 px-6 py-3 bg-white border border-slate-200 rounded-2xl font-bold text-slate-900 hover:shadow-xl hover:-translate-y-1 transition-all group"
+            >
+              <div className="h-8 w-8 bg-amber-50 text-amber-600 rounded-lg flex items-center justify-center group-hover:bg-amber-500 group-hover:text-white transition-colors">
+                <Layout size={18} />
+              </div>
+              Explore SQP Vault
+            </button>
+            <button
+              onClick={() => setShowCheatSheet(true)}
+              className="flex items-center gap-3 px-6 py-3 bg-white border border-slate-200 rounded-2xl font-bold text-slate-900 hover:shadow-xl hover:-translate-y-1 transition-all group"
+            >
+              <div className="h-8 w-8 bg-royal-50 text-royal-600 rounded-lg flex items-center justify-center group-hover:bg-royal-600 group-hover:text-white transition-colors">
+                <Zap size={18} />
+              </div>
+              Quick Review
+            </button>
+          </div>
         </header>
 
         <section className="mb-20">
