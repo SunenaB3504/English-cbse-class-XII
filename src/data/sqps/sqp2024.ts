@@ -43,7 +43,7 @@ export const sqp2024: StructuredSQP = {
             {
                id: 'q3a',
                questionNumber: '3.A',
-               question: 'Your school is planning to conduct an inter-class seminar on the topicThe Importance of Mental Healthto create awareness in adolescents. As the head of the organising committee, write a notice...',
+               question: 'Your school is planning to conduct an inter-class seminar on the topic-The Importance of Mental Health-to create awareness in adolescents. As the head of the organising committee, write a notice...',
                marks: '4',
                markingScheme: 'Format (1M), Content (2M), Accuracy (1M). Must include: Name of school, NOTICE, Date, Title (Mental Health Seminar), Target (XI-XII), Date/Time/Venue of seminar.',
                aiExplanation: 'Note: The target audience (Classes XI-XII) is a specific constraint in the question. Failing to mention this audience in the notice will lead to a ½ mark deduction in "Content".'
@@ -56,28 +56,60 @@ export const sqp2024: StructuredSQP = {
          marks: '40M',
          questions: [
             {
+               id: 'q7ai',
+               questionNumber: '7.A.I',
+               question: 'Those who prepare green wars, wars with gas, wars with fire, victory with no survivors...\nWhat is a common outcome of all the wars described?',
+               marks: '1',
+               markingScheme: 'The common outcome is a "victory with no survivors," meaning complete destruction where no one is left to celebrate or benefit from the win.',
+               aiExplanation: 'Neruda uses the paradox "victory with no survivors" to highlight the futility of modern warfare. The mark is awarded for identifying the "total destruction" or "void victory".'
+            },
+            {
                id: 'q7aiii',
                questionNumber: '7.A.III',
                question: 'The putting on of ‘clean clothes’ by the warmongers, symbolises_________.',
                marks: '1',
-               markingScheme: '…a potential for change and renewal / a moment of pause and reflection / an act of cleansing of their actions /embracing a peaceful existence/ the possibility of transformation.',
-               aiExplanation: 'In Neruda\'s "Keeping Quiet", clothes represent the external "persona". "Clean clothes" imply removing the "blood-stained" persona of war and adopting a fresh, peaceful identity.'
+               markingScheme: 'A change in perspective, a fresh start, and the adoption of peace and non-violence after leaving behind the "blood-stained" clothes of war.',
+               aiExplanation: 'The "clean clothes" are a metaphor for "cleansing of the soul" and "rejection of past violence". It signifies a shift from a destructive mindset to a peaceful one.'
+            },
+            {
+               id: 'q8ai',
+               questionNumber: '8.A.I',
+               question: 'The passage suggests that visiting Antarctica offers insight into geological processes and Earth\'s history by ______________.',
+               marks: '1',
+               markingScheme: '...exploring Cordilleran folds, granite shields, and environmental factors like ozone and carbon that contain the history of Earth\'s evolution.',
+               aiExplanation: 'Antarctica is a "Time Machine". The answer must mention the "carbon records" or "ice-cores" as the evidence of Earth\'s past.'
+            },
+            {
+               id: 'q8biii',
+               questionNumber: '8.B.III',
+               question: 'The metaphor of being ‘tossed about in the air like a wooden puppet’ contribute to the reader\'s understanding of Zitkala-Sa\'s feelings of being ________.',
+               marks: '1',
+               markingScheme: 'B. manipulated and controlled',
+               aiExplanation: 'The "puppet" imagery is a forensic indicator of "loss of agency". Zitkala-Sa feels dehumanized, treated as an object by the boarding school authorities.'
             },
             {
                id: 'q9ai',
                questionNumber: '9.A.I',
-               question: 'What was the writer’s purpose in using the metaphor of a ‘thunderclap’ in "The Last Lesson"?',
+               question: 'What was the writer’s purpose in using the metaphor of a ‘thunderclap’ in The Last Lesson?',
                marks: '1',
-               markingScheme: 'To emphasise the suddenness and shock of Franz’s understanding about the importance of his education./ To conveys the urgency and deep impact of this moment / To dramatically highlight how unexpected and jarring the realisation was to him.',
-               aiExplanation: 'A "thunderclap" is sudden, loud, and startling. This metaphor mirrors Franz\'s internal state when he realizes it\'s his "last" lesson—a shocking awakening from his prior indifference.'
+               markingScheme: 'To emphasise the suddenness, shock, and jarring impact of the realization that this was their last French lesson. It captures Franz\'s abrupt awakening to the importance of his language.',
+               aiExplanation: 'A "thunderclap" suggests an "instant, loud awareness". This metaphor highlights the transition from ignorance to regret.'
             },
             {
-               id: 'q13a',
-               questionNumber: '13.A',
-               question: 'Analyse how the writer has incorporated influences like religion, family bonds, or patriotism in "The Enemy". (120-150 words)',
+               id: 'q10ii',
+               questionNumber: '10.II',
+               question: 'Interpret the use of visual imagery by Kamala Das in her poem to depict the passage of time.',
+               marks: '2',
+               markingScheme: 'Das uses contrasting imagery: the "pale as a late winter’s moon" mother represents decline and aging, while the "young trees sprinting" and "merry children spilling" represent the vitality and speed of life. This contrast emphasizes the relentless passage of time.',
+               aiExplanation: 'For 2 marks, you MUST identify the contrast. Mother = Stillness/Winter/End; Children = Movement/Spring/Beginning.'
+            },
+            {
+               id: 'q12a',
+               questionNumber: '12.A',
+               question: 'Analyse the poems, A Roadside Stand and Aunt Jennifer\'s Tigers for the theme of inequality and its impact on the bearers.',
                marks: '5',
-               markingScheme: 'Setting: Wartime setting amplifies moral dilemma. Motivation: Cultural values (Patriotism) vs. Humanity. Conflict: Sadao\'s duty as citizen vs. doctor. Pacing: Reflects internal struggle.',
-               aiExplanation: 'This is a high-order thinking question. To score 5/5, use terms like "Internal vs. External conflict". Textual evidence: Hana\'s hesitation despite her kindness, and the General\'s self-interest as a foil to Sadao\'s selflessness.'
+               markingScheme: 'Roadside Stand: Economic disparity between rural and urban folk; leads to frustration and helplessness. Aunt Jennifer: Gender inequality and domestic oppression; leads to suppression of autonomy. Both demonstrates a desire for liberation through art or dreams.',
+               aiExplanation: 'Structure your answer on "Types of Inequality" (Economic vs. Domestic). Both bearers seek "Transcendance"—Aunt through her tigers, the rural folk through the "lift of spirit".'
             }
          ]
       }

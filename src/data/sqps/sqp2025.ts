@@ -58,18 +58,58 @@ export const sqp2025: StructuredSQP = {
             {
                id: 'q7ai',
                questionNumber: '7.A.I',
-               question: 'What does the imagery of the ‘ashen face’ of the mother suggest about her physical condition?',
+               question: 'I saw my mother, beside me, doze, open mouthed, her face ashen like that of a corpse...\nWhat does the imagery of the ‘ashen face’ of the mother suggest about her physical condition?',
                marks: '1',
-               markingScheme: 'She is frail, aged, in a declining physical condition, vulnerable, weakening health, lacks vitality.',
-               aiExplanation: 'The word "ashen" literally refers to the color of ash (pale/grey), which is a forensic sign of lack of blood circulation or "vitality". The MS accepts any synonym for frailty or illness.'
+               markingScheme: 'The ‘ashen face’ suggests that the mother is very old, frail, and lacks the vitality of life. It compares her to a corpse, indicating her proximity to death and extreme physical weakness.',
+               aiExplanation: 'CBSE examiners look for the link between "ashen" (grey/death-like) and "frailty/mortality". Use the word "vitality" to show the absence of life-force.'
+            },
+            {
+               id: 'q7aiii',
+               questionNumber: '7.A.III',
+               question: 'How does the phrase ‘merry children spilling out of their homes’ contribute to the tone of the passage?',
+               marks: '1',
+               markingScheme: 'It introduces a contrast of vitality, joy and exuberance against the sombre and reflective mood created by the imagery of the mother’s frailty.',
+               aiExplanation: 'This is a classic "Contrast" question. You must mention BOTH the vibrant children and the frail mother to get the full mark.'
+            },
+            {
+               id: 'q7 biv',
+               questionNumber: '7.B.IV',
+               question: 'The phrase ‘still ringed’ refers to both the literal ______ (shape of the embroidery panel / wedding band on her finger) and the figurative ‘ring’ of constraints and ordeals imposed by her marriage.',
+               marks: '1',
+               markingScheme: 'wedding band on her finger',
+               aiExplanation: 'The "ring" is a symbol of domestic entrapment. The literal answer is the wedding band, but the emotional weight is the "ordeal".'
+            },
+            {
+               id: 'q8ai',
+               questionNumber: '8.A.I',
+               question: 'What does Charley’s indifference to the cost of old-style bills and his focus on the price of eggs in 1894 suggest about his view of the past?',
+               marks: '1',
+               markingScheme: 'It shows that he values the simplicity and affordability of the past, where things were less expensive and more relaxed.',
+               aiExplanation: 'Charley represents the "Escapist" archetype. His focus on "thirteen cents a dozen" is evidence of his desire for a world that is economically and psychologically simpler.'
+            },
+            {
+               id: 'q9ai',
+               questionNumber: '9.A.I',
+               question: 'Which of the following best reflect the "friendly manner" Edla exhibits toward the rattrap peddler?\n1. Pay a compliment\n2. Show kindness\n3. Provide financial support\n4. Be respectful\n5. Speak in an excited tone',
+               marks: '1',
+               markingScheme: 'B. 2 and 4 (Show kindness and Be respectful)',
+               aiExplanation: 'Edla’s "essential humanity" is shown through respect, not money. She treats the vagabond like a Captain, which is the catalyst for his transformation.'
             },
             {
                id: 'q10i',
                questionNumber: '10.I',
-               question: 'What role does the French language played in ‘The Last Lesson’, in the context of the narrator’s feelings towards it? (40-50 words)',
+               question: 'What role does the French language played in ‘The Last Lesson’, in the context of the narrator’s feelings towards it?',
                marks: '2',
-               markingScheme: 'Shift from indifference to deep appreciation and respect. Symbolises the loss of freedom and the imposition of foreign control. Narrator’s sense of loss and regret reflects the emotional impact of this change.',
-               aiExplanation: 'The 2-mark key is the "transformation of perspective". You must contrast the initial "nuisance" view with the final "most beautiful language" view to capture the full score.'
+               markingScheme: 'The narrator\'s feelings shift from indifference to deep appreciation. French symbolises the loss of freedom and the imposition of foreign control. His regret reflects the emotional impact of cultural identity loss.',
+               aiExplanation: 'For 2 marks, highlight the SHIFT (Indifference -> Appreciation) and the SYMBOLISM (Language = Identity/Freedom).'
+            },
+            {
+               id: 'q12a',
+               questionNumber: '12.A',
+               question: 'How do ‘Indigo’ by Louis Fischer and ‘The Roadside Stand’ by Robert Frost, highlight the theme of exploitation, and what similarities do they reveal about the plight of marginalised communities?',
+               marks: '5',
+               markingScheme: 'Both highlight systemic oppression. Indigo shows economic exploitation by British landlords (sharecropping). Roadside Stand shows neglect of rural folk by urban elites. Similarity: Power imbalance and progress bypassing those in need. Indigo offers hope via resistance; Stand offers a reminder of ongoing neglect.',
+               aiExplanation: 'This 5-mark answer requires a "Comparative Forensics" approach. Structure: 1. Thesis (Systemic Oppression), 2. Indigo Evidence, 3. Roadside Stand Evidence, 4. Synthesis (Power Dynamics).'
             },
             {
                id: 'q13a',
