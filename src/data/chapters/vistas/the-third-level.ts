@@ -128,7 +128,7 @@ export const theThirdLevel: ChapterForensics = {
       year: "2025-26",
       type: "RTC",
       marks: 4,
-      aiExplanation: "Most appropriate answer: Charley values the simplicity of the past over modern currency, and despite his failed persistence, the irony is that Louisa eventually joins his weekly search. Forensic Justification: This 4-part RTC explanation justifies the response. Marks are awarded for identifying: 1) 'Valuation' (simplicity over modern currency), 2) 'Persistence' (failed attempts), 3) 'Irony' of Louisa joining the search, and 4) Stamp collecting as a familiar 'coping mechanism'."
+      aiExplanation: "Most appropriate answer: Charley’s focus on the low cost of items like eggs in 1894 highlights his deep-seated desire for a simpler, more affordable, and peaceful past, viewing modern currency as a stressful burden. Despite his frequent, failed attempts to find the corridor to the third level again, the narrative irony reaches its peak when his wife, Louisa—who initially feared for his sanity—eventually joins him in his weekly search. His return to stamp collecting represents a move back to a familiar, grounded 'temporary refuge' from the modern world, as he attempts to balance his psychological needs with his shared reality with Louisa. Forensic Justification: This 4-part RTC explanation justifies the multi-layered response. Marks are awarded for: 1) The 'Valuation' shift (preferring the simplicity of 1894), 2) The 'Persistence' of his character despite failure, 3) The 'Irony' of Louisa's radical shift from skepticism to belief, and 4) Identifying stamp collecting as a forensic 'coping mechanism' that connects his past and present."
     }
   ],
   distinctions: [

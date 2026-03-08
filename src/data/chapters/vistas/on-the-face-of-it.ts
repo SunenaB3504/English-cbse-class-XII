@@ -114,7 +114,7 @@ export const onTheFaceOfIt: ChapterForensics = {
       year: "2025-26",
       type: "RTC",
       marks: 4,
-      aiExplanation: "Most appropriate answer: Mr. Lamb insists that Derry's face is only one aspect of who he is and not his entire identity, effectively bridging the emotional distance through genuine empathy. Forensic Justification: This 4-part RTC justification explains 'Identity Shift'. Marks are for: 1) 'Wholeness' (appearance is not identity), 2) 'Perspective Shift' (pause), 3) 'Aspect' (person within), and 4) 'Bridging Distance'."
+      aiExplanation: "Most appropriate answer: Mr. Lamb’s insistence that Derry's scar is not his 'whole' being serves as a critical challenge to Derry’s self-perception, shifting the focus from his physical face to the 'person within.' By looking past the uligness and the fear, Lamb effectively bridges the emotional distance that Derry has built around himself as a defense mechanism. During the pause in the conversation, Derry begins to recognize Lamb's sincerity, moving away from his assumption that everyone is afraid of him and starting to consider a reality where he is more than just his appearance. Forensic Justification: This 4-part RTC justification explains the 'Identity Shift' that drives the play. Marks are awarded for: 1) The 'Wholeness' of identity vs. appearance, 2) The 'Perspective Shift' highlighted by the pause, 3) The 'Aspect' of human character beyond disability, and 4) Lamb's success in 'Bridging Distance' by offering genuine connection instead of typical pity."
     },
     {
       question: "What does Derry’s remark, “Think, you might have been blinded, or born deaf, or have to live in a wheelchair...,” reveal about his perspective on how people console others?",
