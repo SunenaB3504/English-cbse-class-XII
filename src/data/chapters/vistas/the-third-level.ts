@@ -61,7 +61,7 @@ export const theThirdLevel: ChapterForensics = {
       year: "2023-24",
       type: "Long",
       marks: 5,
-      aiExplanation: "This 5-mark justification reflects Louisa's role as the 'Reality Anchor'. Marks are awarded for detailing: 1) The 'Detachment' from mid-20th-century reality, 2) The 'Impact' on the marital bond, and 3) The 'Coping Mechanism' theory (Sam's diagnosis). The explanation proves that while Charley views Galesburg as a refuge, Louisa forensicly identifies it as a dangerous psychological delusion."
+      aiExplanation: "Most appropriate answer: Louisa views Charley's obsession as a harmful detachment from reality and a coping mechanism for modern stress that causes him to neglect his present responsibilities. Forensic Justification: This 5-mark justification reflects Louisa's role as the 'Reality Anchor'. Marks are awarded for: 1) 'Detachment' from mid-20th-century reality, 2) 'Impact' on the marriage, and 3) The 'Coping Mechanism' theory (Sam's diagnosis)."
     },
     {
       question: "Interpret the significance of both literal and metaphorical journeys in the story, ‘The Third Level.’",
@@ -74,7 +74,7 @@ export const theThirdLevel: ChapterForensics = {
       year: "2024-25",
       type: "Short",
       marks: 2,
-      aiExplanation: "The 2-mark justification identifies the 'Physiscal' and 'Metaphysical' layers. Point I (literal search) earns the first mark for navigation of Grand Central. Point II (metaphorical escape) earns the second mark by identifying the 'Quest for Tranquility' away from modern 'war and worry', justifying the mark for identifying the 'psychological flight'."
+      aiExplanation: "Most appropriate answer: The literal journey is Charley's physical search through Grand Central, while the metaphorical journey is his psychological escape from modern anxieties towards a romanticized past. Forensic Justification: The 2-mark justification identifies 'Physical' and 'Metaphysical' layers. Point I (literal search) earns the first mark for navigation. Point II (metaphorical escape) identifies the 'Quest for Tranquility' away from modern 'war and worry'."
     },
     {
       question: "Discuss the narrative techniques used by the author in The Third Level. How do these techniques effectively convey the themes of escapism and nostalgia? Provide specific examples from the text to support your analysis.",
@@ -88,7 +88,7 @@ export const theThirdLevel: ChapterForensics = {
       year: "2024-25",
       type: "Long",
       marks: 5,
-      aiExplanation: "This 5-mark justification analyzes the 'Crossover of Genres'. Marks are awarded for identifying: 1) The 'Unreliable Narrator' (blurring reality/delusion), 2) 'Historical Verisimilitude' (President Garfield/1894 details), and 3) The 'Structural Tension' between science fiction (time travel) and social realism. This proves how the author makes the escapist nostalgia feel tangible to the reader."
+      aiExplanation: "Most appropriate answer: Jack Finney uses an unreliable narrator and precise historical details from 1894 to effectively blur the lines between reality and the desire for escapism and nostalgia. Forensic Justification: This 5-mark justification analyzes the 'Crossover of Genres'. Marks are for identifying: 1) The 'Unreliable Narrator' (blurring reality/delusion), 2) 'Historical Verisimilitude' (President Garfield/1894 details), and 3) The 'Structural Tension' between sci-fi and social realism."
     },
     {
       question: 'Why did Charley want to go to Galesburg?',
@@ -101,7 +101,7 @@ export const theThirdLevel: ChapterForensics = {
       year: '2024-25 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "The 2-mark reward is justified by the 'Idyll vs. Anxiety' contrast. Point I (escape from worry) earns the first mark for identifying the forensic need for security. Point II (peaceful 1894 atmosphere) earns the second mark by explaining how Galesburg acts as a 'pre-war' sanctuary where the horrors of the 20th century haven't occurred yet."
+      aiExplanation: "Most appropriate answer: Charley wanted to go to Galesburg to escape the insecurity and fear of the modern world for the peaceful, stress-free atmosphere of 1894. Forensic Justification: The 2-mark reward is justified by 'Idyll vs. Anxiety' contrast. Point I (escape from worry) identifies the forensic need for security. Point II (peaceful 1894 atmosphere) explains how Galesburg acts as a 'pre-war' sanctuary."
     },
     {
       question: 'What was the irony of Sam\'s disappearance?',
@@ -114,7 +114,7 @@ export const theThirdLevel: ChapterForensics = {
       year: '2025-26 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "This 2-mark justification focuses on 'Analytical Reversal'. Point I (Psychiatrist as patient) earns the first mark for identifying the twist. Point II (Validation) earns the second mark by explaining how Sam’s conversion ironically proves the existence of the Third Level, justifying the mark for 'Logical mind accepting the illogical'."
+      aiExplanation: "Most appropriate answer: The irony is that the psychiatrist who initially dismissed Charley's experience as a delusion eventually becomes a part of it, validating the Third Level's existence. Forensic Justification: This 2-mark justification focuses on 'Analytical Reversal'. Point I (Psychiatrist as patient) identifies the twist. Point II (Validation) explains how Sam's conversion ironically proves the existence of the Third Level."
     },
     {
       question: "Read the given extract and answer the questions:\n\nMy three hundred dollars bought less than two hundred in old-style bills, but I didn’t care; eggs were thirteen cents a dozen in 1894.\nBut I’ve never again found the corridor that leads to the third level at Grand Central Station, although I’ve tried often enough. Louisa was pretty worried when I told her all this, and didn’t want me to look for the third level any more, and after a while I stopped; I went back to my stamps. But now we’re both looking, every weekend…\n\nI. What does Charley’s indifference to the cost of old-style bills and his focus on the price of eggs in 1894 suggest about his view of the past?\nII. Charley has been unsuccessful in finding the corridor to the third level despite ____.\nIII. Where is the irony in Louisa’s reaction to Charley’s search for the third level in this extract?\nIV. The phrase ‘I went back to my stamps’ suggests _____.\na) finding comfort in a hobby that is familiar\nb) choosing a new hobby to forget earlier pursuits\nc) attempting to engage together in a new hobby\nd) approaching a familiar hobby with enthusiasm",
@@ -128,7 +128,7 @@ export const theThirdLevel: ChapterForensics = {
       year: "2025-26",
       type: "RTC",
       marks: 4,
-      aiExplanation: "This 4-part RTC explanation justifies the multi-layered response. Marks are awarded for identifying: 1) The 'Valuation' (simplicity over modern currency), 2) The 'Persistence' (frequent unsuccessful attempts), 3) The 'Irony' of Louisa joining the search, and 4) The 'Familiarity' of stamp collecting as a coping mechanism. This proves the shared nature of the escapist delusion."
+      aiExplanation: "Most appropriate answer: Charley values the simplicity of the past over modern currency, and despite his failed persistence, the irony is that Louisa eventually joins his weekly search. Forensic Justification: This 4-part RTC explanation justifies the response. Marks are awarded for identifying: 1) 'Valuation' (simplicity over modern currency), 2) 'Persistence' (failed attempts), 3) 'Irony' of Louisa joining the search, and 4) Stamp collecting as a familiar 'coping mechanism'."
     }
   ],
   distinctions: [

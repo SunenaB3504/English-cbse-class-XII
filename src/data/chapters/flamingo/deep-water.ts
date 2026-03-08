@@ -55,7 +55,7 @@ export const deepWater: ChapterForensics = {
       year: "2023-24",
       type: "Short",
       marks: 2,
-      aiExplanation: "The 2-mark justification focuses on 'Emotional Resonance' and 'Visual Impact'. Sensory details (e.g., 'suffocation', 'yellow water') earn the first mark by forcing the reader to vicariously experience the 'stark terror' of drowning. The second mark is for identifying how informative narration would create 'detachment', whereas sensory writing makes the narrator's eventual triumph over phobia much more psychologically significant for the reader."
+      aiExplanation: "Most appropriate answer: Sensory details create emotional resonance and visualization, preventing the detachment that informative narration would cause. Forensic Justification: The 2-mark justification focuses on 'Emotional Resonance' and 'Visual Impact'. Sensory details (e.g., 'suffocation', 'yellow water') earn the first mark by forcing the reader to vicariously experience the 'stark terror'. The second mark is for identifying how informative narration would create 'detachment', whereas sensory writing makes the triumph more psychologically significant."
     },
     {
       question: "Explain the 'systematic' approach Douglas took to overcome his fear.",
@@ -68,7 +68,7 @@ export const deepWater: ChapterForensics = {
       year: "2024-25 | Short",
       type: "Short",
       marks: 2,
-      aiExplanation: "This 2-mark explanation identifies the 'Methodical Structure' of his recovery. Point I (the pulley/rope system) earns the first mark for identifying the safety mechanisms used. Point II (piece-by-piece integration) earns the second mark by showing how complex skills were deconstructed into manageable parts. Together, they explain the 'Systematic' nature of dismantling a psychological phobia."
+      aiExplanation: "Most appropriate answer: Douglas used a guided training approach with a pulley system, deconstructing skills into parts that were integrated 'piece by piece'. Forensic Justification: This 2-mark explanation identifies the 'Methodical Structure' of the recovery. Point I (the pulley/rope system) and Point II (deconstructing skills into pieces) together explain the 'Systematic' nature of dismantling a psychological phobia."
     },
     {
       question: "Analyze Douglas's experience in the light of Roosevelt's quote on fear.",
@@ -81,7 +81,7 @@ export const deepWater: ChapterForensics = {
       year: "2025-26 | Long",
       type: "Long",
       marks: 5,
-      aiExplanation: "The 5-mark justification reflects a 'Philosophical Synthesis'. Full marks are awarded for connecting three distinct layers: 1) The physiological realization (peace in death vs. terror in fear), 2) The literal application of Roosevelt's maxim to his own 'near-drowning' trauma, and 3) The resulting existential outcome (the intensified will to live). This comprehensive analysis shows how personal survival evolves into a universal lesson on resilience."
+      aiExplanation: "Most appropriate answer: Conquering fear proved Roosevelt's philosophy that 'fear itself' is the enemy, intensifying Douglas's will to live after realizing peace exists in death but terror only in the fear of it. Forensic Justification: This 5-mark justification reflects a 'Philosophical Synthesis'. Full marks are awarded for connecting: 1) The physiological realization, 2) The literal application of Roosevelt's maxim, and 3) The resulting existential outcome (the intensified will to live)."
     },
     {
       question: "What lesson can individuals learn from Douglas’s experience in overcoming his fear of water?",
@@ -95,7 +95,7 @@ export const deepWater: ChapterForensics = {
       year: "2025-26",
       type: "Short",
       marks: 2,
-      aiExplanation: "This 2-mark justification focuses on 'Transferrable Resilience'. Point I earn the mark for identifying 'Systematic Desensitization'—deconstructing a phobia into parts. Point II earns the second mark by explaining how this lead to 'Personal Growth' and freedom. The explanation proves that confronting terror head-on with a structured plan is more effective than sheer willpower alone."
+      aiExplanation: "Most appropriate answer: Douglas's experience teaches that fear can be overcome through perseverance, gradual exposure, and proper guidance. Forensic Justification: This 2-mark justification focuses on 'Transferrable Resilience'. Point I (Systematic Desensitization) and Point II (resulting Personal Growth and freedom) prove that confronting terror with a structured plan is more effective than sheer willpower alone."
     }
   ],
   distinctions: [

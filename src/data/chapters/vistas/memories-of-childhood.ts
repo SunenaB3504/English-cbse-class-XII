@@ -61,7 +61,7 @@ export const memoriesOfChildhood: ChapterForensics = {
       year: "2023-24",
       type: "Long",
       marks: 5,
-      aiExplanation: "This 5-mark diary entry justification analyzes 'Survivor's Guilt' vs. 'Systemic Erasure'. Marks are awarded for identifying: 1) The 'Initial Resistance' (defiance), 2) The 'Adult Reflection' (guilt over surrender), 3) The 'Forensic Institutionalization' (unavoidable brutal system), and 4) The 'Self-Absolution'. This proves that the child was a victim of cultural erasure, not personal weakness."
+      aiExplanation: "Most appropriate answer: As an adult, Zitkala-Sa reflects on the forced cutting of her hair with a sense of conflict and guilt over her surrender, but ultimately absolves herself by recognizing she was a victim of a brutal system of cultural erasure. Forensic Justification: This 5-mark diary entry justification analyzes 'Survivor's Guilt' vs. 'Systemic Erasure'. Marks are based on: 1) 'Initial Resistance', 2) 'Adult Reflection', 3) 'Forensic Institutionalization', and 4) 'Self-Absolution'."
     },
     {
       question: "How can we say that the vadai packet incident reveals that the writer lacked the cognitive and emotional maturity required to understand the implications of untouchability?",
@@ -74,7 +74,7 @@ export const memoriesOfChildhood: ChapterForensics = {
       year: "2023-24",
       type: "Short",
       marks: 2,
-      aiExplanation: "The 2-mark justification identifies 'Cognitive Immaturity' and 'Lack of Social Context'. Point I (Childhood Innocence) earns the first mark by showing how Bama found the elder's actions 'hilarious'. Point II (Sinister Reality) earns the second mark by explaining how she lacked the forensic maturity to grasp the concept of caste-based pollution until it was explained by Annan."
+      aiExplanation: "Most appropriate answer: The incident shows Bama's lack of cognitive and emotional maturity as an eight-year-old, as she initially found the elder's actions 'hilarious' without comprehending the sinister scope of caste-based pollution. Forensic Justification: The 2-mark justification identifies 'Cognitive Immaturity' and 'Lack of Social Context'. Point I marks childhood innocence. Point II explains how she lacked forensic maturity until Annan's explanation."
     },
     {
       question: "In what ways does the imagery of her ‘long hair shingled like a coward's’ symbolise the erasure of Zitkala’s cultural heritage and the imposition of Western norms?",
@@ -87,7 +87,7 @@ export const memoriesOfChildhood: ChapterForensics = {
       year: "2024-25",
       type: "RTC",
       marks: 1,
-      aiExplanation: "The 1-mark award is justified by 'Cultural Symbolism'. It earns the mark by explaining how short, shingled hair is a forensic indicator of 'Cowardice' or 'Mourning' in Native American tradition. The explanation proves that the forced cut was a violent erasure of heritage, rather than just a cosmetic change."
+      aiExplanation: "Most appropriate answer: Shingled hair symbolizes the erasure of Zitkala's cultural heritage because in her tradition, short hair was reserved for cowards or mourners, and its imposition was a tool of forced assimilation. Forensic Justification: The 1-mark award is justified by 'Cultural Symbolism'. Short, shingled hair is a forensic indicator of 'Cowardice' or 'Mourning' in Native American tradition, proving the cut was a violent erasure of heritage."
     },
     {
       question: 'What did "shingled hair" mean to Zitkala-Sa?',
@@ -100,7 +100,7 @@ export const memoriesOfChildhood: ChapterForensics = {
       year: '2024-25 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "This 2-mark justification identifies 'Traditional Honor' and 'Institutional Assault'. Point I (Cultural Significance) earns the first mark for identifying hair as a symbol of bravery. Point II (Mental Subjugation) earns the second mark by explaining how the forced cut was an intentional assault on identity, justifying the mark for 'loss of cultural dignity'."
+      aiExplanation: "Most appropriate answer: For Zitkala-Sa, shingled hair represented the ultimate loss of cultural dignity and traditional honor, as short hair was culturally worn only by cowards, mourners, or those in shame. Forensic Justification: This 2-mark justification identifies 'Traditional Honor' and 'Institutional Assault'. Point I marks hair as a symbol of bravery. Point II explains the forced cut as an intentional assault on identity."
     },
     {
       question: 'What advice did Annan give to Bama?',
@@ -113,7 +113,7 @@ export const memoriesOfChildhood: ChapterForensics = {
       year: '2025-26 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "The 2-mark reward is based on the 'Weapon of Education'. Point I (Systemic Marginalization) earns the first mark for identifying the inherent loss of dignity. Point II (Merit over Caste) earns the second mark by explaining how academic excellence is the only forensic tool to reclaim honor, justifying the mark for 'reclaiming respect through effort'."
+      aiExplanation: "Most appropriate answer: Annan advised Bama that because they were born into a community stripped of its honor, only academic excellence and hard work could reclaim their dignity and force others to respect them. Forensic Justification: The 2-mark reward is based on the 'Weapon of Education'. Point I marks systemic marginalization. Point II explains how academic excellence is the only forensic tool to reclaim honor based on effort."
     }
   ],
   distinctions: [

@@ -53,7 +53,7 @@ export const myMotherAtSixtySix: PoetryForensics = {
       year: "2023-24",
       type: "RTC",
       marks: 2,
-      aiExplanation: "The 2-mark justification identifies the 'Psychological Divergence'. Point I (internal turmoil) earns the first mark by identifying the 'old familiar ache' of losing a parent. Point II (external composure) earns the second mark by explaining how the word 'but' functions as a pivot, showing the poet's deliberate choice to mask her panic with a 'smile' to protect her fragile mother."
+      aiExplanation: "Most appropriate answer: The speaker feels a fearful and apprehensive 'familiar ache' of losing her mother, yet the word 'but' suggests she masks this internal turmoil with outward composure. Forensic Justification: The 2-mark justification identifies 'Psychological Divergence'. Point I (internal turmoil) earns the first mark for the 'ache' of loss. Point II (external composure) explains how 'but' acts as a pivot, showing her choice to mask panic with a 'smile'."
     },
     {
       question: "Interpret the use of visual imagery by Kamala Das in her poem to depict the passage of time.",
@@ -67,7 +67,7 @@ export const myMotherAtSixtySix: PoetryForensics = {
       year: "2024-25",
       type: "Short",
       marks: 2,
-      aiExplanation: "This 2-mark explanation captures the 'Kinetic Contrast'. Point I (mother's stillness) earns the first mark as a symbol of 'gentle decline' and decay. Point II (outside movement) earns the second mark by contrasting 'sprinting trees' and 'spilling children' as vibrant symbols of life's vitality. Together, they justify the mark for illustrating the 'relentless passage of time'."
+      aiExplanation: "Most appropriate answer: Das uses the contrast between the mother's moon-like fragility and the vibrant 'sprinting trees' to depict the transience and relentless passage of time. Forensic Justification: This 2-mark explanation captures 'Kinetic Contrast'. Point I (mother's stillness) symbolizes 'gentle decline'. Point II (outside movement) contrasts this with 'sprinting trees' as symbols of vitality, illustrating the 'relentless passage of time'."
     },
     {
       question: "What is the significance of the image 'merry children spilling out of their homes'?",
@@ -80,7 +80,7 @@ export const myMotherAtSixtySix: PoetryForensics = {
       year: "2024-25 | RTC",
       type: "RTC",
       marks: 1,
-      aiExplanation: "The 1-mark award is justified by the 'Functional Contrast'. The word 'spilling' is a forensic indicator of 'limitless energy' and new beginnings. It earns the mark by serving as an intentional foil to the mother's 'ashen' face and corpse-like stillness, highlighting the cyclical nature of life (birth vs. decay)."
+      aiExplanation: "Most appropriate answer: The image of children 'spilling out' symbolizes vitality and the onset of life, providing a sharp contrast to the mother's decay and stillness. Forensic Justification: The 1-mark award is justified by 'Functional Contrast'. The word 'spilling' is a forensic indicator of 'limitless energy', serving as a foil to the mother's 'ashen' face and highlighting the cycle of life (birth vs. decay)."
     },
     {
       question: "Why does the poet compare her mother to a 'late winter's moon'?",
@@ -93,7 +93,7 @@ export const myMotherAtSixtySix: PoetryForensics = {
       year: "2025-26 | Short",
       type: "Short",
       marks: 2,
-      aiExplanation: "This 2-mark justification identifies the 'Symbolism of Season'. Point I (winter/end of life) earns the first mark for identifying the metaphor of the final stage. Point II (loss of radiance) earns the second mark by comparing the moon's 'hazy' appearance to the mother's fading strength. Both justify the mark for identifying the approach of the 'end'."
+      aiExplanation: "Most appropriate answer: The poet compares her mother to a 'late winter's moon' to symbolize her loss of radiance and fading strength at the final stage of her life. Forensic Justification: This 2-mark justification identifies the 'Symbolism of Season'. Point I (winter/end of life) identifies the final stage metaphor. Point II (loss of radiance) compares the 'hazy' moon to the mother's fading strength, identifying the approach of the 'end'."
     },
     {
       question: "Read the given extract and answer the questions:\n\n… I saw my mother,\nbeside me,\ndoze, open mouthed, her face\nashen like that\nof a corpse and realised with\npain\nthat she was as old as she\nlooked but soon\nput that thought away, and\nlooked out at Young Trees sprinting, the merry children spilling\nout of their homes…\n\nI. What does the imagery of the ‘ashen face’ of the mother suggest about her physical condition?\nII. The speaker’s use of the word 'realised' suggests that her awareness was _______ (delayed / expected / sudden).\nIII. How does the phrase ‘merry children spilling out of their homes’ contribute to the tone of the passage?\nIV. The primary theme highlighted in the extract is the _______ , as the narrator reflects on her mother’s frailty and aging.\nV. What can be inferred about the emotional state of the speaker in the extract?\na) Distracted by the liveliness of the surroundings\nb) Concerned about her mother’s discomfort\nc) Overwhelmed by a sense of anguish\nd) Preoccupied with thoughts about life experiences\nVI. All of the following are true for the extract EXCEPT –\na) The comparison to a ‘corpse’ highlights the speaker’s fear of losing her mother.\nb) The poet makes exclusive use of melancholic imagery in the given lines.\nc) The speaker’s internal conflict creates a relatable portrayal of human relationships.\nd) The universality of themes makes the lines relevant to the readers.",
@@ -109,7 +109,7 @@ export const myMotherAtSixtySix: PoetryForensics = {
       year: "2025-26",
       type: "RTC",
       marks: 6,
-      aiExplanation: "This 6-part RTC explanation justifies the multi-layered response. Marks are awarded for identifying: 1) The 'Frailty' in the ashen face, 2) The 'Sudden' (abrupt) realization, 3) The 'Contrast' of vitality in children, and 4) The 'Anguish' of impending loss. The final mark is justified by explaining why option (b) is false—the poet uses a deliberate mix of both melancholic and vibrant imagery."
+      aiExplanation: "Most appropriate answer: The moth's 'ashen face' suggests frailty, which the speaker realizes with sudden anguish, contrasted by the vitality of 'merry children'. Forensic Justification: This 6-part RTC explanation justifies the multi-layered response. Marks are awarded for: 1) 'Frailty' in the ashen face, 2) The 'Sudden' realization, 3) The 'Contrast' of vitality, and 4) The 'Anguish' of loss. The final mark is for identifying that the poet uses a mix of melancholic and vibrant imagery."
     }
   ],
   rhymeScheme: 'Free Verse (Single continuous sentence)',

@@ -62,7 +62,7 @@ export const indigo: ChapterForensics = {
       year: "2023-24",
       type: "Short",
       marks: 2,
-      aiExplanation: "This 2-mark justification identifies the 'Internal' and 'External' effects of Gandhi's presence. Point I (moral awakening) earns the first mark by showing how Gandhi's commitment as a 'stranger' shamed the local lawyers into action. Point II (collective responsibility) earns the second mark by explaining how this shifted their purpose from a professional consultation to a unified fight for justice."
+      aiExplanation: "Most appropriate answer: Rajendra Prasad’s recorded upshot of the consultations shows a moral awakening among the lawyers, who felt that it would be a shameful desertion to leave the peasants. Forensic Justification: This 2-mark justification identifies 'Internal' and 'External' effects. Point I (moral awakening) shows how Gandhi's commitment shamed the lawyers into action. Point II (collective responsibility) explains the shift from a professional consultation to a unified fight for justice."
     },
     {
       question: "How did the peasants of Champaran react to Gandhi’s presence and why?",
@@ -76,7 +76,7 @@ export const indigo: ChapterForensics = {
       year: "2024-25",
       type: "Short",
       marks: 2,
-      aiExplanation: "The 2-mark award is based on 'Psychological Liberation'. Point I earns a mark for identifying the 'Catalyst'—Gandhi's willingness to sacrifice his freedom. Point II earns the second mark by explaining the 'Result'—the spontaneous mobilization of thousands at Motihari, which marks the forensic shift from 'paralyzing fear' to collective 'empowerment'."
+      aiExplanation: "Most appropriate answer: The peasants of Champaran reacted to Gandhi’s presence with a spontaneous show of support, which brought national attention to their plight and empowered them to resist. Forensic Justification: The 2-mark award is based on 'Psychological Liberation'. Point I (the awareness of their rights and defenders) and Point II (the demonstration at Motihari as an 'initiation into courage') justify the forensic shift from 'paralyzing fear' to collective 'empowerment'."
     },
     {
       question: "Why did Gandhi agree to a settlement of 25% refund instead of 50%?",
@@ -89,7 +89,7 @@ export const indigo: ChapterForensics = {
       year: "2024-25 | 5 Marks",
       type: "Long",
       marks: 5,
-      aiExplanation: "This 5-mark justification reflects Gandhi's 'Strategic Acumen'. Full marks are awarded for identifying that the 'Prestige' of the landlords was more valuable than the gold. The explanation connects three layers: 1) The financial compromise (25%), 2) The psychological breakthrough (breaking the 'lords above the law' myth), and 3) The long-term impact on 'Swaraj' (self-reliance)."
+      aiExplanation: "Most appropriate answer: Gandhi agreed to a 25% refund because he believed that the loss of prestige for the landlords was more significant than the monetary amount. Forensic Justification: This 5-mark justification reflects Gandhi's 'Strategic Acumen'. Full marks are awarded for identifying that 'Prestige' was more valuable than gold. The explanation connects: 1) The financial compromise, 2) The psychological breakthrough (breaking the 'lords above the law' myth), and 3) The long-term impact on self-reliance."
     },
     {
       question: "How did the Champaran episode change the psychology of the Indian peasant?",
@@ -102,7 +102,7 @@ export const indigo: ChapterForensics = {
       year: "2025-26 | SQP",
       type: "Short",
       marks: 2,
-      aiExplanation: "The 2-mark justification focuses on the 'End of Subservience'. Point I identifies the 'Discovery of Rights' (knowing they had defenders). Point II marks the 'Initiation into Courage' (the Motihari demonstration). Together, these justify the mark by explaining the profound shift in peasant psychology from fear-driven apathy to self-reliant activism."
+      aiExplanation: "Most appropriate answer: The Champaran episode changed the psychology of the Indian peasant by granting them an awareness of their rights and an initiation into courage. Forensic Justification: The 2-mark justification focuses on the 'End of Subservience'. Point I (discovery of rights and defenders) and Point II (initiation into courage at Motihari) explain the profound shift from fear-driven apathy to self-reliant activism."
     }
   ],
   distinctions: [

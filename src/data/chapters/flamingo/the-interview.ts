@@ -61,7 +61,7 @@ export const theInterview: ChapterForensics = {
       year: "2023-24",
       type: "Short",
       marks: 2,
-      aiExplanation: "The 2-mark justification identifies the 'Temporal' and 'Cultural' resonance of the book. Point I (Zeitgeist) earns the first mark by explaining how success depends on the luck of 'timing'. Point II (Meta-themes) earns the second mark by showing how difficult subjects like metaphysics resonated with the specific intellectual mood of that decade, which Eco himself cannot fully replicate or explain."
+      aiExplanation: "Most appropriate answer: Umberto Eco meant that the success of 'The Name of the Rose' was due to the 'right timing', where its complex themes resonated with the specific cultural and intellectual mood of that decade. Forensic Justification: The 2-mark justification identifies 'Temporal' and 'Cultural' resonance. Point I (Zeitgeist) explains how success depends on 'timing'. Point II (Meta-themes) shows how difficult subjects resonated with the decade's mood."
     },
     {
       question: "What is Umberto Eco's theory of 'interstices'?",
@@ -74,7 +74,7 @@ export const theInterview: ChapterForensics = {
       year: "2024-25 | Short",
       type: "Short",
       marks: 2,
-      aiExplanation: "This 2-mark explanation captures the 'Cosmological Metaphor' for productivity. Point I (Universe gaps) earns the first mark for identifying the literal comparison between physical space and time. Point II (Micro-intervals) earns the second mark by explaining how using transitional moments (like the elevator) results in massive intellectual output, justifying the mark for 'Prolificacy'."
+      aiExplanation: "Most appropriate answer: Eco's theory of 'interstices' refers to the empty spaces or intervals in our lives—like waiting for an elevator—which he utilizes to maintain high intellectual productivity. Forensic Justification: This 2-mark explanation captures the 'Cosmological Metaphor'. Point I (Universe gaps) identifies the comparison between space and time. Point II (Micro-intervals) explains how using transitional moments leads to massive output."
     },
     {
       question: "Why do some celebrities despise being interviewed?",
@@ -87,7 +87,7 @@ export const theInterview: ChapterForensics = {
       year: "2025-26 | SQP",
       type: "Long",
       marks: 5,
-      aiExplanation: "The 5-mark justification reflects a 'Violation of Identity' analysis. Full marks are awarded for detailing three levels of despise: 1) The 'Wounding' effect (Naipaul), 2) The 'Unwarranted Intrusion' (Carroll), and 3) The 'Criminal' association (Kipling). This shows how celebrities view the interview as an assault on their private dignity and 'sacred' personal space."
+      aiExplanation: "Most appropriate answer: Some celebrities despise interviews as an unwarranted intrusion or a 'vile' crime that diminishes or 'wounds' their personal identity and privacy. Forensic Justification: The 5-mark justification reflects a 'Violation of Identity' analysis. Full marks are awarded for detailing: 1) The 'Wounding' effect (Naipaul), 2) The 'Unwarranted Intrusion' (Carroll), and 3) The 'Criminal' association (Kipling)."
     },
     {
       question: "How does the reference to 'interstices' enhance our understanding of Umberto Eco's perspective on writing and creativity?",
@@ -101,7 +101,7 @@ export const theInterview: ChapterForensics = {
       year: "2025-26",
       type: "Short",
       marks: 2,
-      aiExplanation: "This 2-mark justification focuses on 'Resourceful Thinking'. Point I earn the mark for identifying the 'Transitional Moments' used for creativity. Point II earns the second mark by explaining how Eco's discipline turns 'mundane interruptions' into literary opportunities. This proves he is a 'Universal Scholar' who optimizes every 'empty space' in existence."
+      aiExplanation: "Most appropriate answer: The reference to 'interstices' shows Eco's disciplined approach to time management, where he uses mundane, overlooked moments as opportunities for creativity and writing. Forensic Justification: This 2-mark justification focuses on 'Resourceful Thinking'. Point I (Transitional Moments) identifies the gaps used for creativity. Point II (Mundane interruptions) explains how his discipline turns those gaps into literary opportunities."
     }
   ],
   distinctions: [

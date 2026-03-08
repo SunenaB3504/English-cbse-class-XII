@@ -54,7 +54,7 @@ export const keepingQuiet: PoetryForensics = {
       year: "2023-24",
       type: "Long",
       marks: 5,
-      aiExplanation: "The 5-mark justification reflects a 'Philosophical Synthesis' between Neruda and Frost. Full marks are awarded for identifying: 1) The need for 'Objective Understanding' through stillness, 2) The 'Disconnect' from rash, destructive impulses (putting people out of pain), and 3) The 'Connection' to shared humanity. The explanation proves that silence acts as a filter for 'rash impulse', fostering a calm foundation for action."
+      aiExplanation: "Most appropriate answer: Neruda would advise Frost to practice stillness and reflection to disconnect from overwhelming emotions and connect with shared humanity before reacting to the peasants' plight. Forensic Justification: This 5-mark justification reflects a 'Philosophical Synthesis'. Full marks are awarded for identifying: 1) The need for 'Objective Understanding' through stillness, 2) Disconnecting from destructive impulses, and 3) Connecting to shared humanity."
     },
     {
       question: "Read the extract and answer the question:\nThose who prepare green wars, wars with gas, wars with fire, victory with no survivors, would put on clean clothes and walk about with their brothers in the shade, doing nothing.\n\nHow can the message in the excerpt, about the outcome of wars, be applied to promote peace?",
@@ -67,7 +67,7 @@ export const keepingQuiet: PoetryForensics = {
       year: "2024-25",
       type: "RTC",
       marks: 1,
-      aiExplanation: "The 1-mark award is based on the 'Nihilism of War'. Describing 'victory with no survivors' is a forensic indicator of mutual annihilation. It earns the mark by showing how this grim realization forces a shift from aggression to 'sustainable solutions' like dialogue and diplomacy, promoting peace through the logic of survival."
+      aiExplanation: "Most appropriate answer: The message suggests that war's outcomes are mutually destructive, promoting peace by advocating for non-violent negotiations and dialogue over aggression. Forensic Justification: The 1-mark award is based on the 'Nihilism of War'. Describing 'victory with no survivors' is a forensic indicator of mutual annihilation, forcing a shift from aggression to sustainable solutions like dialogue."
     },
     {
       question: "What is the 'exotic moment' the poet refers to?",
@@ -80,7 +80,7 @@ export const keepingQuiet: PoetryForensics = {
       year: "2024-25 | Short",
       type: "Short",
       marks: 2,
-      aiExplanation: "This 2-mark justification identifies the 'Acoustic' and 'Spiritual' layers of the exotic moment. Point I (absence of noise/engines) earns the first mark as a forensic reason for the 'break' from routine. Point II (sudden strangeness) earns the second mark by identifying the resulting collective unity that transcends modern chaos."
+      aiExplanation: "Most appropriate answer: The 'exotic moment' refers to a rare instance of universal silence and togetherness, free from the mechanical rush and noise of modern life. Forensic Justification: This 2-mark justification identifies 'Acoustic' and 'Spiritual' layers. Point I (absence of noise/engines) identifies the physical break from routine. Point II (sudden strangeness) identifies the resulting collective unity that transcends modern chaos."
     },
     {
       question: "How does the Earth teach us that there is life under apparent stillness?",
@@ -93,7 +93,7 @@ export const keepingQuiet: PoetryForensics = {
       year: "2025-26 | SQP",
       type: "RTC",
       marks: 1,
-      aiExplanation: "The 1-mark justification uses the 'Seasonal Metaphor' for productivity. It earns the mark by distinguishing between 'total inactivity' (death) and 'apparent stillness' (winter). The explanation prove that dormancy is actually a vital period of internal preparation for rebirth in spring, mirroring the effect of human silence."
+      aiExplanation: "Most appropriate answer: The Earth teaches that life exists under apparent stillness through the metaphor of winter, which seems dormant but prepares for rebirth in spring. Forensic Justification: The 1-mark justification uses the 'Seasonal Metaphor'. It earns the mark by distinguishing 'total inactivity' (death) from 'apparent stillness' (winter), proving that dormancy is vital internal preparation for rebirth."
     },
     {
       question: "What does the reference to fishermen not harming whales and the man gathering salt looking at his hurt hands signify in the poem?",
@@ -107,7 +107,7 @@ export const keepingQuiet: PoetryForensics = {
       year: "2025-26",
       type: "Short",
       marks: 2,
-      aiExplanation: "This 2-mark justification focuses on 'External vs. Internal' harm. Point I (fishermen/whales) earns the first mark for identifying the cessation of environmental exploitation. Point II (salt gatherer/hurt hands) earns the second mark by identifying the end of self-inflicted labor pain. Together, they justify the mark for illustrating the 'pause in destructive activities'."
+      aiExplanation: "Most appropriate answer: These images signify a pause in the exploitation of nature and the self-harm caused by mindless labor, allowing for introspection and reconnection with humanity. Forensic Justification: This 2-mark justification focuses on 'External vs. Internal' harm. Point I (fishermen/whales) identifies the end of environmental exploitation. Point II (salt gatherer/hurt hands) identifies the end of self-inflicted labor pain."
     }
   ],
   rhymeScheme: 'Free Verse',

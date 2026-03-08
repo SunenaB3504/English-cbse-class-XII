@@ -73,7 +73,7 @@ export const auntJennifersTigers: PoetryForensics = {
       year: "2023-24",
       type: "Compare",
       marks: 5,
-      aiExplanation: "This 5-mark justification reflects a 'Diversity of Female Experience' synthesis. Marks are awarded for identifying: 1) Systemic Victimhood (Aunt Jennifer), 2) Escapist Ambition (Sophie), and 3) Raw Resilience (Lost Spring). The explanation proves that women's struggles are multifaceted—ranging from domestic oppression to economic poverty—justifying the mark for 'Comprehensive Analysis'."
+      aiExplanation: "Most appropriate answer: The portrayals highlight the diversity of the female experience, ranging from Aunt Jennifer's systemic victimhood and Sophie's escapist ambition to the raw resilience of women in 'Lost Spring'. Forensic Justification: This 5-mark justification reflects a 'Diversity of Female Experience' synthesis. Marks are awarded for identifying: 1) Systemic Victimhood, 2) Escapist Ambition, and 3) Raw Resilience."
     },
     {
       question: "How might the message of the poem, 'Aunt Jennifer’s Tigers' be different, if the following last four lines were omitted?\n\nWhen Aunt is dead, her terrified hands will lie\nStill ringed with ordeals she was mastered by.\nThe tigers in the panel that she made\nWill go on prancing, proud and unafraid.",
@@ -86,7 +86,7 @@ export const auntJennifersTigers: PoetryForensics = {
       year: "2023-24",
       type: "Short",
       marks: 2,
-      aiExplanation: "The 2-mark justification identifies the 'Vitality of Legacy'. Point I (despair) earns the first mark for identifying the sombre tone if omitted. Point II (creative liberation) earns the second mark by showing how the tigers' 'prancing' is the forensic indicator of triumph over oppression. Both justify the mark for identifying the 'Immortality of Art'."
+      aiExplanation: "Most appropriate answer: Omitting the final lines would change the poem's message to one of absolute despair and defeat, removing the vital image of the tigers' prancing as a symbol of creative liberation. Forensic Justification: The 2-mark justification identifies 'Vitality of Legacy'. Point I identifies the sombre tone of despair if omitted. Point II shows how the 'prancing' tigers are the forensic indicator of triumph over oppression."
     },
     {
       question: "Analyse the poems, A Roadside Stand and Aunt Jennifer's Tigers for the theme of inequality and its impact on the bearers.",
@@ -99,7 +99,7 @@ export const auntJennifersTigers: PoetryForensics = {
       year: "2024-25",
       type: "Compare",
       marks: 5,
-      aiExplanation: "This comparative question contrasts two distinct forms of inequality. In 'A Roadside Stand', the inequality is socio-economic: the rural poor are economically paralyzed while the urban rich speed by in 'polished traffic.' In 'Aunt Jennifer's Tigers', the inequality is gender-based: Aunt Jennifer's entire identity and physical vitality are crushed under the 'massive weight' of patriarchal possession. However, both sets of 'bearers' experience a profound loss of agency and resort to silent, desperate longing."
+      aiExplanation: "Most appropriate answer: Both poems explore inequality—economic in 'A Roadside Stand' and gender-based in 'Aunt Jennifer’s Tigers'—highlighting the resulting marginalization and loss of agency for the bearers. Forensic Justification: Marks are awarded for contrasting two forms of inequality: 1) socio-economic paralysis in 'A Roadside Stand' (polished traffic), and 2) gender-based oppression in 'Aunt Jennifer's Tigers' (weight of the wedding band). Both groups experience a profound loss of agency."
     },
     {
       question: 'Why does Aunt Jennifer find the ivory needle hard to pull?',
@@ -112,7 +112,7 @@ export const auntJennifersTigers: PoetryForensics = {
       year: '2024-25 | RTC',
       type: 'RTC',
       marks: 1,
-      aiExplanation: "The 1-mark award is justified by the 'Psychological Weight'. It earns the mark by identifying the ivory needle's difficulty as a forensic indicator of 'Uncle's authority'. The explanation proves that her physical struggle is a direct manifestation of her internal fear and loss of individual strength."
+      aiExplanation: "Most appropriate answer: Aunt Jennifer finds the needle hard to pull because she is physically and mentally exhausted by the psychological burden and 'massive weight' of Uncle's authority. Forensic Justification: The 1-mark award is justified by 'Psychological Weight'. The ivory needle's difficulty is a forensic indicator of 'Uncle's authority', showing how her physical struggle is a direct manifestation of her internal fear."
     },
     {
       question: 'How do the "tigers" contrast with Aunt Jennifer’s personality?',
@@ -125,7 +125,7 @@ export const auntJennifersTigers: PoetryForensics = {
       year: '2025-26 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "This 2-mark justification identify the 'Psychological Foil'. Point I (Fearless vs. Fearful) earns the first mark for identifying the contrast in traits. Point II (Eternal vs. Mortal) earns the second mark by showing how the tigers' 'certainty' outlives Aunt’s physical decline. Both justify the mark for 'Thematic Contrast'."
+      aiExplanation: "Most appropriate answer: The tigers are 'proud and unafraid' while Aunt Jennifer is fearful and submissive; their eternal vitality in art contrasts with her mortal suffering and physical decline. Forensic Justification: This 2-mark justification identifies the 'Psychological Foil'. Point I (Fearless vs. Fearful) identifies the trait contrast. Point II (Eternal vs. Mortal) shows how the tigers' certainty outlives Aunt's physical decline."
     },
     {
       question: "Read the given extract and answer the questions:\n\nWhen Aunt is dead, her terrified hands will lie\nStill ringed with ordeals she was mastered by.\nThe tigers in the panel that she made\nWill go on prancing, proud and unafraid\n\nI What does the phrase ‘terrified hands’ suggest about Aunt’s life?\nII The tigers’ proud and playful movements reflect ______.\nIII Examine briefly how the tigers in the panel contrast with Aunt’s life experiences.\nIV. The phrase ‘still ringed’ refers to both the literal ______ (shape of the embroidery panel / wedding band on her finger) and the figurative ‘ring’ of constraints and ordeals imposed by her marriage.\nV. If a student were to interpret the word ‘prancing’ in a real-world context, which of the following would it best represent?\na) An employee working under the pressure of deadlines.\nb) A soldier standing firm and ready for battle at the frontier.\nc) A child playing freely in a park, unburdened by responsibilities.\nd) A bird trapped in a cage, longing to be free and fly high.\nVI. What does the poet imply about the art in the line ‘The tigers in the panel that she made will go on prancing’?\na) Art is a timeless expression that outlives its creator, continuing to embody their spirit and desires.\nb) The tigers symbolise Aunt Jennifer’s fleeting empowerment, which will fade over time.\nc) The panel is a temporary escape for Aunt Jennifer...\nd) The permanence of the tigers...",
@@ -141,7 +141,7 @@ export const auntJennifersTigers: PoetryForensics = {
       year: "2025-26",
       type: "RTC",
       marks: 6,
-      aiExplanation: "This 6-part RTC justification explains the 'Transcendence of Art'. Marks are awarded for identifying: 1) The 'Terrified hands' (oppression), 2) The 'Wedding band' (physical/figurative ring), 3) The 'Child playing freely' (equivalent of prancing), and 4) Art as a 'Timeless expression'. This confirms that while the artist is 'mastered', the art remains 'unafraid'."
+      aiExplanation: "Most appropriate answer: Despite Aunt's 'terrified hands' being ringed by ordeals, her tigers symbolize a timeless, resilient spirit that stays 'proud and unafraid' long after she is gone. Forensic Justification: This 6-part RTC justification explains 'Transcendence of Art'. Marks are awarded for: 1) 'Terrified hands' (oppression), 2) 'Wedding band' (physical/figurative ring), 3) 'Child playing freely' (equivalent to prancing), and 4) Art as a 'Timeless expression'."
     }
   ],
   distinctions: [

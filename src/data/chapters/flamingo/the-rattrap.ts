@@ -62,7 +62,7 @@ export const theRattrap: ChapterForensics = {
       year: "2023-24",
       type: "Short",
       marks: 2,
-      aiExplanation: "The 2-mark justification identifies the 'Phygital' and 'Psychological' layers of the setting. Point I (isolation/desolation) earns the first mark by mirroring the peddler's lonely existence. Point II (metaphorical wilderness) earns the second mark by explaining how the dense forest represents the 'rattrap' of the human soul, where greed leads to entrapment and despair."
+      aiExplanation: "Most appropriate answer: The remote forest setting creates a mood of isolation and desolation, symbolizing the metaphorical wilderness of the human soul and the entrapment of greed. Forensic Justification: The 2-mark justification identifies 'Physical' and 'Psychological' layers. Point I (isolation/desolation) mirrors the peddler's lonely existence. Point II (metaphorical wilderness) explains how the dense forest represents the 'rattrap' of the human soul."
     },
     {
       question: "Explain how the rattrap symbolises the dual aspects of human nature.",
@@ -76,7 +76,7 @@ export const theRattrap: ChapterForensics = {
       year: "2024-25",
       type: "Short",
       marks: 2,
-      aiExplanation: "This 2-mark explanation captures the 'Dualistic Symbolism' of the rattrap. Point I (greed/materialism) earns the first mark for identifying how the world's 'bait' ensnares individuals. Point II (redemption) earns the second mark by showing how Edla's kindness allows the peddler to 'escape' his criminal identity, proving that empathy restores 'essential humanity'."
+      aiExplanation: "Most appropriate answer: The rattrap symbolizes the tendency toward greed/deceit that ensnares individuals, and the potential for redemption through empathy and trust. Forensic Justification: This 2-mark explanation captures 'Dualistic Symbolism'. Point I (greed/materialism) identifies how the world's 'bait' ensnares people. Point II (redemption) shows how Edla's kindness allows the peddler to escape his criminal identity and reclaim humanity."
     },
     {
       question: "How does Edla's treatment of the peddler differ from her father's?",
@@ -89,7 +89,7 @@ export const theRattrap: ChapterForensics = {
       year: "2023-24 | 5 Marks",
       type: "Long",
       marks: 5,
-      aiExplanation: "The 5-mark justification reflects a 'Status vs. Soul' analysis. Full marks are awarded for contrasting the Ironmaster's 'utilitarian' hospitality (based on mistaken identity) with Edla's 'unconditional' compassion. The explanation demonstrates how Edla's 'acting as if' (treating the peddler as a Captain) is the specific catalyst for his moral transformation, transcending social Darwinism."
+      aiExplanation: "Most appropriate answer: While the Ironmaster views the peddler based on status and utility, Edla sees his fear and treats him with unconditional empathy as a human being. Forensic Justification: This 5-mark justification reflects a 'Status vs. Soul' analysis. Full marks are awarded for contrasting the Ironmaster's utilitarian approach with Edla's 'acting as if' (treating him as a Captain), which serves as the catalyst for his moral transformation."
     },
     {
       question: "Read the given extract and answer the questions:\n\nShe said this in such a friendly manner that the rattrap peddler must have felt confidence in her.\n‘It would never have occurred to me that you would bother with me yourself, miss,’ he said. ‘I will come at once.’\nHe accepted the fur coat, which the valet handed him with a deep bow, threw it over his rags, and followed the young lady out to the carriage, without granting the astonished blacksmiths so much as a glance.\nBut while he was riding up to the manor house he had evil forebodings.\n“Why the devil did I take that fellow’s money?” he thought. “Now I am sitting in the trap and will never get out of it.”\n\nI. Which of the following best reflect the 'friendly manner' Edla exhibits toward the rattrap peddler as referred to in the extract?\n1. Pay a compliment\n2. Show kindness\n3. Provide financial support\n4. Be respectful\n5. Speak in an excited tone\nSelect the most suitable option.\nA. 1 and 5\nB. 2 and 4\nC. 1, 2 and 3\nD. 3, 4 and 5\nII. The peddler threw the fur coat over his rags and followed Edla out to the carriage, ______ (enthusiastically / silently / reluctantly).\nIII. How did the peddler feel toward Edla after accepting the fur coat and making his statement?\nA. He decided to humour her gesture.\nB. He felt obligated to trust her kindness.\nC. He remained unsure about her true intentions.\nD. He recognised and appreciated her compassion.\nIV. What might have been the most likely reason the blacksmiths were astonished when the peddler accepted the coat and left with Edla?\nV. Justify that guilt was the primary cause of the peddler's sense of evil foreboding, based on the information in the extract?\nVI. When the peddler says, \"…I will never get out,\" his statement stems from his guilt over stealing ‘that fellow’s’ money and his fear that _______ .",
@@ -105,7 +105,7 @@ export const theRattrap: ChapterForensics = {
       year: "2025-26",
       type: "RTC",
       marks: 6,
-      aiExplanation: "This 6-part RTC explanation justifies the multi-layered response. Marks are awarded for identifying: 1) The 'Respect/Kindness' in Edla's manner, 2) The 'Silent' (shame-filled) departure of the peddler, 3) The 'Recognition' of compassion, and 4) The 'Evil Foreboding' (guilt) as a psychological consequence of theft. Together, these justify the peddler's realization that he has walked into the 'rattrap' of his own making."
+      aiExplanation: "Most appropriate answer: Edla's respectful manner contrasts with the peddler's silent guilt and evil forebodings, as he realizes he has walked into a 'trap' of his own making. Forensic Justification: This 6-part RTC explanation justifies the multi-layered response. Marks are awarded for: 1) The 'Respect/Kindness' in Edla's manner, 2) The 'Silent' (shame-filled) departure, 3) The 'Recognition' of compassion, and 4) The 'Evil Foreboding' (guilt) as a consequence of theft."
     }
   ],
   distinctions: [

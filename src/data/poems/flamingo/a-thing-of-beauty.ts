@@ -69,7 +69,7 @@ export const aThingOfBeauty: PoetryForensics = {
       year: "2023-24",
       type: "RTC",
       marks: 2,
-      aiExplanation: "The 2-mark justification identifies the 'Spiritual' and 'Eternal' nourishment of art. Point I (Immortality of Art) earns the first mark by showing how heroic tales transcend time. Point II (Constant Inspiration) earns the second mark by explaining the 'fountain' analogy—it continuously pours forth moral beauty from 'heaven’s brink' to sustain humanity across generations, much like 'immortal drink'."
+      aiExplanation: "Most appropriate answer: The 'endless fountain' represents the immortality of art and literature, which constantly pours forth inspiration and spiritual nourishment like a divine gift. Forensic Justification: The 2-mark justification identifies 'Spiritual' and 'Eternal' nourishment. Point I (Immortality of Art) shows how heroic tales transcend time. Point II (Constant Inspiration) explains the 'fountain' analogy as a continuous source of moral beauty."
     },
     {
       question: 'How does beauty provide us "a bower quiet"?',
@@ -82,7 +82,7 @@ export const aThingOfBeauty: PoetryForensics = {
       year: 'CBSE 2024',
       type: 'RTC',
       marks: 1,
-      aiExplanation: "The 1-mark award is justified by the 'Restorative' function of beauty. It earns the mark by explaining how a 'bower quiet' (a shady sanctuary) provides 'quiet breathing' and restorative sleep, acting as a forensic therapeutic force that offsets the 'despondence' of the world."
+      aiExplanation: "Most appropriate answer: Beauty provides a 'bower quiet' by acting as a peaceful sanctuary that offers restorative sleep and quiet breathing, helping us escape despondence. Forensic Justification: The 1-mark award is justified by the 'Restorative' function. A 'bower quiet' (shady sanctuary) provides 'quiet breathing' and restorative sleep, acting as a therapeutic force that offsets the 'despondence' of the world."
     },
     {
       question: 'What is the "grandeur of the dooms" mentioned by Keats?',
@@ -95,7 +95,7 @@ export const aThingOfBeauty: PoetryForensics = {
       year: 'CBSE Sample Paper 2025',
       type: 'Short',
       marks: 2,
-      aiExplanation: "This 2-mark justification identifies the 'Heroic' and 'Aesthetic' layers. Point I (Heroic Legacies) earns the first mark for identifying the 'grandeur' in the self-sacrifice of our ancestors. Point II (Moral Beauty) earns the second mark by explaining how these 'dooms' (destinies) are transformed into 'lovely tales' that act as an immortal fountain of joy, justifying the mark for 'Inspirational Legacy'."
+      aiExplanation: "Most appropriate answer: The 'grandeur of the dooms' refers to the majestic and inspirational legacies of the 'mighty dead', whose heroic tales continue to nourish us like an immortal fountain. Forensic Justification: This 2-mark justification identifies 'Heroic' and 'Aesthetic' layers. Point I (Heroic Legacies) identifies 'grandeur' in self-sacrifice. Point II (Moral Beauty) explains how these destinies are transformed into 'lovely tales'—an immortal fountain of joy."
     },
     {
       question: "Keats suggests that beauty has the power to connect us to the earth despite the struggles of human existence. In what ways does this connection impact our understanding of the 'dark spirits' he describes?",
@@ -108,7 +108,7 @@ export const aThingOfBeauty: PoetryForensics = {
       year: "2025-26",
       type: "Short",
       marks: 2,
-      aiExplanation: "This 2-mark justification focuses on 'Alleviating Darkness'. Point I earn the mark for identifying the 'flowery band' as a forensic anchor that tethers us to the earth. Point II earns the second mark by explaining how beauty 'moves away the pall' from our dark spirits, transforming overwhelming burdens into manageable human experiences brightened by joy."
+      aiExplanation: "Most appropriate answer: Beauty connects us to the earth by alleviating 'dark spirits' and acting as an anchor that transforms overwhelming burdens into manageable experiences brightened by joy. Forensic Justification: This 2-mark justification focuses on 'Alleviating Darkness'. Point I identifies the 'flowery band' as an anchor. Point II explains how beauty 'moves away the pall' from dark spirits, transforming burdens into manageable experiences."
     }
   ],
   distinctions: [

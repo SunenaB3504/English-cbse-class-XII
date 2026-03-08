@@ -62,7 +62,7 @@ export const poetsAndPancakes: ChapterForensics = {
       year: "2023-24",
       type: "Short",
       marks: 2,
-      aiExplanation: "The 2-mark justification identifies the 'Interpersonal' and 'Functional' value of Subbu. Point I (unwavering loyalty) earns the first mark by showing how identifying with the Boss (S.S. Vasan) creates a trust-based power dynamic. Point II (creative flexibility) earns the second mark by explaining how his 'versatility' makes him a tailored problem-solver for the studio, unlike the ego-driven office boy."
+      aiExplanation: "Most appropriate answer: Subbu's success was driven by his unwavering loyalty to his principal, his creative flexibility in providing scene alternatives, and his invaluable interpersonal skills. Forensic Justification: The 2-mark justification identifies 'Interpersonal' and 'Functional' values. Point I (unwavering loyalty) shows how identifying with the Boss creates a trust-based power dynamic. Point II (creative flexibility) explains how his versatility makes him a tailored problem-solver for the studio."
     },
     {
       question: "While both Sophie and Subbu share aspirations for success in their respective fields, they encounter different constraints and demonstrate distinct approaches in pursuing their dreams. Analyse this statement based on Subbu's approach.",
@@ -76,7 +76,7 @@ export const poetsAndPancakes: ChapterForensics = {
       year: "2024-25",
       type: "Compare",
       marks: 5,
-      aiExplanation: "This 5-mark justification uses a 'Reality vs. Escapism' contrast. Full marks are awarded for identifying: 1) Subbu's 'tangible' success through adaptability, 2) His navigation of 'Office Boy syndrome' jealousy with humility, and 3) The grounded nature of his contributing to a collective vision (Gemini Studios) vs. Sophie's isolated daydreams."
+      aiExplanation: "Most appropriate answer: Subbu's approach was rooted in adaptability and humility, allowing him to successfully navigate the industry's challenges and contribute to a collective vision. Forensic Justification: This 5-mark justification uses a 'Reality vs. Escapism' contrast. Full marks are awarded for identifying: 1) Subbu's 'tangible' success through adaptability, 2) His navigation of 'office boy' jealousy with humility, and 3) His grounded contribution to the studio's collective vision."
     },
     {
       question: "Why was Stephen Spender's visit to Gemini Studios considered a 'baffling mystery'?",
@@ -89,7 +89,7 @@ export const poetsAndPancakes: ChapterForensics = {
       year: "2024-25 | SQP",
       type: "Short",
       marks: 2,
-      aiExplanation: "The 2-mark award is justified by the 'Linguistic' and 'Ideological' mismatches. Point I (unintelligible accent) earns the mark for the immediate barrier to communication. Point II (hidden political agenda) earns the second mark by explaining the incongruity of an avant-garde English poet speaking to a populist Tamil film studio, later revealed as a Cold War anti-Communist maneuver."
+      aiExplanation: "Most appropriate answer: Stephen Spender's visit was a mystery due to the linguistic barrier of his accent and the baffling mismatch between high English poetry and commercial Tamil cinema. Forensic Justification: The 2-mark award is justified by 'Linguistic' and 'Ideological' mismatches. Point I (unintelligible accent) identifies the immediate communication barrier. Point II (hidden political agenda) explains the incongruity of an English poet at a Tamil studio, later revealed as an anti-Communist maneuver."
     },
     {
       question: "Analyze the character of Kothamangalam Subbu as a 'No. 2' in Gemini Studios.",
@@ -102,7 +102,7 @@ export const poetsAndPancakes: ChapterForensics = {
       year: "2025-26 | 5 Marks",
       type: "Long",
       marks: 5,
-      aiExplanation: "This 5-mark justification analyzes the 'Archetype' of the No. 2. Marks are awarded for detailing: 1) His 'multifaceted' creative output (acting/writing), 2) His 'Tailor-made' loyalty to institutional stability, and 3) The 'sycophancy' perceived by those below him (Office Boy) as a necessary survival mechanism in a hierarchy-heavy industry."
+      aiExplanation: "Most appropriate answer: As the 'No. 2', Subbu was an irreplaceable asset whose versatility, loyalty to the Boss, and creative problem-solving made him a central figure at the studio. Forensic Justification: This 5-mark justification analyzes the 'Archetype' of the No. 2. Marks are awarded for detailing: 1) His 'multifaceted' creative output, 2) His loyalty to institutional stability, and 3) The 'sycophancy' seen by others as a necessary survival mechanism."
     }
   ],
   distinctions: [

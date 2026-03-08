@@ -61,7 +61,7 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
       year: "2023-24",
       type: "RTC",
       marks: 2,
-      aiExplanation: "The 2-mark justification identifies 'Scientific Controls' and 'Temporal Analysis'. Point I (Pristine environment) earns the first mark by showing how the absence of humans provides a forensic baseline for measuring impact. Point II (Time Machine analogy) earns the second mark by explaining how ice-cores preserve 'half-million-year-old carbon records', justifying the mark for identifying its role as a window into the past."
+      aiExplanation: "Most appropriate answer: Antarctica's lack of a human population makes it a 'pristine' control group for measuring climate change, while its ancient ice-core carbon records act as a 'time machine' into past atmospheric conditions. Forensic Justification: The 2-mark justification identifies 'Scientific Controls' and 'Temporal Analysis'. Point I identifies the forensic baseline. Point II explains how ice-cores preserve 'half-million-year-old carbon records'."
     },
     {
       question: "To visit Antarctica now is to be a part of that history... When you think about all that can happen in a million years, it can get pretty mind-boggling. How does the author imply the role of geological knowledge in understanding the Earth's past and potential future changes?",
@@ -74,7 +74,7 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
       year: "2024-25",
       type: "RTC",
       marks: 1,
-      aiExplanation: "The 1-mark award is justified by 'Temporal Connectivity'. It earns the mark by explaining how studying past tectonic shifts (Gondwana/Himalayas) is a forensic tool for predicting the Earth's 'potential future changes'. This proves that geological knowledge is the only bridge between millions of years of history and upcoming climate shifts."
+      aiExplanation: "Most appropriate answer: Geological knowledge of past tectonic shifts, like the separation of Gondwana and the collision of India, is essential for predicting potential future environmental and climate changes. Forensic Justification: The 1-mark award is justified by 'Temporal Connectivity'. It earns the mark by explaining how studying past tectonic shifts is a forensic tool for predicting future changes, bridging millions of years of history."
     },
     {
       question: 'Why is Antarctica the place to go to understand the Earth’s past?',
@@ -87,7 +87,7 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
       year: '2024-25 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "This 2-mark justification identifies Antarctica as a 'Geological Archive'. Point I (Time Capsule) earns the first mark for identifying the preservation of carbon records. Point II (industrial impact measurement) earns the second mark by explaining how its 'pristine' state provides a clear contrast to human-altered regions, justifying the mark for evidence of Earth's past."
+      aiExplanation: "Most appropriate answer: Antarctica is a geological time capsule that preserves ancient carbon records in its ice and remains 'pristine' due to a lack of human population, providing clear evidence of the Earth's past. Forensic Justification: This 2-mark justification identifies 'Geological Archive'. Point I (Time Capsule) marks the preservation of carbon records. Point II (Industrial impact) explains how its pristine state contrasts with human-altered regions."
     },
     {
       question: 'What is the significance of "Students on Ice"?',
@@ -100,7 +100,7 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
       year: '2025-26 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "The 2-mark reward is based on 'Educational Epiphany'. Point I (Future Policymakers) earns the first mark for targeting the most malleable generation. Point II (First-hand witness) earns the second mark by explaining how direct exposure to melting glaciers creates an emotional impact that textbooks cannot replicate, justifying the mark for 'Epiphany at a young age'."
+      aiExplanation: "Most appropriate answer: 'Students on Ice' targets future policymakers, giving them a first-hand experience of the climate crisis—like witnessing collapsing glaciers—that creates a more profound epiphany than textbook learning. Forensic Justification: The 2-mark reward is based on 'Educational Epiphany'. Point I (Future Policymakers) targets the most malleable generation. Point II (First-hand witness) explains how direct exposure creates a replicating emotional impact."
     },
     {
       question: "Imagine you are Tishani Doshi, the narrator of ‘Journey to the End of the Earth.’ Write a blog post about your experience in Antarctica, focusing on the profound impact of the environment on your understanding of the Earth’s past and future.\nYou may begin like this:\nStanding on the icy expanse of Antarctica, I was struck by...",
@@ -114,7 +114,7 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
       year: "2025-26",
       type: "Long",
       marks: 5,
-      aiExplanation: "This 5-mark blog post justification reflects an 'Environmental Awakening'. Marks are awarded for identifying: 1) The 'Sensory Shock' of the landscape, 2) The 'Educational Insight' (Gondwana vs. Textbooks), 3) The 'First-hand awareness' of climate change, and 4) The 'Moral Responsibility' of humanity. This proves how physical reality transforms intellectual theory into urgent action."
+      aiExplanation: "Most appropriate answer: The visit offered a sensory shock and an educational epiphany about Gondwana, leading to a profound understanding of climate change and the urgent moral responsibility to save our future. Forensic Justification: This 5-mark blog post justification reflects an 'Environmental Awakening'. Marks are awarded for identifying: 1) 'Sensory Shock', 2) 'Educational Insight', 3) 'First-hand awareness' of climate change, and 4) 'Moral Responsibility' of humanity."
     }
   ],
   distinctions: [

@@ -73,7 +73,7 @@ export const aRoadsideStand: PoetryForensics = {
       year: "2024-25",
       type: "RTC",
       marks: 1,
-      aiExplanation: "The 1-mark award is justified by the 'Oxymoronic Control'. The phrase 'enforcing benefits' earns the mark by identifying the forensic mismatch between a 'benefit' (help) and 'enforcing' (coercion). This highlights how the rural poor are stripped of their agency by urban politicians who impose solutions without consent."
+      aiExplanation: "Most appropriate answer: The phrase 'enforcing benefits' suggests that aid is imposed in a controlling, non-consensual manner rather than out of genuine care. Forensic Justification: The 1-mark award is justified by the 'Oxymoronic Control'. The phrase 'enforcing benefits' identifies the mismatch between a 'benefit' (help) and 'enforcing' (coercion), showing how rural agency is stripped by imposed solutions."
     },
     {
       question: "Analyse the poems, A Roadside Stand and Aunt Jennifer's Tigers for the theme of inequality and its impact on the bearers.",
@@ -86,7 +86,7 @@ export const aRoadsideStand: PoetryForensics = {
       year: "2024-25",
       type: "Compare",
       marks: 5,
-      aiExplanation: "This 5-mark justification reflects a 'Socio-Political Comparison'. Full marks are awarded for identifying: 1) The 'Economic' disparity in Roadside Stand (Rural vs. Urban), 2) The 'Gender' disparity in Aunt Jennifer (Marriage/Patriarchy), and 3) The 'Common Impact' of marginalization and loss of agency. Both poems show how bearers are crushed by external 'weights'—whether of city money or a wedding band."
+      aiExplanation: "Most appropriate answer: Both poems explore inequality—economic in 'A Roadside Stand' and gender-based in 'Aunt Jennifer’s Tigers'—highlighting the resulting marginalization and loss of agency for the bearers. Forensic Justification: This 5-mark justification reflects a 'Socio-Political Comparison'. Marks are for identifying: 1) Economic disparity (Rural vs. Urban), 2) Gender disparity (Marriage/Patriarchy), and 3) Common impact of marginalization."
     },
     {
       question: 'What is the "childish longing in vain" that the poet refers to?',
@@ -99,7 +99,7 @@ export const aRoadsideStand: PoetryForensics = {
       year: '2024-25 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "The 2-mark justification identifies the 'Naive Aspiration'. Point I (hopeless waiting) earns the first mark for identifying the forensic futility of the farmers' hope. Point II (economic neglect) earns the second mark by explaining how this 'childish' need for city recognition is systematically ignored by the 'polished' urban elite, justifying the mark for 'Vain Aspiration'."
+      aiExplanation: "Most appropriate answer: The 'childish longing in vain' refers to the farmers' futile hope and hopeless waiting for passing city cars to stop and provide the recognition and economic support they crave. Forensic Justification: The 2-mark justification identifies 'Naive Aspiration'. Point I (hopeless waiting) identifies the futility of the farmers' hope. Point II (economic neglect) explains how this 'childish' need is ignored by the urban elite."
     },
     {
       question: 'Why are the politicians called "greedy good-doers"?',
@@ -112,7 +112,7 @@ export const aRoadsideStand: PoetryForensics = {
       year: '2025-26 | RTC',
       type: 'RTC',
       marks: 1,
-      aiExplanation: "The 1-mark justification focuses on 'Political Hypocrisy'. It earns the mark by identifying the oxymoron 'greedy good-doers' as a forensic indicator of self-serving charity. The explanation proves how these benefactors 'soothe' the poor out of their wits to secure political power, justifying the mark for identifying 'Exploitation of ignorance'."
+      aiExplanation: "Most appropriate answer: Politicians are called 'greedy good-doers' because their schemes appear helpful but are actually self-serving manipulations that exploit the ignorance of the rural poor. Forensic Justification: The 1-mark justification focuses on 'Political Hypocrisy'. The oxymoron 'greedy good-doers' is a forensic indicator of self-serving charity, showing how benefactors exploit the poor to secure political power."
     }
   ],
   distinctions: [

@@ -62,7 +62,7 @@ export const theTigerKing: ChapterForensics = {
       year: "2023-24",
       type: "RTC",
       marks: 2,
-      aiExplanation: "The 2-mark justification identifies 'Political Danger' and 'Linguistic Irony'. Point I (astrologers' fear) earns the first mark by showing the forensic risk of delivering bad news to an absolute ruler. Point II (fantastic demise) earns the second mark by explaining the author's use of contrast to mock the King's royal vanity, justifying the mark for identifying 'satirical contrast'."
+      aiExplanation: "Most appropriate answer: The astrologers felt unease and fear about revealing a deadly prophecy to an absolute ruler, while the author's use of 'fantastic demise' satirical contrast mocks the King's vanity. Forensic Justification: The 2-mark justification identifies 'Political Danger' and 'Linguistic Irony'. Point I (astrologers' fear) marks the forensic risk of delivery. Point II (fantastic demise) explains the satirical contrast used to mock the King's vanity."
     },
     {
       question: "Discuss the significance of the toy tiger in the climax of ‘The Tiger King.’",
@@ -75,7 +75,7 @@ export const theTigerKing: ChapterForensics = {
       year: "2024-25",
       type: "Short",
       marks: 2,
-      aiExplanation: "The 2-mark reward is based on 'Instrumental Irony'. Point I (Toy fulfills prophecy) earns the first mark for the plot resolution. Point II (Inescapability of Fate) earns the second mark by explaining how a cheap wooden object mocks the King's lifelong hunt of the 'real' tigers, justifying the mark for 'futility of manipulating destiny'."
+      aiExplanation: "Most appropriate answer: The toy tiger is the instrument of fate that fulfills the prophecy, mocking the King's vanity and demonstrating the futility of trying to manipulate destiny. Forensic Justification: The 2-mark reward is based on 'Instrumental Irony'. Point I (Toy fulfills prophecy) marks the plot resolution. Point II (Inescapability of Fate) explains how a cheap wooden object mocks the King's life-long hunt, justifying the 'futility' mark."
     },
     {
       question: 'What is the irony in the Tiger King’s death?',
@@ -88,7 +88,7 @@ export const theTigerKing: ChapterForensics = {
       year: '2024-25 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "This 2-mark justification focus on 'Fatalistic Mockery'. Point I (Victory of destiny) earns the first mark for identifying the fulfillment of the prophecy. Point II (Trivial cause) earns the second mark by contrasting the King's rifles and 99 kills with a crude sliver of wood, proving that destiny has the final 'laugh' over absolute human power."
+      aiExplanation: "Most appropriate answer: The irony lies in the victory of destiny over the King's ego, where a trivial sliver of wood from a toy succeeds in killing the 'great' hunter despite his 99 kills. Forensic Justification: This 2-mark justification focuses on 'Fatalistic Mockery'. Point I (Victory of destiny) identifies the prophecy's fulfillment. Point II (Trivial cause) contrasts the King's rifles with a crude wooden sliver, proving destiny's final 'laugh'."
     },
     {
       question: 'How did the Dewan manage the 100th tiger?',
@@ -101,7 +101,7 @@ export const theTigerKing: ChapterForensics = {
       year: '2025-26 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "The 2-mark justification identifies 'Sycophancy-driven Farce'. Point I (Fear of wrath) earns the first mark for identifying the Dewan's motivation. Point II (Manipulation of hunt) earns the second mark by explaining how absolute power forces subordinates into absurd, desperate lies (importing an old tiger) just to survive, justifying the mark for 'Dewan's role in the farce'."
+      aiExplanation: "Most appropriate answer: The Dewan secretly imported an old tiger and manipulated the hunt due to his fear of the King's temper, highlighting the desperate sycophancy required to survive. Forensic Justification: The 2-mark justification identifies 'Sycophancy-driven Farce'. Point I (Fear of wrath) identifies the Dewan's motivation. Point II (Manipulation of hunt) explains how absolute power forces subordinates into absurd, desperate lies to survive."
     }
   ],
   distinctions: [

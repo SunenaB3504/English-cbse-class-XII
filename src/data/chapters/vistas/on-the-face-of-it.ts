@@ -61,7 +61,7 @@ export const onTheFaceOfIt: ChapterForensics = {
       year: "2023-24",
       type: "Short",
       marks: 2,
-      aiExplanation: "The 2-mark justification identifies 'Societal Isolation' and 'Empathetic Connection'. Point I (Damaging Effects) earns the first mark by showing how prejudice forensicly affects both Derry and society. Point II (Surface vs. Soul) earns the second mark by explaining how Lamb uses empathy to look past the physical scar 'on the face of it', justifying the mark for 'challenging assumptions'."
+      aiExplanation: "Most appropriate answer: Empathy is crucial for overcoming prejudice because it allows individuals to look past surface-level scars and challenge initial assumptions to recognize a common human soul. Forensic Justification: The 2-mark justification identifies 'Societal Isolation' and 'Empathetic Connection'. Point I marks how prejudice affects Derry and society. Point II explains how Lamb uses empathy to look past the physical scar."
     },
     {
       question: "How does Susan Hill subtly portray a blend of pessimism and optimism in ‘On the Face of It’?",
@@ -74,7 +74,7 @@ export const onTheFaceOfIt: ChapterForensics = {
       year: "2024-25",
       type: "Short",
       marks: 2,
-      aiExplanation: "The 2-mark reward is based on the 'Resilience Legacy'. Point I (Pessimism) earns the first mark for identifying Derry's self-hatred and Lamb's tragic end. Point II (Optimism) earns the second mark by explaining how Lamb's worldview forensicly transforms Derry, justifying the mark for 'transformation through positive mentorship'."
+      aiExplanation: "Most appropriate answer: Susan Hill portrays pessimism through Derry's alienation and Mr. Lamb's death, while optimism shines through Lamb’s resilient worldview and its transformative impact on Derry. Forensic Justification: The 2-mark reward is based on the 'Resilience Legacy'. Point I (Pessimism) marks Derry's self-hatred and Lamb's end. Point II (Optimism) explains how Lamb's worldview transforms Derry."
     },
     {
       question: 'What is the "Face" of it that Mr. Lamb talks about?',
@@ -87,7 +87,7 @@ export const onTheFaceOfIt: ChapterForensics = {
       year: '2024-25 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "This 2-mark justification identifies 'Deceptive Appearances'. Point I (Superficiality) earns the first mark for identifying the external deformities (burn/tin leg). Point II (Common Humanity) earns the second mark by explaining how underneath the 'face' of it, both are complex souls, justifying the mark for 'Rejection of physical labels'."
+      aiExplanation: "Most appropriate answer: The 'face' of it refers to the superficiality of physical appearance, which Mr. Lamb challenges by emphasizing inner identity and soul over labels like 'ugly' or 'lame'. Forensic Justification: This 2-mark justification identifies 'Deceptive Appearances'. Point I (Superficiality) marks the external deformities. Point II (Common Humanity) explains how both are complex souls underneath."
     },
     {
       question: 'Why does Derry keep coming back to Mr. Lamb?',
@@ -100,7 +100,7 @@ export const onTheFaceOfIt: ChapterForensics = {
       year: '2025-26 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "The 2-mark justification focuses on 'Equal Treatment'. Point I (Absence of Pity) earns the first mark for identifying Derry's hunger for genuine connection. Point II (Empowering Dialogue) earns the second mark by explaining how Lamb creates a forensicly 'safe' space without fear or horror, justifying the mark for 'Positive Reinforcement'."
+      aiExplanation: "Most appropriate answer: Derry returns because Mr. Lamb treats him as a person rather than a monster, offering acceptance and empowering conversation without the pity or fear Derry expects. Forensic Justification: The 2-mark justification focuses on 'Equal Treatment'. Point I (Absence of Pity) marks Derry's hunger for connection. Point II (Empowering Dialogue) explains how Lamb creates a 'safe' space."
     },
     {
       question: "Read the given extract and answer the questions:\n\nDerry: What they think.\nMr Lamb: What do they think, then?\nDerry: You think.... ‘Here’s a boy.’ You look at me...and then you see my face and you think. ‘That’s bad. That’s a terrible thing. That’s the ugliest thing I ever saw.’ You think, ‘Poor boy.’ But I’m not. Not poor. Underneath, you are afraid. Anybody would be. I am. When I look in the mirror, and see it, I’m afraid of me.\nMr Lamb: No, Not the whole of you. Not of you.\nDerry: Yes!\n[Pause]\n\nI. What does Mr. Lamb mean when he says, “No. Not the whole of you. Not of you”?\nII. What might Derry be thinking during the pause after he insists, “Yes!”?\nChoose the most appropriate option:\nA. \"Why doesn’t he understand me?\"\nB. \"He’s pretending to care like everyone else.\"\nC. \"Maybe he really sees more than just my face.\"\nD. \"I should leave. He doesn’t get it.\"\nIII. Fill in the blank with a suitable word:\nMr. Lamb’s response suggests that he sees Derry’s face as only one ______ of who he is.\nIV. What does this exchange reveal about the emotional distance Derry feels and Mr. Lamb’s attempt to bridge it?",
@@ -114,7 +114,7 @@ export const onTheFaceOfIt: ChapterForensics = {
       year: "2025-26",
       type: "RTC",
       marks: 4,
-      aiExplanation: "This 4-part RTC justification explains the 'Identity Shift'. Marks are awarded for identifying: 1) The 'Wholeness' (appearance is not identity), 2) The 'Perspective Shift' (pause), 3) The 'Aspect' (seeing the person within), and 4) The 'Bridging Distance' (empathy). This confirms that Lamb's sincerity forensicly disrupts Derry's self-hatred."
+      aiExplanation: "Most appropriate answer: Mr. Lamb insists that Derry's face is only one aspect of who he is and not his entire identity, effectively bridging the emotional distance through genuine empathy. Forensic Justification: This 4-part RTC justification explains 'Identity Shift'. Marks are for: 1) 'Wholeness' (appearance is not identity), 2) 'Perspective Shift' (pause), 3) 'Aspect' (person within), and 4) 'Bridging Distance'."
     },
     {
       question: "What does Derry’s remark, “Think, you might have been blinded, or born deaf, or have to live in a wheelchair...,” reveal about his perspective on how people console others?",
@@ -127,7 +127,7 @@ export const onTheFaceOfIt: ChapterForensics = {
       year: "2025-26",
       type: "Short",
       marks: 2,
-      aiExplanation: "The 2-mark reward is justified by the 'Individual Pain' vs. 'General Pity'. Point I (Frustration with Comparison) earns the first mark for identifying the invalidation of Derry's struggle. Point II (Rejection of Pity) earns the second mark by explaining how 'it could be worse' forensicly dismisses his specific agony, justifying the mark for 'Desire for understanding'."
+      aiExplanation: "Most appropriate answer: Derry resents comparisons to other struggles (like blindness) because such generalizations invalidate his personal pain and reflect a shallow form of consolation. Forensic Justification: The 2-mark reward is justified by 'Individual Pain' vs. 'General Pity'. Point I marks the frustration with comparison. Point II explains how 'it could be worse' dismisses his specific agony."
     }
   ],
   distinctions: [

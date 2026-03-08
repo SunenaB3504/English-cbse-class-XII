@@ -63,7 +63,7 @@ export const theLastLesson: ChapterForensics = {
       year: "2023-24",
       type: "RTC",
       marks: 1,
-      aiExplanation: "The 1-mark award is based on a direct inference from the text. Franz's internal thought—'I had counted on the commotion to get to my desk without being seen'—is forensic evidence of a repeated behavior. This specific strategy to avoid scolding by masking his arrival with classroom 'din' (the 'commotion') proves that being late was a familiar habit, not an isolated incident."
+      aiExplanation: "Most appropriate answer: Franz's statement that he 'counted on the commotion to get to my desk without being seen' implies a previously developed strategy to avoid punishment. Forensic Justification: The 1-mark award is based on this direct inference. Franz relies on the usual classroom 'din' (the 'commotion') to mask his arrival, which proves that being late was a familiar habit rather than an isolated incident."
     },
     {
       question: "What a thunderclap these words were to me! Oh, the wretches; that was what they had put up at the town-hall! My last French lesson! Why, I hardly knew how to write! I should never learn anymore! I must stop there, then! Oh, how sorry I was for not learning my lessons, for seeking birds’ eggs, or going sliding on the Saar! My books, that had seemed such a nuisance a while ago, so heavy to carry, my grammar, and my history of the saints, were old friends now that I couldn’t give up. And M. Hamel, too; the idea that he was going away, that I should never see him again, made me forget all about his ruler and how cranky he was.\n\nWhat was the writer’s purpose in using the metaphor of a ‘thunderclap’?",
@@ -77,7 +77,7 @@ export const theLastLesson: ChapterForensics = {
       year: "2024-25",
       type: "RTC",
       marks: 1,
-      aiExplanation: "This 1-mark explanation focuses on the author's choice of 'thunderclap' as a powerful auditory metaphor. Like an actual thunderclap, M. Hamel's announcement is presented as sudden, jarring, and completely unexpected. It earns the mark by highlighting how the news shatters Franz's carefree existence, instantly pulling him from his 'procrastination' into a state of shocked awareness and deep industrial-scale regret."
+      aiExplanation: "Most appropriate answer: The metaphor of a 'thunderclap' emphasizes the suddenness, shock, and deep impact of the realization that this is the last French lesson. Forensic Justification: This 1-mark explanation focuses on the sensory power of the metaphor. Like an actual thunderclap, the news is jarring and unexpected, instantly shattering Franz's carefree existence and pulling him into a state of intense regret."
     },
     {
       question: "Read the extract and answer the question:\n\nWhat a thunderclap these words were to me! Oh, the wretches; that was what they had put up at the town-hall! My last French lesson! ... My books, that had seemed such a nuisance a while ago ... were old friends now that I couldn’t give up. And M. Hamel, too; the idea that he was going away, that I should never see him again, made me forget all about his ruler and how cranky he was.\n\nSelect the correct option from those given in brackets to fill in the blank.\nThe use of exclamatory marks in the first five sentences of the extract serves to express the speaker’s _______ (hidden/ intense) emotions.",
@@ -88,7 +88,7 @@ export const theLastLesson: ChapterForensics = {
       year: "2024-25",
       type: "RTC",
       marks: 1,
-      aiExplanation: "For this 1-mark question, the punctuation serves as a 'forensic' indicator. Exclamatory marks (!) are used grammatically to denote intense, high-energy emotions. In the context of M. Hamel's decree, they represent the peak of Franz's psychological distress and disbelief over 'linguistic chauvinism', justifying the choice of 'intense' over 'hidden'."
+      aiExplanation: "Most appropriate answer: intense. Forensic Justification: For this 1-mark question, the exclamation marks (!) serve as a forensic indicator of high-energy, overwhelming emotion. In the context of M. Hamel's decree, they represent the peak of Franz's psychological distress and disbelief, justifying the choice of 'intense' over 'hidden'."
     },
     {
       question: "Read the extract and answer the question:\n\nWhat a thunderclap these words were to me! Oh, the wretches; that was what they had put up at the town-hall! My last French lesson! ... My books, that had seemed such a nuisance a while ago ... were old friends now that I couldn’t give up. And M. Hamel, too; the idea that he was going away, that I should never see him again, made me forget all about his ruler and how cranky he was.\n\nComplete the following suitably.\nThe activities of seeking birds' eggs and sliding on the Saar reveal two things about Franz's character before his change in perspective. First, his youthful carefree nature and second, his preference for _________________.",
@@ -101,7 +101,7 @@ export const theLastLesson: ChapterForensics = {
       year: "2024-25",
       type: "RTC",
       marks: 1,
-      aiExplanation: "This identifies the 'carefree nature' of childhood before the 'last chance' syndrome sets in. Seeking birds' eggs and sliding on the Saar are symbols of procrastination ('putting off learning till tomorrow'). The 1-mark answer accurately contrasts these outdoor recreational activities against the formal discipline of the classroom, proving a clear hierarchy of preference for play over academic responsibility."
+      aiExplanation: "Most appropriate answer: …preference for play over study. Forensic Justification: This identifies the 'carefree nature' of childhood before the 'last chance' syndrome sets in. Seeking birds' eggs and sliding on the Saar are symbols of procrastination. The 1-mark answer accurately contrasts these outdoor activities against classroom discipline, proving a clear preference for play over academic responsibility."
     },
     {
       question: "Read the extract and answer the question:\nWhat a thunderclap these words were to me! Oh, the wretches; that was what they had put up at the town-hall! My last French lesson! ... My books, that had seemed such a nuisance a while ago ... were old friends now that I couldn’t give up. And M. Hamel, too; the idea that he was going away, that I should never see him again, made me forget all about his ruler and how cranky he was.\n\nWhat is reflected through the shift in the speaker’s perception of Mr. Hamel, conveyed through his readiness to forget the ruler?",
@@ -114,7 +114,7 @@ export const theLastLesson: ChapterForensics = {
       year: "2024-25",
       type: "RTC",
       marks: 1,
-      aiExplanation: "The 1-mark justification lies in the emotional shift from 'cranky' teacher to 'patriot'. By being ready to 'forget the ruler', Franz moves past his fear of M. Hamel's strict discipline. This reflects a deeper appreciation for the teacher's 40 years of service, transitioning Hamel from a person of authority to a shared symbol of national identity."
+      aiExplanation: "Most appropriate answer: It reflects a newfound respect and appreciation that overshadows past fears of discipline. Forensic Justification: The 1-mark justification lies in the emotional shift from 'cranky' teacher to 'patriot'. By forgetting the 'ruler', Franz moves past fear toward a deeper appreciation for Hamel's 40 years of service, viewing him as a symbol of national identity."
     },
     {
       question: "Read the extract and answer the question:\nWhat a thunderclap these words were to me! Oh, the wretches; that was what they had put up at the town-hall! My last French lesson! Why, I hardly knew how to write! I should never learn anymore! I must stop there, then! Oh, how sorry I was for not learning my lessons, for seeking birds’ eggs, or going sliding on the Saar! My books, that had seemed such a nuisance a while ago, so heavy to carry, my grammar, and my history of the saints, were old friends now that I couldn’t give up. And M. Hamel, too; the idea that he was going away, that I should never see him again, made me forget all about his ruler and how cranky he was.\n\nSelect the textual option that is closest to indicating a sense of panic.\nA. Oh, how sorry I was for not learning my lessons…\nB. Why, I hardly knew how to write!\nC. Oh, the wretches; that was what they had put up at the town-hall!\nD. And M. Hamel, too;",
@@ -125,7 +125,7 @@ export const theLastLesson: ChapterForensics = {
       year: "2024-25",
       type: "RTC",
       marks: 1,
-      aiExplanation: "The choice of 'panic' (1 mark) is justified by the sudden realization of 'lost time'. The exclamation 'Why, I hardly knew how to write!' captures the frantic desperation of a student who has suddenly discovered his own illiteracy at the exact moment his language is being banned. It represents the 'Last Lesson' syndrome: realizing the value of heritage only as it is being lost."
+      aiExplanation: "Most appropriate answer: B. Why, I hardly knew how to write!. Forensic Justification: The choice of 'panic' (1 mark) is justified by the sudden realization of 'lost time'. The exclamation captures the frantic desperation of a student discovering his own illiteracy at the exact moment his language is banned, representing the 'Last Lesson' syndrome of realizing value only upon loss."
     },
     {
       question: "Read the extract and answer the question:\nWhat a thunderclap these words were to me! Oh, the wretches; that was what they had put up at the town-hall! My last French lesson! ... My books, that had seemed such a nuisance a while ago, so heavy to carry, my grammar, and my history of the saints, were old friends now that I couldn’t give up.\n\nWhat does the following line from the extract, showcase?\nMy books, that had seemed such a nuisance a while ago, so heavy to carry, my grammar, and my history of the saints, were old friends now that I couldn’t give up.\nA. realization\nB. confusion\nC. expectation\nD. affirmation",
@@ -136,7 +136,7 @@ export const theLastLesson: ChapterForensics = {
       year: "2024-25",
       type: "RTC",
       marks: 1,
-      aiExplanation: "The term 'realization' earns the 1 mark by identifying the 'Paradigm Shift' in the narrative. Franz's former burdens (heavy grammar/history books) are now viewed as 'old friends'. This specific realization highlights the core theme: that cultural identity (language) is often taken for granted until threatened by external 'linguistic imperialism'."
+      aiExplanation: "Most appropriate answer: A. realization. Forensic Justification: The term 'realization' earns the 1 mark by identifying the 'Paradigm Shift' in the narrative. Franz's former burdens (heavy grammar/history books) are now viewed as 'old friends', highlighting the core theme that cultural identity (language) is often taken for granted until threatened."
     },
     {
       question: "What does the contrasting imagery of the church clock and the Prussian trumpets represent, in ‘The Last Lesson’?",
@@ -150,7 +150,7 @@ export const theLastLesson: ChapterForensics = {
       year: "2024-25",
       type: "Short",
       marks: 2,
-      aiExplanation: "This 2-mark explanation identifies two distinct symbolic layers. Point I (the church clock) represents the peaceful, 'French' continuity of local life. Point II (the Prussian trumpets) represents the jarring, external disruption of military occupation. The marks are awarded for identifying this specific 'acoustic' tension between tradition and conquest, illustrating the loss of cultural autonomy."
+      aiExplanation: "Most appropriate answer: The contrast represents the tension between local traditions (Church clock) and foreign occupation (Prussian trumpets). Forensic Justification: This 2-mark explanation identifies two symbolic layers. Point I (church clock) represents peaceful continuity, while Point II (trumpets) represents military disruption. Marks are awarded for identifying this 'acoustic' tension between tradition and conquest."
     },
     {
       question: "What role does the French language played in ‘The Last Lesson’, in the context of the narrator’s feelings towards it?",
@@ -163,7 +163,7 @@ export const theLastLesson: ChapterForensics = {
       year: "2025-26",
       type: "Short",
       marks: 2,
-      aiExplanation: "The 2-mark award is justified by exploring both the 'Internal' and 'External' value of language. Point I details the internal shift from indifference to 'deep appreciation'. Point II addresses the external symbolic value: language as the 'key to their prison'. Together, these points explain how linguistic identity becomes the central anchor in the face of political enslavement, earning full marks for thematic depth."
+      aiExplanation: "Most appropriate answer: The language role shifts from indifference to deep appreciation as it symbolizes a lost freedom. Forensic Justification: The 2-mark award is justified by exploring both internal and external values. Point I (internal shift to appreciation) and Point II (external symbolic value as 'key to their prison') together explain how linguistic identity becomes a central anchor against political enslavement."
     }
   ],
   distinctions: [
