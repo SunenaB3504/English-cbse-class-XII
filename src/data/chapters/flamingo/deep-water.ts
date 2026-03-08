@@ -55,7 +55,7 @@ export const deepWater: ChapterForensics = {
       year: "2023-24",
       type: "Short",
       marks: 2,
-      aiExplanation: "Sensory details—describing the physical feeling of suffocation, the sight of yellow water, the sheer terror in his chest—force the reader to vicariously experience Douglas's panic. If the account were purely informative (e.g., 'I sank for three minutes, inhaled water, and passed out'), it would read like a clinical police report. Informative writing conveys facts but lacks emotional resonance; sensory writing ensures the reader feels the primal terror of near-drowning, thereby making his eventual triumph over that fear much more impactful."
+      aiExplanation: "The 2-mark justification focuses on 'Emotional Resonance' and 'Visual Impact'. Sensory details (e.g., 'suffocation', 'yellow water') earn the first mark by forcing the reader to vicariously experience the 'stark terror' of drowning. The second mark is for identifying how informative narration would create 'detachment', whereas sensory writing makes the narrator's eventual triumph over phobia much more psychologically significant for the reader."
     },
     {
       question: "Explain the 'systematic' approach Douglas took to overcome his fear.",
@@ -68,7 +68,7 @@ export const deepWater: ChapterForensics = {
       year: "2024-25 | Short",
       type: "Short",
       marks: 2,
-      aiExplanation: "Douglas eradicated his phobia through methodical, sheer determination. First, he hired a professional instructor who 'built a swimmer piece by piece' using a belt and pulley system in the pool to ensure safety. Over months, he learned to coordinate his breathing and his limbs. This systematic unlearning of fear allowed his brain to logically internalize safety before he eventually tested himself in open water."
+      aiExplanation: "This 2-mark explanation identifies the 'Methodical Structure' of his recovery. Point I (the pulley/rope system) earns the first mark for identifying the safety mechanisms used. Point II (piece-by-piece integration) earns the second mark by showing how complex skills were deconstructed into manageable parts. Together, they explain the 'Systematic' nature of dismantling a psychological phobia."
     },
     {
       question: "Analyze Douglas's experience in the light of Roosevelt's quote on fear.",
@@ -81,7 +81,7 @@ export const deepWater: ChapterForensics = {
       year: "2025-26 | Long",
       type: "Long",
       marks: 5,
-      aiExplanation: "The near-drowning left Douglas with a profound philosophical realization: the physiological act of dying is peaceful (as he experienced when he finally blacked out in the pool), and the true agony lies solely in the *fear* of death. By surviving both the terror of drowning and the terror of anticipating it, he internalizes FDR's maxim that 'All we have to fear is fear itself,' emerging with an intensified, fierce desire to live."
+      aiExplanation: "The 5-mark justification reflects a 'Philosophical Synthesis'. Full marks are awarded for connecting three distinct layers: 1) The physiological realization (peace in death vs. terror in fear), 2) The literal application of Roosevelt's maxim to his own 'near-drowning' trauma, and 3) The resulting existential outcome (the intensified will to live). This comprehensive analysis shows how personal survival evolves into a universal lesson on resilience."
     },
     {
       question: "What lesson can individuals learn from Douglas’s experience in overcoming his fear of water?",
@@ -95,7 +95,7 @@ export const deepWater: ChapterForensics = {
       year: "2025-26",
       type: "Short",
       marks: 2,
-      aiExplanation: "Douglas's journey is a masterclass in systematic desensitization. Instead of relying on sheer willpower, he strategically deconstructs his terror. By hiring an instructor, using a safety belt/pulley, and practicing repeatedly over months, he proves that paralyzing psychological trauma can be dismantled 'piece by piece.' The ultimate lesson is that consistent, structured determination—coupled with confronting the fear head-on—results in profound personal liberation."
+      aiExplanation: "This 2-mark justification focuses on 'Transferrable Resilience'. Point I earn the mark for identifying 'Systematic Desensitization'—deconstructing a phobia into parts. Point II earns the second mark by explaining how this lead to 'Personal Growth' and freedom. The explanation proves that confronting terror head-on with a structured plan is more effective than sheer willpower alone."
     }
   ],
   distinctions: [

@@ -62,7 +62,7 @@ export const indigo: ChapterForensics = {
       year: "2023-24",
       type: "Short",
       marks: 2,
-      aiExplanation: "Rajendra Prasad's record is pivotal because it captures the moment the Indian lawyers experienced a profound moral awakening. Initially, they viewed the situation purely from a professional standpoint. However, upon witnessing Gandhi—a prominent stranger—willing to go to prison for the sharecroppers, they recognized the utter cowardice and shame in their own planned retreat. Gandhi's selfless courage effectively shamed them into a unified political and moral alliance, leading them to declare they would follow him to jail."
+      aiExplanation: "This 2-mark justification identifies the 'Internal' and 'External' effects of Gandhi's presence. Point I (moral awakening) earns the first mark by showing how Gandhi's commitment as a 'stranger' shamed the local lawyers into action. Point II (collective responsibility) earns the second mark by explaining how this shifted their purpose from a professional consultation to a unified fight for justice."
     },
     {
       question: "How did the peasants of Champaran react to Gandhi’s presence and why?",
@@ -76,7 +76,7 @@ export const indigo: ChapterForensics = {
       year: "2024-25",
       type: "Short",
       marks: 2,
-      aiExplanation: "Gandhi's arrival fundamentally shifted the psychology of the Champaran peasants. Previously paralyzed by a fear of British authority and the convoluted legal system, his presence and strategic leadership acted as a catalyst. Seeing a champion willing to go to jail for them, the peasants spontaneously gathered in the thousands, realizing for the first time that they had both rights and the collective power to demand them. This mobilization was the beginning of their liberation from fear."
+      aiExplanation: "The 2-mark award is based on 'Psychological Liberation'. Point I earns a mark for identifying the 'Catalyst'—Gandhi's willingness to sacrifice his freedom. Point II earns the second mark by explaining the 'Result'—the spontaneous mobilization of thousands at Motihari, which marks the forensic shift from 'paralyzing fear' to collective 'empowerment'."
     },
     {
       question: "Why did Gandhi agree to a settlement of 25% refund instead of 50%?",
@@ -89,7 +89,7 @@ export const indigo: ChapterForensics = {
       year: "2024-25 | 5 Marks",
       type: "Long",
       marks: 5,
-      aiExplanation: "The refund was not just a financial transaction; it was a psychological victory. By forcing the landlords to surrender a portion of the money, Gandhi forced them to surrender a portion of their assumed prestige. It shattered the illusion that the British planters were above the law, which was a critical first step towards the peasants' true independence."
+      aiExplanation: "This 5-mark justification reflects Gandhi's 'Strategic Acumen'. Full marks are awarded for identifying that the 'Prestige' of the landlords was more valuable than the gold. The explanation connects three layers: 1) The financial compromise (25%), 2) The psychological breakthrough (breaking the 'lords above the law' myth), and 3) The long-term impact on 'Swaraj' (self-reliance)."
     },
     {
       question: "How did the Champaran episode change the psychology of the Indian peasant?",
@@ -102,7 +102,7 @@ export const indigo: ChapterForensics = {
       year: "2025-26 | SQP",
       type: "Short",
       marks: 2,
-      aiExplanation: "The Champaran episode proved to the peasants that they were not alone. The fact that a leader like Gandhi was willing to go to jail for their cause made them realize they had rights and defenders. This collective realization dispelled their deep-rooted fear of the British authority."
+      aiExplanation: "The 2-mark justification focuses on the 'End of Subservience'. Point I identifies the 'Discovery of Rights' (knowing they had defenders). Point II marks the 'Initiation into Courage' (the Motihari demonstration). Together, these justify the mark by explaining the profound shift in peasant psychology from fear-driven apathy to self-reliant activism."
     }
   ],
   distinctions: [

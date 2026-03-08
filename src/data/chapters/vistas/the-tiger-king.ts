@@ -62,7 +62,7 @@ export const theTigerKing: ChapterForensics = {
       year: "2023-24",
       type: "RTC",
       marks: 2,
-      aiExplanation: "The astrologers are terrified ('bit their lips') because delivering a prophecy of death to a powerful royal family could literally cost them their heads; their unease highlights the danger of speaking truth to absolute power. The author then employs a brilliant linguistic contrast (or oxymoron) by pairing 'fantastic' with 'demise'. He sarcastically frames the King's death as a spectacular, unbelievable joke rather than a solemn tragedy, mocking the King's lifelong royal vanity."
+      aiExplanation: "The 2-mark justification identifies 'Political Danger' and 'Linguistic Irony'. Point I (astrologers' fear) earns the first mark by showing the forensic risk of delivering bad news to an absolute ruler. Point II (fantastic demise) earns the second mark by explaining the author's use of contrast to mock the King's royal vanity, justifying the mark for identifying 'satirical contrast'."
     },
     {
       question: "Discuss the significance of the toy tiger in the climax of ‘The Tiger King.’",
@@ -75,7 +75,7 @@ export const theTigerKing: ChapterForensics = {
       year: "2024-25",
       type: "Short",
       marks: 2,
-      aiExplanation: "The toy tiger represents the ultimate tragic irony of the story. The King spent his entire life hunting down a hundred living, breathing tigers to defy a prophecy, only to be killed by a cheap, inanimate wooden toy. It symbolizes that no matter how much power or wealth an aloof ruler possesses, they cannot manipulate or escape their predestined fate."
+      aiExplanation: "The 2-mark reward is based on 'Instrumental Irony'. Point I (Toy fulfills prophecy) earns the first mark for the plot resolution. Point II (Inescapability of Fate) earns the second mark by explaining how a cheap wooden object mocks the King's lifelong hunt of the 'real' tigers, justifying the mark for 'futility of manipulating destiny'."
     },
     {
       question: 'What is the irony in the Tiger King’s death?',
@@ -88,7 +88,7 @@ export const theTigerKing: ChapterForensics = {
       year: '2024-25 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "The irony lies in the stark contrast between the King's massive preparations and the tiny reality of his demise. He spent years mastering high-tech hunting, massacring 99 powerful, living tigers with modern rifles, believing he had conquered nature and fate. Yet, his death was caused by a crude, poorly-carved slice of wood from a 'fake' tiger, proving that destiny always has the final, mocking laugh."
+      aiExplanation: "This 2-mark justification focus on 'Fatalistic Mockery'. Point I (Victory of destiny) earns the first mark for identifying the fulfillment of the prophecy. Point II (Trivial cause) earns the second mark by contrasting the King's rifles and 99 kills with a crude sliver of wood, proving that destiny has the final 'laugh' over absolute human power."
     },
     {
       question: 'How did the Dewan manage the 100th tiger?',
@@ -101,7 +101,7 @@ export const theTigerKing: ChapterForensics = {
       year: '2025-26 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "The Dewan's action reveals the sheer sycophancy and fear that paralyzes the King's court. Terrified of the King's wrath if the 100th tiger wasn't found, the Dewan resorts to a ridiculous farce: hauling an old, decrepit tiger from a zoo (People's Park in Madras) and releasing it into the wild. It underscores how absolute power forces subordinates into absurd, desperate lies just to survive."
+      aiExplanation: "The 2-mark justification identifies 'Sycophancy-driven Farce'. Point I (Fear of wrath) earns the first mark for identifying the Dewan's motivation. Point II (Manipulation of hunt) earns the second mark by explaining how absolute power forces subordinates into absurd, desperate lies (importing an old tiger) just to survive, justifying the mark for 'Dewan's role in the farce'."
     }
   ],
   distinctions: [

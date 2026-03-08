@@ -61,7 +61,7 @@ export const theInterview: ChapterForensics = {
       year: "2023-24",
       type: "Short",
       marks: 2,
-      aiExplanation: "Eco is acknowledging that a masterpiece doesn't exist in a vacuum; its public reception depends heavily on the zeitgeist of the era. 'The Name of the Rose' struck a chord precisely because the societal and intellectual mood of that specific time period was primed for a deep dive into metaphysics and medieval theology. Shifting the release by a decade might have resulted in the book falling flat because the audience's collective mindset would have been different."
+      aiExplanation: "The 2-mark justification identifies the 'Temporal' and 'Cultural' resonance of the book. Point I (Zeitgeist) earns the first mark by explaining how success depends on the luck of 'timing'. Point II (Meta-themes) earns the second mark by showing how difficult subjects like metaphysics resonated with the specific intellectual mood of that decade, which Eco himself cannot fully replicate or explain."
     },
     {
       question: "What is Umberto Eco's theory of 'interstices'?",
@@ -74,7 +74,7 @@ export const theInterview: ChapterForensics = {
       year: "2024-25 | Short",
       type: "Short",
       marks: 2,
-      aiExplanation: "Eco’s theory of 'interstices' challenges the notion that rest periods must be unproductive. By comparing the physical universe's empty spaces to the micro-intervals in our daily routines—like waiting for an elevator—he explains how capturing and working during these tiny pockets of time adds up to massive intellectual productivity over a lifetime."
+      aiExplanation: "This 2-mark explanation captures the 'Cosmological Metaphor' for productivity. Point I (Universe gaps) earns the first mark for identifying the literal comparison between physical space and time. Point II (Micro-intervals) earns the second mark by explaining how using transitional moments (like the elevator) results in massive intellectual output, justifying the mark for 'Prolificacy'."
     },
     {
       question: "Why do some celebrities despise being interviewed?",
@@ -87,7 +87,7 @@ export const theInterview: ChapterForensics = {
       year: "2025-26 | SQP",
       type: "Long",
       marks: 5,
-      aiExplanation: "For many celebrities, an interview is an invasive assault on their personal identity. V.S. Naipaul argues that it 'wounds' people by stripping away a piece of their privacy. Historical literary figures were even harsher: Lewis Carroll actively feared them, and Rudyard Kipling considered the act so degrading that he labeled it 'immoral' and a 'crime.' These visceral reactions highlight the inherent tension between public curiosity and private dignity."
+      aiExplanation: "The 5-mark justification reflects a 'Violation of Identity' analysis. Full marks are awarded for detailing three levels of despise: 1) The 'Wounding' effect (Naipaul), 2) The 'Unwarranted Intrusion' (Carroll), and 3) The 'Criminal' association (Kipling). This shows how celebrities view the interview as an assault on their private dignity and 'sacred' personal space."
     },
     {
       question: "How does the reference to 'interstices' enhance our understanding of Umberto Eco's perspective on writing and creativity?",
@@ -101,7 +101,7 @@ export const theInterview: ChapterForensics = {
       year: "2025-26",
       type: "Short",
       marks: 2,
-      aiExplanation: "Eco's concept of 'interstices' fundamentally redefines exactly how intellectual work gets done. Instead of viewing writing as something that requires massive, dedicated blocks of undisturbed time, he views it as agile and opportunistic. By using a cosmological metaphor (empty spaces in the universe) to explain waiting for an elevator, Eco demonstrates that true creativity thrives by maximizing the micro-intervals that others waste, demonstrating immense mental discipline."
+      aiExplanation: "This 2-mark justification focuses on 'Resourceful Thinking'. Point I earn the mark for identifying the 'Transitional Moments' used for creativity. Point II earns the second mark by explaining how Eco's discipline turns 'mundane interruptions' into literary opportunities. This proves he is a 'Universal Scholar' who optimizes every 'empty space' in existence."
     }
   ],
   distinctions: [

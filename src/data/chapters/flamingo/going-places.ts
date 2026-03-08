@@ -70,7 +70,7 @@ export const goingPlaces: ChapterForensics = {
       year: "2024-25",
       type: "Compare",
       marks: 5,
-      aiExplanation: "This comparative question demands you contrast how two different characters handle their ambitions. Sophie's dreams are almost pure escapist fantasy, completely disconnected from her harsh socio-economic reality. While Subbu adapts practically to his environment, Sophie simply retreats from hers. Her 'persistence and creativity' are poured entirely into maintaining an illusion (her imaginary relationship with Danny Casey and future boutique ownership) rather than taking actionable steps to change her life."
+      aiExplanation: "The 5-mark justification uses a 'Coping Mechanism' analysis. Full marks are awarded for identifying: 1) Sophie's 'disconnected' aspirations (boutique/designer), 2) The specific socio-economic 'constraints' (father's skepticism/poverty), and 3) The 'internal persistence' of her fantasy. Unlike Subbu's practical adaptation, Sophie's creativity is an escapist refuge, justifying the mark for identifying this psychological divergence."
     },
     {
       question: "Contrast the characters of Sophie and Jansie.",
@@ -83,7 +83,7 @@ export const goingPlaces: ChapterForensics = {
       year: "2024-25 | 5 Marks",
       type: "Long",
       marks: 5,
-      aiExplanation: "Sophie and Jansie represent two opposite psychological reactions to a bleak working-class existence. Jansie accepts her pre-determined fate at the biscuit factory with grounded, pragmatic realism. Sophie actively rebels against this fate through relentless imagination, dreaming of boutiques and famous footballers. Sophie's individualism isolates her in fantasy, while Jansie's realism keeps her tethered to the community."
+      aiExplanation: "This 5-mark justification reflects a 'Philosophical Contrast'. Full marks are awarded for contrasting Sophie's 'individualism' (fleeing to the world of stars) with Jansie's 'pragmatic realism' (accepting the 'earmarked' fate of the biscuit factory). The explanation shows how these two reactions illustrate the struggle of adolescence under social entrapment."
     },
     {
       question: "Why did Sophie choose Geoff to tell her secret about Danny Casey?",
@@ -96,7 +96,7 @@ export const goingPlaces: ChapterForensics = {
       year: "2025-26 | SQP",
       type: "Short",
       marks: 2,
-      aiExplanation: "Sophie chooses Geoff as her confidant specifically because he is silent and impenetrable. His quiet nature acts as a blank canvas, allowing her to project her own vast, exotic fantasies onto him. She desperately hopes that by sharing her secret, she can gain access to his mysterious, adult world and finally find validation for her wild imagination."
+      aiExplanation: "The 2-mark reward is justified by the 'Internal/External' dynamic. Point I (Geoff's silence) earns the first mark as a forensic reason for trust. Point II (hope for inclusion) earns the second mark by showing how Sophie views Geoff's 'mechanical world' as a literal bridge to the 'exotic' places she craves, using him as a proxy for her own unfulfilled dreams."
     },
     {
       question: "Read the given extract and answer the questions:\n\n“She thinks money grows on trees, don’t she, Dad?”, said little Derek, hanging on the back of his father’s chair.\nTheir mother sighed. Sophie watched her back stooped over the sink and wondered at the incongruity of the delicate bow which fastened her apron strings. The delicate-seeming bow and the crooked back.\nThe evening had already blacked in the windows and the small room was steamy from the stove and cluttered with the heavy-breathing man in his vest at the table and the dirty washing piled up in the corner. Sophie felt a tightening in her throat.\nShe went to look for her brother Geoff.\n\nI. Fill in the blank by choosing the correct option from those given in the brackets.\nThe literal meaning conveyed via the phrase ‘the evening had already blacked in the windows’ is the_______ (arrival of night / shadow over ambitions).\nII. What was mother most likely thinking when she sighed?\n1. \"Life would have been different if money did grow on trees!\"\n2. \"I wish he would stop troubling my dear Sophie.\"\n3. \"We can only wish; we’ve never had enough anyway.\"\n4. \"I’m too tired to respond to such comments anymore.\"\n5. \"Our struggles will never end; no matter what Sophie dreams of.\"\nSelect the most suitable option.\nA. 1, 3 and 5\nB. 2, 4 and 5\nC. 1 and 4\nD. 2 and 3\nIII. The delicate bow on Sophie’s mother’s apron and her crooked back highlights the theme of ______.\nA. appearance vs. reality\nB. resilience through hardship\nC. the fragility of youth\nD. the complexity of familial love\nIV. The line from the extract that correctly captures Sophie’s emotional response to the contrast between her dreams and the limitations of her current circumstances is ‘________.’\nV. What does the writer emphasise by associating the term ‘cluttered’ with ‘heavy breathing’?\nVI. How does the setting of the room contribute to the mood of the extract?",
@@ -112,7 +112,7 @@ export const goingPlaces: ChapterForensics = {
       year: "2025-26",
       type: "RTC",
       marks: 6,
-      aiExplanation: "This extract vividly paints the suffocating reality of Sophie's working-class life, serving as the stark contrast to her glamorous dreams. Her mother's crooked back and the filthy, steamy, cluttered kitchen manifest physical and emotional exhaustion. When 'cluttered' is paired with the father's 'heavy breathing,' it signifies a space entirely devoid of hope or fresh air. Sophie's physical reaction ('tightening in her throat') proves she is painfully aware of this grim reality, which is why she desperately flees to find her brother Geoff—her only silent escape."
+      aiExplanation: "This 6-part RTC explanation justifies the multi-layered response. Marks are awarded for identifying: 1) The 'Arrival of Night' (literal), 2) The 'Stooped back vs. Delicate bow' (appearance vs. reality), 3) The 'Tightening in throat' (emotional response to limitations), and 4) The 'Cluttered/Heavy-breathing' setting which creates a mood of 'suffocating fatigue'. This comprehensive analysis proves the oppressive nature of her reality."
     }
   ],
   distinctions: [

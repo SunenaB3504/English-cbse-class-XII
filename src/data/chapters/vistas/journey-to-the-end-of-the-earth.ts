@@ -61,7 +61,7 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
       year: "2023-24",
       type: "RTC",
       marks: 2,
-      aiExplanation: "Antarctica is described as 'pristine' precisely because no massive human civilization has been there to pollute it, making it the perfect 'control group' to measure global environmental changes against. Furthermore, the half-million-year-old carbon records in its ice act as a literal time machine—scientists can extract these ice cores and perfectly analyze the exact atmospheric conditions from hundreds of thousands of years ago, giving crucial context to predict future global warming."
+      aiExplanation: "The 2-mark justification identifies 'Scientific Controls' and 'Temporal Analysis'. Point I (Pristine environment) earns the first mark by showing how the absence of humans provides a forensic baseline for measuring impact. Point II (Time Machine analogy) earns the second mark by explaining how ice-cores preserve 'half-million-year-old carbon records', justifying the mark for identifying its role as a window into the past."
     },
     {
       question: "To visit Antarctica now is to be a part of that history... When you think about all that can happen in a million years, it can get pretty mind-boggling. How does the author imply the role of geological knowledge in understanding the Earth's past and potential future changes?",
@@ -74,7 +74,7 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
       year: "2024-25",
       type: "RTC",
       marks: 1,
-      aiExplanation: "The author stresses that the massive, slow collisions of tectonic plates over millions of years (like India jamming into Asia) drastically altered the global climate. By studying these monumental past shifts recorded in Antarctica's geology, scientists can better predict how current climate changes might similarly reshape the Earth's future."
+      aiExplanation: "The 1-mark award is justified by 'Temporal Connectivity'. It earns the mark by explaining how studying past tectonic shifts (Gondwana/Himalayas) is a forensic tool for predicting the Earth's 'potential future changes'. This proves that geological knowledge is the only bridge between millions of years of history and upcoming climate shifts."
     },
     {
       question: 'Why is Antarctica the place to go to understand the Earth’s past?',
@@ -87,7 +87,7 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
       year: '2024-25 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "Antarctica is described as a 'geological time capsule.' Because it has never sustained a human population, it remains pristine and largely unaltered by industrial civilization. More importantly, its deep ice cores trap ancient carbon records from half a million years ago, allowing scientists to literally study the atmosphere of the past to predict the climate of the future."
+      aiExplanation: "This 2-mark justification identifies Antarctica as a 'Geological Archive'. Point I (Time Capsule) earns the first mark for identifying the preservation of carbon records. Point II (industrial impact measurement) earns the second mark by explaining how its 'pristine' state provides a clear contrast to human-altered regions, justifying the mark for evidence of Earth's past."
     },
     {
       question: 'What is the significance of "Students on Ice"?',
@@ -100,7 +100,7 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
       year: '2025-26 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "The 'Students on Ice' program shifts the focus of Antarctic expeditions from wealthy, thrill-seeking tourists to impressionable high school students. Geoff Green believes that by exposing teenagers directly to collapsing ice shelves and melting glaciers, they will experience a profound, life-altering epiphany. These students, as the 'future policy makers' of the world, are the ones who actually need to understand the urgency of the climate crisis in order to save the planet."
+      aiExplanation: "The 2-mark reward is based on 'Educational Epiphany'. Point I (Future Policymakers) earns the first mark for targeting the most malleable generation. Point II (First-hand witness) earns the second mark by explaining how direct exposure to melting glaciers creates an emotional impact that textbooks cannot replicate, justifying the mark for 'Epiphany at a young age'."
     },
     {
       question: "Imagine you are Tishani Doshi, the narrator of ‘Journey to the End of the Earth.’ Write a blog post about your experience in Antarctica, focusing on the profound impact of the environment on your understanding of the Earth’s past and future.\nYou may begin like this:\nStanding on the icy expanse of Antarctica, I was struck by...",
@@ -114,7 +114,7 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
       year: "2025-26",
       type: "Long",
       marks: 5,
-      aiExplanation: "In a blog post format, the author must blend immediate sensory shock with deep geological reflection. Tishani Doshi describes Antarctica not merely as a cold destination, but as a living time machine holding the carbon records of half a million years. The physical reality of witnessing collapsing ice shelves forcefully transforms intellectual knowledge of global warming into a terrifying, urgent emotional reality, highlighting humanity's devastating impact on the planet's future."
+      aiExplanation: "This 5-mark blog post justification reflects an 'Environmental Awakening'. Marks are awarded for identifying: 1) The 'Sensory Shock' of the landscape, 2) The 'Educational Insight' (Gondwana vs. Textbooks), 3) The 'First-hand awareness' of climate change, and 4) The 'Moral Responsibility' of humanity. This proves how physical reality transforms intellectual theory into urgent action."
     }
   ],
   distinctions: [

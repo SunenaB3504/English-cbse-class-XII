@@ -73,7 +73,7 @@ export const aRoadsideStand: PoetryForensics = {
       year: "2024-25",
       type: "RTC",
       marks: 1,
-      aiExplanation: "The phrase 'enforcing benefits' is a powerful oxymoron constructed by Frost. A 'benefit' is supposedly helpful, but 'enforcing' it strips the rural poor of their agency and consent. It highlights how urban politicians impose 'solutions' that serve their own agendas rather than actually addressing the farmers' true needs."
+      aiExplanation: "The 1-mark award is justified by the 'Oxymoronic Control'. The phrase 'enforcing benefits' earns the mark by identifying the forensic mismatch between a 'benefit' (help) and 'enforcing' (coercion). This highlights how the rural poor are stripped of their agency by urban politicians who impose solutions without consent."
     },
     {
       question: "Analyse the poems, A Roadside Stand and Aunt Jennifer's Tigers for the theme of inequality and its impact on the bearers.",
@@ -86,7 +86,7 @@ export const aRoadsideStand: PoetryForensics = {
       year: "2024-25",
       type: "Compare",
       marks: 5,
-      aiExplanation: "This comparative question contrasts two distinct forms of inequality. In 'A Roadside Stand', the inequality is socio-economic: the rural poor are economically paralyzed while the urban rich speed by in 'polished traffic.' In 'Aunt Jennifer's Tigers', the inequality is gender-based: Aunt Jennifer's entire identity and physical vitality are crushed under the 'massive weight' of patriarchal possession. However, both sets of 'bearers' experience a profound loss of agency and resort to silent, desperate longing."
+      aiExplanation: "This 5-mark justification reflects a 'Socio-Political Comparison'. Full marks are awarded for identifying: 1) The 'Economic' disparity in Roadside Stand (Rural vs. Urban), 2) The 'Gender' disparity in Aunt Jennifer (Marriage/Patriarchy), and 3) The 'Common Impact' of marginalization and loss of agency. Both poems show how bearers are crushed by external 'weights'—whether of city money or a wedding band."
     },
     {
       question: 'What is the "childish longing in vain" that the poet refers to?',
@@ -99,7 +99,7 @@ export const aRoadsideStand: PoetryForensics = {
       year: '2024-25 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "The 'childish longing' is the farmers' naive hope that out of the thousands of speeding cars, just one will stop to genuinely support their business. Frost calls it 'in vain' because the city folk are too deeply immersed in their own fast-paced lives and consumerist aesthetics to ever notice the profound economic desperation of the rural stand."
+      aiExplanation: "The 2-mark justification identifies the 'Naive Aspiration'. Point I (hopeless waiting) earns the first mark for identifying the forensic futility of the farmers' hope. Point II (economic neglect) earns the second mark by explaining how this 'childish' need for city recognition is systematically ignored by the 'polished' urban elite, justifying the mark for 'Vain Aspiration'."
     },
     {
       question: 'Why are the politicians called "greedy good-doers"?',
@@ -112,7 +112,7 @@ export const aRoadsideStand: PoetryForensics = {
       year: '2025-26 | RTC',
       type: 'RTC',
       marks: 1,
-      aiExplanation: "Frost uses 'greedy good-doers' as a cynical oxymoron. These figures—politicians and developers—parade as saviors 'doing good' by relocating the poor into clustered villages. In reality, they are 'greedy,' feeding off the rural population to secure political power, eventually lulling the farmers out of their wits and destroying their traditional way of life."
+      aiExplanation: "The 1-mark justification focuses on 'Political Hypocrisy'. It earns the mark by identifying the oxymoron 'greedy good-doers' as a forensic indicator of self-serving charity. The explanation proves how these benefactors 'soothe' the poor out of their wits to secure political power, justifying the mark for identifying 'Exploitation of ignorance'."
     }
   ],
   distinctions: [

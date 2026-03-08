@@ -73,7 +73,7 @@ export const auntJennifersTigers: PoetryForensics = {
       year: "2023-24",
       type: "Compare",
       marks: 5,
-      aiExplanation: "This comparative long answer demands an insightful synthesis of multiple leading female characters. By analyzing Aunt Jennifer's crushing domestic oppression, Sophie's desperate romantic ambitions, and the raw survival resilience of the women in 'Lost Spring', we see a vast spectrum of female experiences. They each face unique, distinct struggles—marital control, economic poverty, or societal expectations—proving that 'women's issues' are deeply complex and individualistic, requiring empathy tailored to each specific situation."
+      aiExplanation: "This 5-mark justification reflects a 'Diversity of Female Experience' synthesis. Marks are awarded for identifying: 1) Systemic Victimhood (Aunt Jennifer), 2) Escapist Ambition (Sophie), and 3) Raw Resilience (Lost Spring). The explanation proves that women's struggles are multifaceted—ranging from domestic oppression to economic poverty—justifying the mark for 'Comprehensive Analysis'."
     },
     {
       question: "How might the message of the poem, 'Aunt Jennifer’s Tigers' be different, if the following last four lines were omitted?\n\nWhen Aunt is dead, her terrified hands will lie\nStill ringed with ordeals she was mastered by.\nThe tigers in the panel that she made\nWill go on prancing, proud and unafraid.",
@@ -86,7 +86,7 @@ export const auntJennifersTigers: PoetryForensics = {
       year: "2023-24",
       type: "Short",
       marks: 2,
-      aiExplanation: "The final four lines act as the poem's salvation. They introduce the concept of the immortality of art. Even though Aunt Jennifer's physical body is dead and 'mastered' by her marriage ring, her majestic tigers live on, completely untouchable by patriarchal authority. Removing these lines would strip the poem of its only sliver of triumph, leaving a purely tragic narrative of a woman broken and destroyed by domestic oppression."
+      aiExplanation: "The 2-mark justification identifies the 'Vitality of Legacy'. Point I (despair) earns the first mark for identifying the sombre tone if omitted. Point II (creative liberation) earns the second mark by showing how the tigers' 'prancing' is the forensic indicator of triumph over oppression. Both justify the mark for identifying the 'Immortality of Art'."
     },
     {
       question: "Analyse the poems, A Roadside Stand and Aunt Jennifer's Tigers for the theme of inequality and its impact on the bearers.",
@@ -112,7 +112,7 @@ export const auntJennifersTigers: PoetryForensics = {
       year: '2024-25 | RTC',
       type: 'RTC',
       marks: 1,
-      aiExplanation: "The 'massive weight' is entirely metaphorical and psychological. It represents the crushing, oppressive demands of Aunt Jennifer's patriarchal marriage. Years of submission and fear have robbed her of physical vitality and confidence, making even the literal action of pulling a light ivory needle a massive, exhausting struggle."
+      aiExplanation: "The 1-mark award is justified by the 'Psychological Weight'. It earns the mark by identifying the ivory needle's difficulty as a forensic indicator of 'Uncle's authority'. The explanation proves that her physical struggle is a direct manifestation of her internal fear and loss of individual strength."
     },
     {
       question: 'How do the "tigers" contrast with Aunt Jennifer’s personality?',
@@ -125,7 +125,7 @@ export const auntJennifersTigers: PoetryForensics = {
       year: '2025-26 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "The tigers act as Aunt Jennifer's psychological foil. While she is frail, fearful of her husband, and trapped by her wedding band, her embroidered tigers are 'proud and unafraid,' pacing with 'chivalric certainty.' They represent the fierce, unshackled spirit of freedom and autonomy that she secretly desires but can never attain in her own life."
+      aiExplanation: "This 2-mark justification identify the 'Psychological Foil'. Point I (Fearless vs. Fearful) earns the first mark for identifying the contrast in traits. Point II (Eternal vs. Mortal) earns the second mark by showing how the tigers' 'certainty' outlives Aunt’s physical decline. Both justify the mark for 'Thematic Contrast'."
     },
     {
       question: "Read the given extract and answer the questions:\n\nWhen Aunt is dead, her terrified hands will lie\nStill ringed with ordeals she was mastered by.\nThe tigers in the panel that she made\nWill go on prancing, proud and unafraid\n\nI What does the phrase ‘terrified hands’ suggest about Aunt’s life?\nII The tigers’ proud and playful movements reflect ______.\nIII Examine briefly how the tigers in the panel contrast with Aunt’s life experiences.\nIV. The phrase ‘still ringed’ refers to both the literal ______ (shape of the embroidery panel / wedding band on her finger) and the figurative ‘ring’ of constraints and ordeals imposed by her marriage.\nV. If a student were to interpret the word ‘prancing’ in a real-world context, which of the following would it best represent?\na) An employee working under the pressure of deadlines.\nb) A soldier standing firm and ready for battle at the frontier.\nc) A child playing freely in a park, unburdened by responsibilities.\nd) A bird trapped in a cage, longing to be free and fly high.\nVI. What does the poet imply about the art in the line ‘The tigers in the panel that she made will go on prancing’?\na) Art is a timeless expression that outlives its creator, continuing to embody their spirit and desires.\nb) The tigers symbolise Aunt Jennifer’s fleeting empowerment, which will fade over time.\nc) The panel is a temporary escape for Aunt Jennifer...\nd) The permanence of the tigers...",
@@ -141,7 +141,7 @@ export const auntJennifersTigers: PoetryForensics = {
       year: "2025-26",
       type: "RTC",
       marks: 6,
-      aiExplanation: "The final stanza of the poem contrasts the mortality and lifelong subjugation of Aunt Jennifer with the immortality and freedom of her art. Even after death, her hands remain physically 'ringed' by her wedding band, a stark symbol of her patriarchal oppression. However, the tigers she embroidered will eternally continue to 'prance', preserving her repressed inner spirit of fearlessness and freedom."
+      aiExplanation: "This 6-part RTC justification explains the 'Transcendence of Art'. Marks are awarded for identifying: 1) The 'Terrified hands' (oppression), 2) The 'Wedding band' (physical/figurative ring), 3) The 'Child playing freely' (equivalent of prancing), and 4) Art as a 'Timeless expression'. This confirms that while the artist is 'mastered', the art remains 'unafraid'."
     }
   ],
   distinctions: [

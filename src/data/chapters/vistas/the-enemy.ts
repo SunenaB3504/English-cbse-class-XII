@@ -68,7 +68,7 @@ export const theEnemy: ChapterForensics = {
       year: "2023-24",
       type: "Short",
       marks: 2,
-      aiExplanation: "Hana feels morally superior because she prioritizes basic human compassion over blind, prejudiced nationalism. While the servant Yumi is paralyzed by superstitious fear and strict societal rules that demand hostility toward the 'white man,' Hana recognizes the POW as simply a wounded, helpless human being in need of medical care. Her impulsive action to untie the rugs proves she has overcome her own racial bias, elevating her ethically above her terrified servants."
+      aiExplanation: "The 2-mark justification identifies 'Moral Superiority' over 'Prejuidiced Rules'. Point I earns the first mark by showing how Hana prioritizes human compassion over Yumi's fearful nationalism. Point II earns the second mark by explaining her forensic recognition of the POW as a 'wounded helpless man', justifying the mark for 'universalism beyond race'."
     },
     {
       question: "Analyse how the writer has incorporated influences such as religion/humanity, family bonds, and patriotism to good effect in the story, The Enemy.",
@@ -82,7 +82,7 @@ export const theEnemy: ChapterForensics = {
       year: "2024-25",
       type: "Long",
       marks: 5,
-      aiExplanation: "Pearl S. Buck masterfully weaves these three powerful influences to create deep psychological conflict. Sadao's 'patriotism' demands he let the American POW die, while his humanity and medical training demand he save him. 'Family bonds' add friction, as harboring a traitor threatens the safety of his wife and children. Buck uses these opposing forces to demonstrate that pure human empathy can, and should, triumph over blind nationalistic prejudice."
+      aiExplanation: "This 5-mark justification analyzes the 'Intersection of Duties'. Marks are awarded for identifying: 1) The 'Ethical' duty of the doctor, 2) The 'Domestic' support from the family bond (Hana), and 3) The 'Patriotic' pressure from the servants and the General. The explanation proves that pure human empathy forensicly triumphs over state-mandated prejudice."
     },
     {
       question: 'Why did Sadao help the American escape?',
@@ -95,7 +95,7 @@ export const theEnemy: ChapterForensics = {
       year: '2024-25 | Long',
       type: 'Long',
       marks: 5,
-      aiExplanation: "Sadao ultimately helps the American escape because his conscience as a doctor—his humanity—has decisively conquered his patriotism. After operating on Tom and nursing him back to health, Sadao realizes that the 'high walls of prejudice' built by the war are artificial. By fulfilling his medical duty to save a life, he can no longer condemn that same life to death, proving that the common bond of humanity is stronger than national hatred."
+      aiExplanation: "The 5-mark reward is based on the 'Ethical Victory'. Full marks are given for identifying that his medical conscience definitively conquers his patriotism. The explanation proves that the 'high walls of prejudice' are forensicly identified as artificial war-time constructs, justifying the mark for 'Humanity over nationalism'."
     },
     {
       question: 'How did the servants react to the POW?',
@@ -108,7 +108,7 @@ export const theEnemy: ChapterForensics = {
       year: '2025-26 | Short',
       type: 'Short',
       marks: 2,
-      aiExplanation: "The servants embody the intense, blind nationalism and superstition of wartime Japan. They are openly hostile to the American POW, viewing him entirely as the 'enemy.' Furthermore, they are highly critical of Sadao’s 'American education,' believing it has corrupted his loyalty to Japan. Their eventual resignation and departure from the house highlight the intense societal pressure and danger Sadao faced by choosing humanity over patriotism."
+      aiExplanation: "The 2-mark justification identifies 'Hostility' and 'Social Pressure'. Point I (Nationalist pride) earns the first mark for identifying the servants' fear of the 'foreigner'. Point II (Criticism of education) earns the second mark by explaining how they view Sadao's compassion as a 'corrupting' influence, justifying the mark for 'superstitious beliefs'."
     },
     {
       question: "'The Enemy' highlights the conflict between national duty and personal ethics, showcasing how compassion can transcend prejudice. Write a character analysis of Dr. Sadao, exploring this conflict and his ultimate choices.\nYou may begin like this:\nDr. Sadao is a complex character who finds himself torn between his duty as a Japanese citizen and his ethical obligations as a doctor.",
@@ -122,7 +122,7 @@ export const theEnemy: ChapterForensics = {
       year: "2025-26",
       type: "Long",
       marks: 5,
-      aiExplanation: "Dr. Sadao represents the ultimate triumph of universal humanism over localized nationalism. As a Japanese citizen during WWII, his legal and patriotic duty is unequivocally to hand over the American POW to the authorities for execution. Yet, the Hippocratic Oath he took as a doctor creates an agonizing internal war. His profound character evolution occurs when he not only operates on the 'enemy' but actively facilitates his escape to safety. This definitively proves that for Sadao, the sacred duty to preserve human life eclipses all political and racial boundaries."
+      aiExplanation: "This 5-mark character analysis justifies the 'Moral Evolution' of Sadao. Marks are awarded for identifying: 1) The 'Dilemma' (Citizen vs. Doctor), 2) The 'Initial Hesitation' (Patriotism), 3) The 'Clinical Intervention' (Oath), and 4) The 'Active Facilitation' of escape. This proves that for Sadao, the preservation of human life is a forensicly superior duty to political boundaries."
     }
   ],
   distinctions: [

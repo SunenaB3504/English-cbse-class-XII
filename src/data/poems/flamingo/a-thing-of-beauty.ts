@@ -69,7 +69,7 @@ export const aThingOfBeauty: PoetryForensics = {
       year: "2023-24",
       type: "RTC",
       marks: 2,
-      aiExplanation: "The tales of the 'mighty dead'—the heroes and ancestors whose sacrifices are legendary—are compared to an 'endless fountain' because their inspirational power never runs dry. Just like a fountain continuously produces water that sustains physical life, these beautiful, heroic stories continuously pour out of heaven to spiritually nourish and uplift humanity across generations. This reveals Keats's belief that literature and art grant immortality to human greatness."
+      aiExplanation: "The 2-mark justification identifies the 'Spiritual' and 'Eternal' nourishment of art. Point I (Immortality of Art) earns the first mark by showing how heroic tales transcend time. Point II (Constant Inspiration) earns the second mark by explaining the 'fountain' analogy—it continuously pours forth moral beauty from 'heaven’s brink' to sustain humanity across generations, much like 'immortal drink'."
     },
     {
       question: 'How does beauty provide us "a bower quiet"?',
@@ -82,7 +82,7 @@ export const aThingOfBeauty: PoetryForensics = {
       year: 'CBSE 2024',
       type: 'RTC',
       marks: 1,
-      aiExplanation: "In the poem's opening, Keats establishes that a true 'thing of beauty' is not a fleeting pleasure but a permanent refuge. It acts as a protective 'bower'—a shady, peaceful place under trees—where human beings can find restorative sleep and maintain physical and mental health amidst the suffering and darkness of the world."
+      aiExplanation: "The 1-mark award is justified by the 'Restorative' function of beauty. It earns the mark by explaining how a 'bower quiet' (a shady sanctuary) provides 'quiet breathing' and restorative sleep, acting as a forensic therapeutic force that offsets the 'despondence' of the world."
     },
     {
       question: 'What is the "grandeur of the dooms" mentioned by Keats?',
@@ -95,7 +95,7 @@ export const aThingOfBeauty: PoetryForensics = {
       year: 'CBSE Sample Paper 2025',
       type: 'Short',
       marks: 2,
-      aiExplanation: "The 'grandeur of the dooms' specifically refers to the majestic, glorious destinies envisioned for the 'mighty dead'—the historical heroes and martyrs who performed noble deeds. Keats argues that the tales of such self-sacrifice and greatness possess an aesthetic and moral beauty so profound that they act as a continuous source of inspiration for humanity, much like an immortal fountain."
+      aiExplanation: "This 2-mark justification identifies the 'Heroic' and 'Aesthetic' layers. Point I (Heroic Legacies) earns the first mark for identifying the 'grandeur' in the self-sacrifice of our ancestors. Point II (Moral Beauty) earns the second mark by explaining how these 'dooms' (destinies) are transformed into 'lovely tales' that act as an immortal fountain of joy, justifying the mark for 'Inspirational Legacy'."
     },
     {
       question: "Keats suggests that beauty has the power to connect us to the earth despite the struggles of human existence. In what ways does this connection impact our understanding of the 'dark spirits' he describes?",
@@ -108,7 +108,7 @@ export const aThingOfBeauty: PoetryForensics = {
       year: "2025-26",
       type: "Short",
       marks: 2,
-      aiExplanation: "Keats acknowledges that human existence is fundamentally plagued by 'dark spirits'—depression, malice, and suffering. However, he argues that the 'flowery band' of nature's beauty physically and spiritually tethers us to the earth, preventing these dark spirits from causing complete despair. This connection acts as a crucial anchor: it doesn't eliminate suffering, but it makes endurance possible by continuously injecting moments of divine joy and 'quiet breathing' into our struggles."
+      aiExplanation: "This 2-mark justification focuses on 'Alleviating Darkness'. Point I earn the mark for identifying the 'flowery band' as a forensic anchor that tethers us to the earth. Point II earns the second mark by explaining how beauty 'moves away the pall' from our dark spirits, transforming overwhelming burdens into manageable human experiences brightened by joy."
     }
   ],
   distinctions: [

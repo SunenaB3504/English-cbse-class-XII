@@ -62,7 +62,7 @@ export const poetsAndPancakes: ChapterForensics = {
       year: "2023-24",
       type: "Short",
       marks: 2,
-      aiExplanation: "Subbu proves that immense talent alone is rarely enough; the film industry demands a combination of soft skills. His 'loyalty' meant his boss (S.S. Vasan) trusted him explicitly. His 'versatility' meant he could solve any production problem thrown at him without ego. By directing his massive 'creativity' entirely toward his boss's vision rather than his own fame, Subbu became utterly indispensable, unlike the frustrated, ego-driven office boy."
+      aiExplanation: "The 2-mark justification identifies the 'Interpersonal' and 'Functional' value of Subbu. Point I (unwavering loyalty) earns the first mark by showing how identifying with the Boss (S.S. Vasan) creates a trust-based power dynamic. Point II (creative flexibility) earns the second mark by explaining how his 'versatility' makes him a tailored problem-solver for the studio, unlike the ego-driven office boy."
     },
     {
       question: "While both Sophie and Subbu share aspirations for success in their respective fields, they encounter different constraints and demonstrate distinct approaches in pursuing their dreams. Analyse this statement based on Subbu's approach.",
@@ -76,7 +76,7 @@ export const poetsAndPancakes: ChapterForensics = {
       year: "2024-25",
       type: "Compare",
       marks: 5,
-      aiExplanation: "This comparative question demands you contrast how two different characters handle their ambitions. Subbu possesses genuine talent and proves his worth through hard work, adaptability, and unwavering loyalty. Even when faced with the cynical environment of the film industry—and the active hatred of the 'office boy'—Subbu remains cheerful and useful. His dreams are tethered to reality and achieved through 'grace and humility,' making his success tangible, unlike Sophie's pure escapism."
+      aiExplanation: "This 5-mark justification uses a 'Reality vs. Escapism' contrast. Full marks are awarded for identifying: 1) Subbu's 'tangible' success through adaptability, 2) His navigation of 'Office Boy syndrome' jealousy with humility, and 3) The grounded nature of his contributing to a collective vision (Gemini Studios) vs. Sophie's isolated daydreams."
     },
     {
       question: "Why was Stephen Spender's visit to Gemini Studios considered a 'baffling mystery'?",
@@ -89,7 +89,7 @@ export const poetsAndPancakes: ChapterForensics = {
       year: "2024-25 | SQP",
       type: "Short",
       marks: 2,
-      aiExplanation: "The mystery stems from sheer incongruity. Gemini Studios made populist Tamil entertainment; Spender was a highbrow English poet. Furthermore, a massive linguistic barrier (his accent) prevented the staff from understanding a single word he said. It was only later revealed to be a covert Cold War political move by the anti-Communist Boss."
+      aiExplanation: "The 2-mark award is justified by the 'Linguistic' and 'Ideological' mismatches. Point I (unintelligible accent) earns the mark for the immediate barrier to communication. Point II (hidden political agenda) earns the second mark by explaining the incongruity of an avant-garde English poet speaking to a populist Tamil film studio, later revealed as a Cold War anti-Communist maneuver."
     },
     {
       question: "Analyze the character of Kothamangalam Subbu as a 'No. 2' in Gemini Studios.",
@@ -102,7 +102,7 @@ export const poetsAndPancakes: ChapterForensics = {
       year: "2025-26 | 5 Marks",
       type: "Long",
       marks: 5,
-      aiExplanation: "Subbu represents the ultimate 'company man' in a creative industry. His greatest strength is his endless fountain of creative alternatives and his unshakeable cheerfulness when around the Boss. While his versatility made him indispensable to the workings of Gemini, this exact proximity to power made the lower-level staff, like the office boy, despise him as a sycophant."
+      aiExplanation: "This 5-mark justification analyzes the 'Archetype' of the No. 2. Marks are awarded for detailing: 1) His 'multifaceted' creative output (acting/writing), 2) His 'Tailor-made' loyalty to institutional stability, and 3) The 'sycophancy' perceived by those below him (Office Boy) as a necessary survival mechanism in a hierarchy-heavy industry."
     }
   ],
   distinctions: [

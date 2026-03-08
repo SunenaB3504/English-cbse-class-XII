@@ -54,7 +54,7 @@ export const keepingQuiet: PoetryForensics = {
       year: "2023-24",
       type: "Long",
       marks: 5,
-      aiExplanation: "This creative question requires merging the philosophies of two distinct poems. Neruda's core philosophy entirely revolves around pausing all rushed, emotional actions in favor of silent introspection. Therefore, Neruda would advise Frost not to succumb to his rash, emotionally overwhelmed impulse ('putting these people at one stroke out of their pain'). Instead, he would urge Frost to stop, count to twelve, and use that total stillness to find a deeper, more peaceful and objective understanding of the rural poor's suffering."
+      aiExplanation: "The 5-mark justification reflects a 'Philosophical Synthesis' between Neruda and Frost. Full marks are awarded for identifying: 1) The need for 'Objective Understanding' through stillness, 2) The 'Disconnect' from rash, destructive impulses (putting people out of pain), and 3) The 'Connection' to shared humanity. The explanation proves that silence acts as a filter for 'rash impulse', fostering a calm foundation for action."
     },
     {
       question: "Read the extract and answer the question:\nThose who prepare green wars, wars with gas, wars with fire, victory with no survivors, would put on clean clothes and walk about with their brothers in the shade, doing nothing.\n\nHow can the message in the excerpt, about the outcome of wars, be applied to promote peace?",
@@ -67,7 +67,7 @@ export const keepingQuiet: PoetryForensics = {
       year: "2024-25",
       type: "RTC",
       marks: 1,
-      aiExplanation: "The poet’s vivid description of a 'victory with no survivors' strips away the glory of war, revealing it as an exercise in mutual annihilation. By fully acknowledging that modern warfare destroys both the victor and the vanquished, world leaders and communities can use this grim realization to actively prioritize dialogue, diplomacy, and non-violent resolutions over aggression."
+      aiExplanation: "The 1-mark award is based on the 'Nihilism of War'. Describing 'victory with no survivors' is a forensic indicator of mutual annihilation. It earns the mark by showing how this grim realization forces a shift from aggression to 'sustainable solutions' like dialogue and diplomacy, promoting peace through the logic of survival."
     },
     {
       question: "What is the 'exotic moment' the poet refers to?",
@@ -80,7 +80,7 @@ export const keepingQuiet: PoetryForensics = {
       year: "2024-25 | Short",
       type: "Short",
       marks: 2,
-      aiExplanation: "The 'exotic moment' is the proposed period of global silence. Neruda calls it 'exotic' because it is completely alien to the modern human experience, which is heavily characterized by the constant roar of machinery, engines, and mindless rushing. This unprecedented pause would strip away our artificial barriers, plunging humanity into a 'sudden strangeness' of unbroken spiritual unity."
+      aiExplanation: "This 2-mark justification identifies the 'Acoustic' and 'Spiritual' layers of the exotic moment. Point I (absence of noise/engines) earns the first mark as a forensic reason for the 'break' from routine. Point II (sudden strangeness) earns the second mark by identifying the resulting collective unity that transcends modern chaos."
     },
     {
       question: "How does the Earth teach us that there is life under apparent stillness?",
@@ -93,7 +93,7 @@ export const keepingQuiet: PoetryForensics = {
       year: "2025-26 | SQP",
       type: "RTC",
       marks: 1,
-      aiExplanation: "Neruda uses the powerful metaphor of the Earth surviving winter. To the naked eye, a winter landscape appears frozen, dead, and totally inactive. However, beneath the surface seeds are resting and preparing to burst into life during spring. The poet uses this natural phenomenon to prove that true stillness is not 'death' or useless stagnation, but rather a vital period of silent preparation and introspection."
+      aiExplanation: "The 1-mark justification uses the 'Seasonal Metaphor' for productivity. It earns the mark by distinguishing between 'total inactivity' (death) and 'apparent stillness' (winter). The explanation prove that dormancy is actually a vital period of internal preparation for rebirth in spring, mirroring the effect of human silence."
     },
     {
       question: "What does the reference to fishermen not harming whales and the man gathering salt looking at his hurt hands signify in the poem?",
@@ -107,7 +107,7 @@ export const keepingQuiet: PoetryForensics = {
       year: "2025-26",
       type: "Short",
       marks: 2,
-      aiExplanation: "These two powerful images illustrate the dual nature of human exploitation: external and internal. The fishermen harming whales represents humanity's outward destruction of nature for profit. The salt gatherer with hurt hands represents our internal self-destruction; humans labor so mindlessly for survival and wealth that we ignore our own pain. A moment of universal stillness forces a sudden halt to both forms of exploitation, allowing for crucial self-reflection."
+      aiExplanation: "This 2-mark justification focuses on 'External vs. Internal' harm. Point I (fishermen/whales) earns the first mark for identifying the cessation of environmental exploitation. Point II (salt gatherer/hurt hands) earns the second mark by identifying the end of self-inflicted labor pain. Together, they justify the mark for illustrating the 'pause in destructive activities'."
     }
   ],
   rhymeScheme: 'Free Verse',
