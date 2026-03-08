@@ -4,7 +4,8 @@ import { ChevronLeft, FileText, Download, Zap, BookOpen, PenTool, Layout } from 
 interface SQPData {
     year: string;
     title: string;
-    fullText: string;
+    questionPaper: string;
+    markingScheme: string;
 }
 
 interface SQPViewProps {
@@ -14,6 +15,7 @@ interface SQPViewProps {
 
 export const SQPView: React.FC<SQPViewProps> = ({ sqps, onBack }) => {
     const [activeYear, setActiveYear] = useState(sqps[0].year);
+    const [viewMode, setViewMode] = useState<'paper' | 'scheme'>('paper');
     const activeSQP = sqps.find(s => s.year === activeYear) || sqps[0];
 
     return (
@@ -31,22 +33,45 @@ export const SQPView: React.FC<SQPViewProps> = ({ sqps, onBack }) => {
                         <Layout className="text-amber-500 h-10 w-10" />
                         SQP <span className="text-royal-600">Board Vault</span>
                     </h2>
-                    <p className="text-slate-500 font-medium mt-2">Accessing authentic CBSE Sample Question Papers (2023-2026)</p>
+                    <p className="text-slate-500 font-medium mt-2">Accessing authentic CBSE Sample Question Papers and Solutions</p>
                 </div>
 
-                <div className="flex bg-slate-200 p-1 rounded-2xl shadow-inner">
-                    {sqps.map(sqp => (
-                        <button
-                            key={sqp.year}
-                            onClick={() => setActiveYear(sqp.year)}
-                            className={`px-6 py-2.5 rounded-xl font-black text-xs uppercase tracking-widest transition-all ${activeYear === sqp.year
+                <div className="flex flex-col gap-4 items-end">
+                    <div className="flex bg-slate-200 p-1 rounded-2xl shadow-inner">
+                        {sqps.map(sqp => (
+                            <button
+                                key={sqp.year}
+                                onClick={() => setActiveYear(sqp.year)}
+                                className={`px-6 py-2.5 rounded-xl font-black text-xs uppercase tracking-widest transition-all ${activeYear === sqp.year
                                     ? 'bg-white text-royal-600 shadow-md scale-105'
                                     : 'text-slate-500 hover:text-slate-700'
+                                    }`}
+                            >
+                                {sqp.year}
+                            </button>
+                        ))}
+                    </div>
+
+                    <div className="flex bg-royal-50 p-1 rounded-xl border border-royal-100">
+                        <button
+                            onClick={() => setViewMode('paper')}
+                            className={`px-4 py-1.5 rounded-lg text-[10px] font-black uppercase tracking-widest transition-all ${viewMode === 'paper'
+                                ? 'bg-royal-600 text-white shadow-lg'
+                                : 'text-royal-600 hover:bg-royal-100'
                                 }`}
                         >
-                            {sqp.year}
+                            Question Paper
                         </button>
-                    ))}
+                        <button
+                            onClick={() => setViewMode('scheme')}
+                            className={`px-4 py-1.5 rounded-lg text-[10px] font-black uppercase tracking-widest transition-all ${viewMode === 'scheme'
+                                ? 'bg-royal-600 text-white shadow-lg'
+                                : 'text-royal-600 hover:bg-royal-100'
+                                }`}
+                        >
+                            Marking Scheme
+                        </button>
+                    </div>
                 </div>
             </div>
 
@@ -75,12 +100,12 @@ export const SQPView: React.FC<SQPViewProps> = ({ sqps, onBack }) => {
                 {/* Paper Content */}
                 <div className="lg:col-span-3">
                     <div className="bg-white rounded-[2.5rem] border border-slate-200 shadow-xl overflow-hidden min-h-[800px] flex flex-col">
-                        <div className="bg-slate-900 p-8 text-white flex justify-between items-center">
+                        <div className={`${viewMode === 'paper' ? 'bg-slate-900' : 'bg-emerald-900'} p-8 text-white flex justify-between items-center transition-colors duration-500`}>
                             <div>
                                 <div className="flex items-center gap-2 text-amber-400 text-[10px] font-black uppercase tracking-widest mb-2">
-                                    <Zap size={12} /> Live Forensic Paper
+                                    <Zap size={12} /> {viewMode === 'paper' ? 'Live Forensic Paper' : 'Official Marking Scheme'}
                                 </div>
-                                <h4 className="text-2xl font-black">{activeSQP.title}</h4>
+                                <h4 className="text-2xl font-black">{activeSQP.title} {viewMode === 'scheme' && '(Answers)'}</h4>
                             </div>
                             <div className="text-right">
                                 <p className="text-slate-400 text-xs font-bold uppercase tracking-widest">Max Marks</p>
@@ -90,7 +115,7 @@ export const SQPView: React.FC<SQPViewProps> = ({ sqps, onBack }) => {
 
                         <div className="p-12 prose prose-slate max-w-none">
                             <pre className="whitespace-pre-wrap font-mono text-sm leading-relaxed text-slate-700 bg-slate-50 p-8 rounded-3xl border border-slate-100">
-                                {activeSQP.fullText}
+                                {viewMode === 'paper' ? activeSQP.questionPaper : activeSQP.markingScheme}
                             </pre>
                         </div>
                     </div>
