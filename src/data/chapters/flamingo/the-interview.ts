@@ -87,7 +87,7 @@ export const theInterview: ChapterForensics = {
       year: "2025-26 | SQP",
       type: "Long",
       marks: 5,
-      aiExplanation: "Most appropriate answer: Some celebrities despise interviews as an unwarranted intrusion or a 'vile' crime that diminishes or 'wounds' their personal identity and privacy. Forensic Justification: The 5-mark justification reflects a 'Violation of Identity' analysis. Full marks are awarded for detailing: 1) The 'Wounding' effect (Naipaul), 2) The 'Unwarranted Intrusion' (Carroll), and 3) The 'Criminal' association (Kipling)."
+      aiExplanation: "Most appropriate answer: Many celebrities despise being interviewed because they perceive it as an unwarranted intrusion into their private lives and a violation of their personal identity. For instance, V.S. Naipaul famously believed that some people are 'wounded' by interviews and lose a part of themselves in the process. Similarly, Lewis Carroll had a 'horror of the interviewer' to maintain his privacy, while Rudyard Kipling characterized the practice as 'immoral,' 'a crime,' and an 'assault' that no respectable person would commit or submit to. These diverse perspectives highlight a common fear among high-profile individuals that the interview process is a predatory act that diminishes their sense of self and exploits their private vulnerabilities. Forensic Justification: The 5-mark justification reflects a 'Violation of Identity' analysis. Full marks are awarded for detailing: 1) The 'Wounding' effect (Naipaul), 2) The 'Unwarranted Intrusion' (Carroll), and 3) The 'Criminal' association (Kipling)."
     },
     {
       question: "How does the reference to 'interstices' enhance our understanding of Umberto Eco's perspective on writing and creativity?",

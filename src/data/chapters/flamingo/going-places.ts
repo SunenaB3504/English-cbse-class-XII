@@ -70,7 +70,7 @@ export const goingPlaces: ChapterForensics = {
       year: "2024-25",
       type: "Compare",
       marks: 5,
-      aiExplanation: "Most appropriate answer: Sophie's approach is escapist and persistent, driven by grand aspirations that are disconnected from her socio-economic reality. Forensic Justification: This 5-mark justification uses a 'Coping Mechanism' analysis. Full marks are awarded for identifying: 1) Sophie's 'disconnected' aspirations, 2) The socio-economic 'constraints' (father's skepticism/poverty), and 3) The 'internal persistence' of her fantasy as an escapist refuge."
+      aiExplanation: "Most appropriate answer: Sophie's approach to her aspirations is primarily escapist, as she uses grand, unrealistic dreams of owning a boutique or becoming a designer to buffer the harshness of her working-class reality. Unlike the more pragmatic figures around her, she persists in an elaborate mental fantasy that is disconnected from her actual socio-economic constraints—such as her father's skepticism and her inevitable future in a factory. This internal persistence acts as a coping mechanism, where her creativity is entirely focused on maintaining a refuge from the crushing monotony of her life. While figures like Subbu adapt to succeed in the real world, Sophie's 'persistence' is a retreat into a world where her limitations do not exist. Forensic Justification: This 5-mark justification uses a 'Coping Mechanism' analysis. Full marks are awarded for identifying: 1) Sophie's 'disconnected' aspirations, 2) The socio-economic 'constraints' (father's skepticism/poverty), and 3) The 'internal persistence' of her fantasy as an escapist refuge."
     },
     {
       question: "Contrast the characters of Sophie and Jansie.",
@@ -83,7 +83,7 @@ export const goingPlaces: ChapterForensics = {
       year: "2024-25 | 5 Marks",
       type: "Long",
       marks: 5,
-      aiExplanation: "Most appropriate answer: Sophie is an escapist dreamer who refuses her fate, while Jansie is a pragmatic realist who accepts her 'earmarked' future in the factory. Forensic Justification: This 5-mark justification reflects a 'Philosophical Contrast'. Full marks are awarded for contrasting Sophie's 'individualism' with Jansie's 'pragmatic realism', illustrating the struggle of adolescence under social entrapment."
+      aiExplanation: "Most appropriate answer: Sophie and Jansie represent the fundamental conflict between adolescent escapism and adult pragmatism. Sophie is an inveterate dreamer who refuses to accept the limitations of her socio-economic status, preferring to live in a world of high-fashion, boutiques, and encounters with celebrities like Danny Casey. In sharp contrast, Jansie is a 'realist' who has accepted her earmarked future in a local biscuit factory. While Sophie is secretive and individualistic, cherishing her private fantasies, Jansie is community-grounded and understands that such dreams are 'wild' and unattainable for girls of their background. This contrast highlights the dual nature of adolescence: the desperate hunger for a different life versus the sobering acceptance of one's social destiny. Forensic Justification: This 5-mark justification reflects a 'Philosophical Contrast'. Full marks are awarded for contrasting Sophie's 'individualism' with Jansie's 'pragmatic realism', illustrating the struggle of adolescence under social entrapment."
     },
     {
       question: "Why did Sophie choose Geoff to tell her secret about Danny Casey?",

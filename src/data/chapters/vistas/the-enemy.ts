@@ -82,7 +82,7 @@ export const theEnemy: ChapterForensics = {
       year: "2024-25",
       type: "Long",
       marks: 5,
-      aiExplanation: "Most appropriate answer: The story interweaves influences by showing medical ethics overriding national hate, family bonds providing domestic support (Hana), and patriotism creating external conflict (servants, General). Forensic Justification: This 5-mark justification analyzes the 'Intersection of Duties' (Ethical, Domestic, and Patriotic). The explanation proves that pure human empathy forensicly triumphs over state-mandated prejudice."
+      aiExplanation: "Most appropriate answer: The story interweaves religious, humanitarian, and patriotic influences by showing Sadao's medical ethics overriding national hatred, and family bonds providing critical domestic support through Hana's resilience. While the servants and the Japanese General represent the external 'patriotic' pressures of wartime expectations, Sadao's training as a doctor creates a profound moral struggle that pits professional duty against state-mandated prejudice. Ultimately, the narrative demonstrates that pure human empathy, catalyzed by a lifelong commitment to the Hippocratic oath, forensicly triumphs over racial bias and nationalism, proving that individuals can transcend political boundaries even in the height of war. Forensic Justification: This 5-mark justification analyzes the 'Intersection of Duties' (Ethical, Domestic, and Patriotic). The explanation proves that pure human empathy forensicly triumphs over state-mandated prejudice."
     },
     {
       question: 'Why did Sadao help the American escape?',
@@ -95,7 +95,7 @@ export const theEnemy: ChapterForensics = {
       year: '2024-25 | Long',
       type: 'Long',
       marks: 5,
-      aiExplanation: "Most appropriate answer: Sadao helped the American escape because his medical conscience and sense of humanity definitively conquered his patriotic prejudice, fueled by the General's inaction. Forensic Justification: The 5-mark reward is based on the 'Ethical Victory'. Points mark how his conscience conquers patriotism and proves 'high walls of prejudice' are artificial war-time constructs."
+      aiExplanation: "Most appropriate answer: Sadao helped the American escape because his medical conscience and sense of universal humanity definitively conquered his patriotic prejudice, a transition fueled by the General's self-centered inaction. Having successfully healed the man, Sadao realized he could not condemn his own patient to death, as the 'high walls of prejudice' are merely artificial constructs of war. By providing a boat, food, and precise instructions for escape, he fulfilled both his ethical duty and his human instinct to protect life. This decision represents a victory for individual conscience over nationalistic decree, illustrating that for Sadao, the survival of the patient was the ultimate fulfillment of his identity as a surgeon. Forensic Justification: The 5-mark reward is based on the 'Ethical Victory'. Points mark how his conscience conquers patriotism and proves 'high walls of prejudice' are artificial war-time constructs."
     },
     {
       question: 'How did the servants react to the POW?',
@@ -122,7 +122,7 @@ export const theEnemy: ChapterForensics = {
       year: "2025-26",
       type: "Long",
       marks: 5,
-      aiExplanation: "Most appropriate answer: Dr. Sadao's character evolves from initial patriotic hesitation to a full ethical commitment where his surgeon's training and compassion outweigh national prejudice. Forensic Justification: This 5-mark analysis justifies the 'Moral Evolution' of Sadao. Marks are for identifying: 1) The 'Dilemma', 2) 'Initial Hesitation' (Patriotism), 3) 'Clinical Intervention' (Oath), and 4) Facilitating the escape."
+      aiExplanation: "Most appropriate answer: Dr. Sadao's character represents a profound moral evolution from initial patriotic hesitation to a final, full ethical commitment where his professional oath and personal compassion outweigh national prejudice. At the start of the war, he is torn between his status as a Japanese citizen and his duty as a surgeon, but his clinical training compels him to intervene and save the wounded POW. Choosing to facilitate Tom's escape serves as the final proof that his identity as a healer transcends political boundaries. Ultimately, Sadao's journey demonstrates that individual conscience and common humanity are forensicly superior to state-mandated hatred, making him a symbol of the triumph of human life over political conflict. Forensic Justification: This 5-mark analysis justifies the 'Moral Evolution' of Sadao. Marks are for identifying: 1) The 'Dilemma', 2) 'Initial Hesitation' (Patriotism), 3) 'Clinical Intervention' (Oath), and 4) Facilitating the escape."
     }
   ],
   distinctions: [

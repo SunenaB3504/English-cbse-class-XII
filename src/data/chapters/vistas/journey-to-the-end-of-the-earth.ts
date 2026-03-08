@@ -114,7 +114,7 @@ export const journeyToTheEndOfTheEarth: ChapterForensics = {
       year: "2025-26",
       type: "Long",
       marks: 5,
-      aiExplanation: "Most appropriate answer: The visit offered a sensory shock and an educational epiphany about Gondwana, leading to a profound understanding of climate change and the urgent moral responsibility to save our future. Forensic Justification: This 5-mark blog post justification reflects an 'Environmental Awakening'. Marks are awarded for identifying: 1) 'Sensory Shock', 2) 'Educational Insight', 3) 'First-hand awareness' of climate change, and 4) 'Moral Responsibility' of humanity."
+      aiExplanation: "Most appropriate answer: Tishani Doshi's blog post would reflect the total 'sensory shock' of Antarctica—from its blinding whiteness to its profound silence—which forced an immediate educational epiphany about the Earth's fragility. Standing on a meter-thick ice sheet, she realized that Gondwana's legacy isn't just ancient history; it is the foundation of our current climate crisis. The experience transformed intellectual theory into a terrifyingly personal understanding of global warming, especially when witnessing ice shelves collapsing in real-time. This journey underscores our urgent moral responsibility to mind the 'small things' like phytoplankton to save the 'big things' like our planet's life-support systems, highlighting the need for immediate environmental stewardship. Forensic Justification: This 5-mark blog post justification reflects an 'Environmental Awakening'. Marks are awarded for identifying: 1) 'Sensory Shock', 2) 'Educational Insight', 3) 'First-hand awareness' of climate change, and 4) 'Moral Responsibility' of humanity."
     }
   ],
   distinctions: [

@@ -76,7 +76,7 @@ export const poetsAndPancakes: ChapterForensics = {
       year: "2024-25",
       type: "Compare",
       marks: 5,
-      aiExplanation: "Most appropriate answer: Subbu's approach was rooted in adaptability and humility, allowing him to successfully navigate the industry's challenges and contribute to a collective vision. Forensic Justification: This 5-mark justification uses a 'Reality vs. Escapism' contrast. Full marks are awarded for identifying: 1) Subbu's 'tangible' success through adaptability, 2) His navigation of 'office boy' jealousy with humility, and 3) His grounded contribution to the studio's collective vision."
+      aiExplanation: "Most appropriate answer: Subbu's approach to success is rooted in tangible adaptability and professional humility, which allows him to navigate the complexities of the film industry effectively. Unlike Sophie, who retreats into an escapist fantasy to cope with her socio-economic reality, Subbu actively shapes his reality by becoming an irreplaceable asset to Gemini Studios. He responds to the jealousy of the 'office boy' and other critics with grace, prioritizing his loyalty to the Boss and his commitment to the studio's collective vision. His success is not a dream but a direct result of his willingness to fit any role required—be it poet, actor, or creative problem-solver—proving that his versatility is his greatest strength in achieving professional stability. Forensic Justification: This 5-mark justification uses a 'Reality vs. Escapism' contrast. Full marks are awarded for identifying: 1) Subbu's 'tangible' success through adaptability, 2) His navigation of 'office boy' jealousy with humility, and 3) His grounded contribution to the studio's collective vision."
     },
     {
       question: "Why was Stephen Spender's visit to Gemini Studios considered a 'baffling mystery'?",
@@ -102,7 +102,7 @@ export const poetsAndPancakes: ChapterForensics = {
       year: "2025-26 | 5 Marks",
       type: "Long",
       marks: 5,
-      aiExplanation: "Most appropriate answer: As the 'No. 2', Subbu was an irreplaceable asset whose versatility, loyalty to the Boss, and creative problem-solving made him a central figure at the studio. Forensic Justification: This 5-mark justification analyzes the 'Archetype' of the No. 2. Marks are awarded for detailing: 1) His 'multifaceted' creative output, 2) His loyalty to institutional stability, and 3) The 'sycophancy' seen by others as a necessary survival mechanism."
+      aiExplanation: "Most appropriate answer: As the 'No. 2', Subbu was an irreplaceable asset whose versatility, loyalty to the Boss, and creative problem-solving made him a central figure at the studio. He was 'tailor-made' for the film industry, capable of offering endless alternatives for production challenges and solving problems with an optimistic spirit. While his proximity to power made him a target of perceived sycophancy by those like the office boy, his character was also marked by a genuine charitable nature and a deep sense of responsibility toward his extended family and the studio. His multifaceted persona—as a poet, a versatile actor, and a loyal strategist—made him the most influential figure at the studio, second only to the Boss himself. Forensic Justification: This 5-mark justification analyzes the 'Archetype' of the No. 2. Marks are awarded for detailing: 1) His 'multifaceted' creative output, 2) His loyalty to institutional stability, and 3) The 'sycophancy' seen by others as a necessary survival mechanism."
     }
   ],
   distinctions: [
