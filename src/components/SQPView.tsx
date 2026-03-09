@@ -146,7 +146,7 @@ const ForensicCard = ({ question, isExpanded, onToggle }: { question: SQPQuestio
                         <div className="flex items-center gap-2 text-amber-700 text-[10px] font-black uppercase tracking-[0.2em] mb-4">
                             <Zap size={12} /> AI Forensic Breakdown
                         </div>
-                        <p className="text-amber-900 italic leading-relaxed">
+                        <p className="text-amber-900 italic leading-relaxed whitespace-pre-wrap">
                             {question.aiExplanation}
                         </p>
                     </div>
