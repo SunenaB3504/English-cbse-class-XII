@@ -250,14 +250,14 @@ export function ForensicView({ content, onBack }: Props) {
                     <span className="bg-emerald-600 text-white px-3 py-1 rounded text-[10px] font-black uppercase tracking-widest shadow-lg">{trigger.marks} Mark{trigger.marks > 1 ? 's' : ''}</span>
                     <span className="text-slate-500 text-xs font-mono font-bold tracking-widest uppercase">{trigger.type} Analysis</span>
                   </div>
-                  <p className="text-white font-normal mb-6 text-xl leading-tight tracking-tight">Q: {trigger.question}</p>
+                  <p className="text-white font-normal mb-6 text-xl leading-tight tracking-tight whitespace-pre-wrap">Q: {trigger.question}</p>
 
                   <div className="flex flex-col gap-4">
                     <div className="bg-slate-800/80 p-6 rounded-2xl border border-slate-700/50 backdrop-blur-sm">
                       <p className="text-emerald-400 text-base italic font-bold leading-relaxed mb-4">
                         "CBSE Marking Scheme (Verbatim):"
                       </p>
-                      <p className="text-slate-200 text-sm leading-relaxed mb-4">{trigger.answerVerbatim}</p>
+                      <p className="text-slate-200 text-sm leading-relaxed mb-4 whitespace-pre-wrap">{trigger.answerVerbatim}</p>
                       <div className="flex flex-wrap gap-3">
                         {trigger.markingSchemePoints.map((p, idx) => (
                           <span key={idx} className="px-4 py-2 bg-slate-700/50 text-emerald-200 text-[10px] font-black rounded-lg border border-emerald-900/50 uppercase tracking-widest">
