@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useTransition } from 'react';
 import { ChapterForensics, PoetryForensics } from '../types';
 import { Book, Shield, Zap, Info, ArrowLeft, Terminal, FileText, User, MapPin, Feather, Target, Split, Music, Sparkles, Volume2, VolumeX } from 'lucide-react';
 
@@ -10,6 +10,7 @@ interface Props {
 export function ForensicView({ content, onBack }: Props) {
   const isPoetry = 'stanzaBreakdown' in content;
   const [isSpeaking, setIsSpeaking] = useState(false);
+  const [isPending, startTransition] = useTransition();
 
   useEffect(() => {
     return () => {
@@ -20,17 +21,28 @@ export function ForensicView({ content, onBack }: Props) {
   const handleSpeak = () => {
     if (isSpeaking) {
       window.speechSynthesis.cancel();
-      setIsSpeaking(false);
+      startTransition(() => {
+        setIsSpeaking(false);
+      });
     } else {
       const utterance = new SpeechSynthesisUtterance(content.summary);
-      utterance.onend = () => setIsSpeaking(false);
+      utterance.onend = () => {
+        startTransition(() => {
+          setIsSpeaking(false);
+        });
+      };
       window.speechSynthesis.speak(utterance);
-      setIsSpeaking(true);
+      startTransition(() => {
+        setIsSpeaking(true);
+      });
     }
   };
 
   return (
     <div className="animate-in fade-in duration-500 pb-20">
+      <title>{`${content.title} | Literature Forensics`}</title>
+      <meta name="description" content={content.summary} />
+      <meta name="keywords" content={`${content.themes.join(', ')}, ${content.author}, CBSE English XII`} />
       <button
         onClick={onBack}
         className="mb-8 flex items-center gap-2 text-royal-600 font-semibold hover:text-royal-800 transition-colors group"

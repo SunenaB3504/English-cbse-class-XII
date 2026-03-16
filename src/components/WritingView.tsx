@@ -1,6 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useTransition } from 'react';
 import { WritingSkeleton } from '../types';
 import { Layout, PenTool, Sparkles, ArrowLeft, ArrowRight, ShieldCheck, Volume2, VolumeX } from 'lucide-react';
+import { SuncubeWritingBox } from './SuncubeWritingBox';
 
 interface Props {
   skeleton: WritingSkeleton;
@@ -9,6 +10,7 @@ interface Props {
 
 export function WritingView({ skeleton, onBack }: Props) {
   const [speakingIdx, setSpeakingIdx] = useState<number | null>(null);
+  const [isPending, startTransition] = useTransition();
 
   useEffect(() => {
     return () => {
@@ -19,18 +21,28 @@ export function WritingView({ skeleton, onBack }: Props) {
   const handleSpeak = (text: string, idx: number) => {
     if (speakingIdx === idx) {
       window.speechSynthesis.cancel();
-      setSpeakingIdx(null);
+      startTransition(() => {
+        setSpeakingIdx(null);
+      });
     } else {
       window.speechSynthesis.cancel();
       const utterance = new SpeechSynthesisUtterance(text);
-      utterance.onend = () => setSpeakingIdx(null);
+      utterance.onend = () => {
+        startTransition(() => {
+          setSpeakingIdx(null);
+        });
+      };
       window.speechSynthesis.speak(utterance);
-      setSpeakingIdx(idx);
+      startTransition(() => {
+        setSpeakingIdx(idx);
+      });
     }
   };
 
   return (
     <div className="animate-in fade-in slide-in-from-bottom-4 duration-500 pb-20">
+      <title>{`${skeleton.id.replace('-', ' ').toUpperCase()} | Writing Authority`}</title>
+      <meta name="description" content={`Standard format and examples for ${skeleton.id.replace('-', ' ')}`} />
       <button
         onClick={onBack}
         className="mb-8 flex items-center gap-2 text-royal-600 font-semibold hover:text-royal-800 transition-colors group"
@@ -79,25 +91,34 @@ export function WritingView({ skeleton, onBack }: Props) {
                     {idx + 1}
                   </div>
                   <div className="space-y-4">
-                    <div className="flex justify-between items-center">
-                      <h3 className="text-xl font-black text-royal-900 uppercase tracking-tight">{step.section}</h3>
-                      <button
-                        onClick={() => handleSpeak(`${step.section}. ${step.content}`, idx)}
-                        className={`p-2 rounded-xl transition-all ${speakingIdx === idx
-                            ? 'bg-royal-100 text-royal-600 ring-2 ring-royal-200 scale-110'
-                            : 'text-slate-400 hover:text-royal-600 hover:bg-royal-50 opacity-0 group-hover:opacity-100'
-                          }`}
-                        title="Narration Hearing"
-                      >
-                        {speakingIdx === idx ? <VolumeX size={18} /> : <Volume2 size={18} />}
-                      </button>
-                    </div>
-                    <p className={`text-slate-600 font-medium leading-relaxed bg-slate-50 p-4 rounded-2xl italic ${step.section.startsWith('Example: ')
-                        ? 'border-2 border-slate-800 shadow-md whitespace-pre-wrap font-mono text-sm'
-                        : 'border border-slate-100'
-                      }`}>
-                      {step.content}
-                    </p>
+                    {step.section.startsWith('Example: ') ? (
+                      <SuncubeWritingBox
+                        type="Example"
+                        title={step.section}
+                        content={step.content}
+                        isSpeaking={speakingIdx === idx}
+                        onSpeak={() => handleSpeak(`${step.section}. ${step.content}`, idx)}
+                      />
+                    ) : (
+                      <>
+                        <div className="flex justify-between items-center">
+                          <h3 className="text-xl font-black text-royal-900 uppercase tracking-tight">{step.section}</h3>
+                          <button
+                            onClick={() => handleSpeak(`${step.section}. ${step.content}`, idx)}
+                            className={`p-2 rounded-xl transition-all ${speakingIdx === idx
+                                ? 'bg-royal-100 text-royal-600 ring-2 ring-royal-200 scale-110'
+                                : 'text-slate-400 hover:text-royal-600 hover:bg-royal-50 opacity-0 group-hover:opacity-100'
+                              }`}
+                            title="Narration Hearing"
+                          >
+                            {speakingIdx === idx ? <VolumeX size={18} /> : <Volume2 size={18} />}
+                          </button>
+                        </div>
+                        <p className="text-slate-600 font-medium leading-relaxed bg-slate-50 p-4 rounded-2xl italic border border-slate-100">
+                          {step.content}
+                        </p>
+                      </>
+                    )}
                     {step.keyPhrases.length > 0 && (
                       <div className="flex flex-wrap gap-2">
                         {step.keyPhrases.map((phrase, pIdx) => (
@@ -114,6 +135,8 @@ export function WritingView({ skeleton, onBack }: Props) {
             </div>
           </section>
         </div>
+
+        {/* Vocabulary Upgrades */}
 
         {/* Vocabulary Upgrades */}
         <div className="space-y-8">
